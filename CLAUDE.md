@@ -97,22 +97,47 @@ web/review-miner.jsx              # browser-based miner (Claude.ai artifact vers
 
 ## State as of 2026-07-19
 
-- `data/taxonomy.json` is seeded with a shakedown run: the 23 most recent
-  langfuse/langfuse issues, classified by hand. Top clusters: self-hosted
-  deployment breakage (4), experiments & evals workflow bugs (4), trace
-  viewer renders blank (2), token/cost metrics wrong (2).
-- Early insight: Langfuse's loudest recent pain is its own reliability, and
-  "the trace viewer shows me nothing" appears twice in 23 issues — for a
-  debugger product, trustworthy rendering of every trace IS the product.
-- Issue trackers skew toward bugs; the wished_existed side lives in GitHub
-  Discussions, Reddit (r/LangChain, r/LLMDevs), G2, and Discord. Those
-  sources still need collection.
+- Seed: 23 most recent langfuse/langfuse issues, classified by hand.
+- **Hacker News pass complete** (same day): `pipeline/fetch_hn.py` pulled
+  5,710 items (stories + comments + full trees of on-topic threads) via the
+  Algolia API; 5,168 survived noise pruning and were classified by parallel
+  Claude Code agents against the methodology rules, consolidated via a
+  synonym pass, and merged. Taxonomy now holds **861 pieces across 254
+  categories from 5,191 processed items**.
+- Top themes after the HN pass: eval trust issues (33), traces don't
+  explain failures (30), insufficient visibility into agent actions (29),
+  silent failure without validation (25), DIY custom agent observability
+  stack (30 as use_case) + DIY vs buy debate (17 as pain) — a strong
+  signal that practitioners distrust or route around the incumbents.
+- Cross-source corroboration has begun: silent failures, token/cost
+  metrics wrong, SDK wrapper gaps, self-hosted breakage, and experiments &
+  evals workflow bugs each carry counts from BOTH langfuse issues and HN.
+- PRD-relevant clusters: replay/audit (record & replay gaps 8 + agent
+  session replay tooling 5 + no audit trail for post-mortems 5 +
+  auditable agent action trail 4), wished "agent reasoning & decision
+  inspection" (12), and "time-travel replay & trajectory clustering
+  appeal" named as a liked (2). HN is skeptical of AI-explains-it
+  debugging (AI debugging assistant unreliable, 3) — positioning ammo
+  vs LangSmith Polly. Counts are signals, not conclusions (rule 8).
+- Issue trackers skew toward bugs; the wished_existed side still
+  concentrates in GitHub Discussions, Reddit (r/LangChain, r/LLMDevs),
+  G2, and Discord. Those sources still need collection.
+
+### Remote-session constraint (Claude Code on the web)
+
+api.github.com is scoped to this repo's owner in remote sessions —
+fetching competitor issue trackers from there is blocked, and add_repo
+cannot cross owners (v1). Workaround: run `fetch_github_issues.py`
+locally with a GITHUB_TOKEN and upload the resulting `data/raw/*.jsonl`
+into the session; classification and merge run fine remotely. The HN
+Algolia API is NOT blocked, which is how the HN pass ran remotely.
 
 ## Next milestones
 
 1. Full pass: langfuse/langfuse (all ~2,738) and Arize-ai/phoenix (~5,948).
 2. Remaining five repos.
 3. Wish-list sources: GitHub Discussions, Reddit, G2 (paste/import path).
+   Hacker News: DONE 2026-07-19 via `pipeline/fetch_hn.py`.
 4. First deliverable: ranked pain/wish report for the agent-trace-debugger
    PRD — top 10 themes with counts, sources, and receipts.
 

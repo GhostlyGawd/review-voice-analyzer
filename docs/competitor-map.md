@@ -13,6 +13,7 @@ W&B Weave, Galileo, Latitude, MLflow.
 | Reddit | r/LangChain, r/LLMDevs, r/LocalLLaMA |
 | G2 / Capterra | Paid-customer reviews; paste into the miner |
 | Discord | Langfuse and LangChain servers; complaints in help channels |
+| Hacker News | MINED 2026-07-19 (`pipeline/fetch_hn.py`) — launch/Show HN threads + topic threads, 5,168 items; vendor self-replies excluded |
 
 ## Early themes (from vendor-adjacent research — NOT tally data)
 
