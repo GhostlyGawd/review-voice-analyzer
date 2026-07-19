@@ -97,6 +97,21 @@ web/review-miner.jsx              # browser-based miner (Claude.ai artifact vers
 
 ## State as of 2026-07-19
 
+- **langfuse/langfuse full pass complete** (same day, via public mirrors —
+  see remote-session constraint below): 2,262 issues fetched (83% of
+  ~2,738; residual = pre-Aug-2023 issues, last ~5 days, spam/deleted),
+  2,257 classified by 23 parallel agents, consolidated, merged. Taxonomy:
+  **2,960 pieces across 381 categories from 7,448 processed items.**
+  Fetch route: GH Archive `git.github_events` on ClickHouse Cloud's public
+  demo (bodies) + issues.ecosyste.ms census (title-only top-up), via
+  `pipeline/fetch_github_issues_mirror.py`.
+- Langfuse's ranked pain profile: SDK wrapper integration gaps (347),
+  self-hosted deployment breakage (227), token & cost metrics wrong (143),
+  experiments & evals workflow bugs (107), silent failure without
+  validation (81 — now corroborated 57 langfuse + 24 HN), trace viewer
+  inconsistent rendering (39) + renders blank (26).
+- Remaining five repos' raw data already staged in data/raw/ (opik 601,
+  langsmith-sdk 551, agentops 416, helicone 272, lmnr 111).
 - Seed: 23 most recent langfuse/langfuse issues, classified by hand.
 - **Hacker News pass complete** (same day): `pipeline/fetch_hn.py` pulled
   5,710 items (stories + comments + full trees of on-topic threads) via the
@@ -134,8 +149,10 @@ Algolia API is NOT blocked, which is how the HN pass ran remotely.
 
 ## Next milestones
 
-1. Full pass: langfuse/langfuse (all ~2,738) and Arize-ai/phoenix (~5,948).
-2. Remaining five repos.
+1. Full pass: langfuse/langfuse DONE 2026-07-19 (83% mirror coverage,
+   documented above); Arize-ai/phoenix fetched (4,839 = 81%), classification
+   next.
+2. Remaining five repos (raw data already staged).
 3. Wish-list sources: GitHub Discussions, Reddit, G2 (paste/import path).
    Hacker News: DONE 2026-07-19 via `pipeline/fetch_hn.py`.
 4. First deliverable: ranked pain/wish report for the agent-trace-debugger
