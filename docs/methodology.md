@@ -1,8 +1,11 @@
 # The Review-Mining Playbook
 
-Origin: run professionally for a multi-million-dollar Amazon business, where
-competitor review analysis drove both product development and marketing
-positioning — without a single customer interview. This repo automates it.
+Origin: run professionally for a multi-million-dollar, wildly successful
+Amazon business that never interviewed a single customer — competitor review
+analysis stood in for interviews entirely and drove both product development
+and marketing positioning. Once the competitor list for a market was set,
+every review got read and themed, with a running tally appended or
+incremented per theme. This repo automates that practice.
 
 ## The loop
 

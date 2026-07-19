@@ -15,9 +15,19 @@ themes rank further down, like a hierarchy of needs.
 
 ## Why it exists
 
-The owner is validating product opportunities in AI dev tooling. Operating
-premise: **existing competition is validated demand, not a stop sign.** The
-mining output answers the questions that actually matter:
+The owner is validating product opportunities in AI dev tooling. The project
+came out of a brainstorming funnel — categories, drilled into subcategories,
+product ideas per subcategory — that kept hitting the same wall: every idea
+already had competition. The unblock was reframing that wall. Operating
+premise: **existing competition is validated demand, not a stop sign.**
+
+The conventional next step after that reframe is customer interviews. This
+methodology replaces them: the owner ran it for a multi-million-dollar Amazon
+business that was wildly successful and never interviewed a single customer —
+exhaustive competitor review analysis stood in for interviews and drove both
+product development and marketing positioning (see docs/methodology.md).
+
+The mining output answers the questions that actually matter:
 
 1. Do people pay for the incumbents and still complain?
 2. What is the ranked, counted list of what they complain about?
