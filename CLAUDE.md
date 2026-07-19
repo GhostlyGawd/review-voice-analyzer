@@ -97,6 +97,15 @@ web/review-miner.jsx              # browser-based miner (Claude.ai artifact vers
 
 ## State as of 2026-07-19
 
+- **Milestone 1 COMPLETE — langfuse + phoenix full passes done.** Taxonomy:
+  **4,434 pieces across 478 categories from 12,277 processed items.**
+  Phoenix pass: 4,829 issues (81% mirror coverage) classified by 49
+  parallel agents; phoenix's tracker is largely Arize's internal sprint
+  board, so exclusion rule 7 did heavy lifting — 1,474 user-voice pieces
+  survived. Top themes now corroborated across sources: SDK wrapper gaps
+  388 (both repos + HN), self-hosted breakage 264, token/cost wrong 168,
+  evals workflow bugs 163, UI rendering bugs 148, silent failure 95
+  (three sources), trace viewer inconsistent 60 + blank 36.
 - **langfuse/langfuse full pass complete** (same day, via public mirrors —
   see remote-session constraint below): 2,262 issues fetched (83% of
   ~2,738; residual = pre-Aug-2023 issues, last ~5 days, spam/deleted),
