@@ -1,13 +1,255 @@
 rank,type,category,mentions,sources,example_urls
-1,pain_point,self-hosted deployment breakage,4,langfuse/langfuse (4),https://github.com/langfuse/langfuse/issues/14999 https://github.com/langfuse/langfuse/issues/14906 https://github.com/langfuse/langfuse/issues/15034 https://github.com/langfuse/langfuse/issues/14925
-2,pain_point,experiments & evals workflow bugs,4,langfuse/langfuse (4),https://github.com/langfuse/langfuse/issues/15099 https://github.com/langfuse/langfuse/issues/14904 https://github.com/langfuse/langfuse/issues/14946 https://github.com/langfuse/langfuse/issues/14907
-3,pain_point,trace viewer renders blank,2,langfuse/langfuse (2),https://github.com/langfuse/langfuse/issues/15007 https://github.com/langfuse/langfuse/issues/15000
-4,pain_point,token & cost metrics wrong,2,langfuse/langfuse (2),https://github.com/langfuse/langfuse/issues/14987 https://github.com/langfuse/langfuse/issues/14913
-5,pain_point,UI crashes & hangs,2,langfuse/langfuse (2),https://github.com/langfuse/langfuse/issues/15017 https://github.com/langfuse/langfuse/issues/15008
-6,use_case,heavy evals & experiment comparison,2,langfuse/langfuse (2),https://github.com/langfuse/langfuse/issues/15099 https://github.com/langfuse/langfuse/issues/14907
-7,pain_point,silent failure without validation,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/15009
-8,pain_point,SDK wrapper integration gaps,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/15018
-9,pain_point,trace search broken for Unicode,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/15072
-10,pain_point,dependency security vulnerabilities,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/14916
-11,wished_existed,broader provider integrations,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/15105
-12,wished_existed,flexible annotation review workflows,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/15006
+1,liked,overall positive experience,54,hn (54),https://news.ycombinator.com/item?id=37378501 https://news.ycombinator.com/item?id=47313926 https://news.ycombinator.com/item?id=47244932 https://news.ycombinator.com/item?id=46559212 https://news.ycombinator.com/item?id=45056338 https://news.ycombinator.com/item?id=46657025
+2,pain_point,eval trust issues,33,hn (33),https://news.ycombinator.com/item?id=45132434 https://news.ycombinator.com/item?id=47579222 https://news.ycombinator.com/item?id=40921720 https://news.ycombinator.com/item?id=45730896 https://news.ycombinator.com/item?id=48804445 https://news.ycombinator.com/item?id=47182961
+3,pain_point,traces don't explain failures,30,hn (30),https://news.ycombinator.com/item?id=47385524 https://news.ycombinator.com/item?id=46866404 https://news.ycombinator.com/item?id=42434598 https://news.ycombinator.com/item?id=47335583 https://news.ycombinator.com/item?id=47059704 https://news.ycombinator.com/item?id=47422848
+4,use_case,DIY custom agent observability stack,30,hn (30),https://news.ycombinator.com/item?id=47882192 https://news.ycombinator.com/item?id=46717914 https://news.ycombinator.com/item?id=36788067 https://news.ycombinator.com/item?id=47663894 https://news.ycombinator.com/item?id=47695256 https://news.ycombinator.com/item?id=45733665
+5,pain_point,insufficient visibility into agent actions,29,hn (29),https://news.ycombinator.com/item?id=47036590 https://news.ycombinator.com/item?id=47301395 https://news.ycombinator.com/item?id=46686545 https://news.ycombinator.com/item?id=46984185 https://news.ycombinator.com/item?id=45725609 https://news.ycombinator.com/item?id=47912405
+6,pain_point,silent failure without validation,25,langfuse/langfuse (1); hn (24),https://github.com/langfuse/langfuse/issues/15009 https://news.ycombinator.com/item?id=45525963 https://news.ycombinator.com/item?id=46866404 https://news.ycombinator.com/item?id=47301395 https://news.ycombinator.com/item?id=46613761 https://news.ycombinator.com/item?id=47438778
+7,use_case,heavy evals & experiment comparison,19,langfuse/langfuse (2); hn (17),https://github.com/langfuse/langfuse/issues/15099 https://github.com/langfuse/langfuse/issues/14907 https://news.ycombinator.com/item?id=48204637 https://news.ycombinator.com/item?id=40920731 https://news.ycombinator.com/item?id=47331845 https://news.ycombinator.com/item?id=47333821
+8,pain_point,DIY vs buy tooling debate,17,hn (17),https://news.ycombinator.com/item?id=44456615 https://news.ycombinator.com/item?id=46016753 https://news.ycombinator.com/item?id=48487215 https://news.ycombinator.com/item?id=47285609 https://news.ycombinator.com/item?id=47409778 https://news.ycombinator.com/item?id=46265482
+9,liked,seamless observability integration,16,hn (16),https://news.ycombinator.com/item?id=48480273 https://news.ycombinator.com/item?id=46299429 https://news.ycombinator.com/item?id=39759461 https://news.ycombinator.com/item?id=48659727 https://news.ycombinator.com/item?id=35279945 https://news.ycombinator.com/item?id=35279965
+10,pain_point,SDK wrapper integration gaps,12,langfuse/langfuse (1); hn (11),https://github.com/langfuse/langfuse/issues/15018 https://news.ycombinator.com/item?id=46819831 https://news.ycombinator.com/item?id=42443522 https://news.ycombinator.com/item?id=44737110 https://news.ycombinator.com/item?id=40987269 https://news.ycombinator.com/item?id=44742554
+11,wished_existed,agent reasoning & decision inspection,12,hn (12),https://news.ycombinator.com/item?id=46793054 https://news.ycombinator.com/item?id=46525726 https://news.ycombinator.com/item?id=47037681 https://news.ycombinator.com/item?id=47004149 https://news.ycombinator.com/item?id=44245423 https://news.ycombinator.com/item?id=47318617
+12,pain_point,multi-agent debugging complexity,10,hn (10),https://news.ycombinator.com/item?id=47645872 https://news.ycombinator.com/item?id=47671025 https://news.ycombinator.com/item?id=45132434 https://news.ycombinator.com/item?id=44322323 https://news.ycombinator.com/item?id=44571730 https://news.ycombinator.com/item?id=44508345
+13,liked,strong tracing capabilities,10,hn (10),https://news.ycombinator.com/item?id=37923347 https://news.ycombinator.com/item?id=45059237 https://news.ycombinator.com/item?id=46668124 https://news.ycombinator.com/item?id=48110594 https://news.ycombinator.com/item?id=42498108 https://news.ycombinator.com/item?id=47529156
+14,use_case,automated trace analysis,9,hn (9),https://news.ycombinator.com/item?id=47671025 https://news.ycombinator.com/item?id=48030777 https://news.ycombinator.com/item?id=46970797 https://news.ycombinator.com/item?id=48913945 https://news.ycombinator.com/item?id=35285816 https://news.ycombinator.com/item?id=48114960
+15,use_case,OpenTelemetry-based observability stack,9,hn (9),https://news.ycombinator.com/item?id=43388679 https://news.ycombinator.com/item?id=47301651 https://news.ycombinator.com/item?id=46970114 https://news.ycombinator.com/item?id=47358747 https://news.ycombinator.com/item?id=47380653 https://news.ycombinator.com/item?id=42442608
+16,pain_point,debugging agents is inherently difficult,9,hn (9),https://news.ycombinator.com/item?id=44737435 https://news.ycombinator.com/item?id=47046189 https://news.ycombinator.com/item?id=46782848 https://news.ycombinator.com/item?id=47773213 https://news.ycombinator.com/item?id=46709451 https://news.ycombinator.com/item?id=47245997
+17,pain_point,opaque agent cost tracking,8,hn (8),https://news.ycombinator.com/item?id=46954220 https://news.ycombinator.com/item?id=47346646 https://news.ycombinator.com/item?id=47237134 https://news.ycombinator.com/item?id=47395801 https://news.ycombinator.com/item?id=47301395 https://news.ycombinator.com/item?id=39430907
+18,pain_point,immature tooling landscape,8,hn (8),https://news.ycombinator.com/item?id=36398068 https://news.ycombinator.com/item?id=36788067 https://news.ycombinator.com/item?id=36966838 https://news.ycombinator.com/item?id=37835976 https://news.ycombinator.com/item?id=47419716 https://news.ycombinator.com/item?id=48183894
+19,pain_point,record & replay gaps,8,hn (8),https://news.ycombinator.com/item?id=46497490 https://news.ycombinator.com/item?id=47104162 https://news.ycombinator.com/item?id=47444309 https://news.ycombinator.com/item?id=47899864 https://news.ycombinator.com/item?id=48708107 https://news.ycombinator.com/item?id=47970403
+20,use_case,trace-based debugging workflow,8,hn (8),https://news.ycombinator.com/item?id=36789075 https://news.ycombinator.com/item?id=48906902 https://news.ycombinator.com/item?id=48907592 https://news.ycombinator.com/item?id=47215088 https://news.ycombinator.com/item?id=47406472 https://news.ycombinator.com/item?id=44294079
+21,pain_point,observability pricing at scale,8,hn (8),https://news.ycombinator.com/item?id=44194187 https://news.ycombinator.com/item?id=46398376 https://news.ycombinator.com/item?id=35280842 https://news.ycombinator.com/item?id=40992871 https://news.ycombinator.com/item?id=44865484 https://news.ycombinator.com/item?id=41456518
+22,wished_existed,OpenTelemetry standardization & support,8,hn (8),https://news.ycombinator.com/item?id=40987046 https://news.ycombinator.com/item?id=40988504 https://news.ycombinator.com/item?id=46389786 https://news.ycombinator.com/item?id=40403577 https://news.ycombinator.com/item?id=37313140 https://news.ycombinator.com/item?id=37314866
+23,pain_point,token & cost metrics wrong,7,langfuse/langfuse (2); hn (5),https://github.com/langfuse/langfuse/issues/14987 https://github.com/langfuse/langfuse/issues/14913 https://news.ycombinator.com/item?id=46829396 https://news.ycombinator.com/item?id=46240030 https://news.ycombinator.com/item?id=47162495 https://news.ycombinator.com/item?id=46544838
+24,wished_existed,broader provider integrations,7,langfuse/langfuse (1); hn (6),https://github.com/langfuse/langfuse/issues/15105 https://news.ycombinator.com/item?id=47164172 https://news.ycombinator.com/item?id=46805185 https://news.ycombinator.com/item?id=37847496 https://news.ycombinator.com/item?id=37853420 https://news.ycombinator.com/item?id=41579948
+25,pain_point,trace-based debugging limitations,7,hn (7),https://news.ycombinator.com/item?id=43743120 https://news.ycombinator.com/item?id=44386335 https://news.ycombinator.com/item?id=41194155 https://news.ycombinator.com/item?id=46938565 https://news.ycombinator.com/item?id=47171212 https://news.ycombinator.com/item?id=46754171
+26,pain_point,agent decision traceability,7,hn (7),https://news.ycombinator.com/item?id=48108029 https://news.ycombinator.com/item?id=46707675 https://news.ycombinator.com/item?id=46237785 https://news.ycombinator.com/item?id=46747417 https://news.ycombinator.com/item?id=48203392 https://news.ycombinator.com/item?id=46525257
+27,liked,OpenTelemetry-based instrumentation,7,hn (7),https://news.ycombinator.com/item?id=48479930 https://news.ycombinator.com/item?id=46663717 https://news.ycombinator.com/item?id=44407945 https://news.ycombinator.com/item?id=42444670 https://news.ycombinator.com/item?id=39372580 https://news.ycombinator.com/item?id=39374460
+28,liked,evals tooling works well,7,hn (7),https://news.ycombinator.com/item?id=47333821 https://news.ycombinator.com/item?id=47409778 https://news.ycombinator.com/item?id=38351007 https://news.ycombinator.com/item?id=38351323 https://news.ycombinator.com/item?id=47854504 https://news.ycombinator.com/item?id=44089198
+29,liked,easy setup & use,7,hn (7),https://news.ycombinator.com/item?id=42443869 https://news.ycombinator.com/item?id=42445115 https://news.ycombinator.com/item?id=42452012 https://news.ycombinator.com/item?id=42807032 https://news.ycombinator.com/item?id=41452994 https://news.ycombinator.com/item?id=41645241
+30,pain_point,forced framework lock-in,7,hn (7),https://news.ycombinator.com/item?id=42452012 https://news.ycombinator.com/item?id=44840626 https://news.ycombinator.com/item?id=42499775 https://news.ycombinator.com/item?id=37650371 https://news.ycombinator.com/item?id=41452994 https://news.ycombinator.com/item?id=46239236
+31,pain_point,hard to differentiate competing tools,7,hn (7),https://news.ycombinator.com/item?id=42452012 https://news.ycombinator.com/item?id=44736243 https://news.ycombinator.com/item?id=44740539 https://news.ycombinator.com/item?id=44742393 https://news.ycombinator.com/item?id=38532781 https://news.ycombinator.com/item?id=37850507
+32,pain_point,self-hosted deployment breakage,6,langfuse/langfuse (4); hn (2),https://github.com/langfuse/langfuse/issues/14999 https://github.com/langfuse/langfuse/issues/14906 https://github.com/langfuse/langfuse/issues/15034 https://github.com/langfuse/langfuse/issues/14925 https://news.ycombinator.com/item?id=46656836 https://news.ycombinator.com/item?id=42444670
+33,pain_point,experiments & evals workflow bugs,6,langfuse/langfuse (4); hn (2),https://github.com/langfuse/langfuse/issues/15099 https://github.com/langfuse/langfuse/issues/14904 https://github.com/langfuse/langfuse/issues/14946 https://github.com/langfuse/langfuse/issues/14907 https://news.ycombinator.com/item?id=47491546 https://news.ycombinator.com/item?id=44737110
+34,pain_point,numerous implementation bugs,6,hn (6),https://news.ycombinator.com/item?id=44317940 https://news.ycombinator.com/item?id=46656961 https://news.ycombinator.com/item?id=46657025 https://news.ycombinator.com/item?id=45402284 https://news.ycombinator.com/item?id=44865484 https://news.ycombinator.com/item?id=39373585
+35,pain_point,DIY custom agent observability stack,6,hn (6),https://news.ycombinator.com/item?id=48115113 https://news.ycombinator.com/item?id=45552062 https://news.ycombinator.com/item?id=46820417 https://news.ycombinator.com/item?id=42402449 https://news.ycombinator.com/item?id=44591714 https://news.ycombinator.com/item?id=47604127
+36,liked,integrated agent debugging tools,5,hn (5),https://news.ycombinator.com/item?id=43714846 https://news.ycombinator.com/item?id=46944985 https://news.ycombinator.com/item?id=45894235 https://news.ycombinator.com/item?id=35280653 https://news.ycombinator.com/item?id=43825566
+37,liked,chosen over alternatives,5,hn (5),https://news.ycombinator.com/item?id=48517832 https://news.ycombinator.com/item?id=35286461 https://news.ycombinator.com/item?id=38533028 https://news.ycombinator.com/item?id=44840626 https://news.ycombinator.com/item?id=42815368
+38,wished_existed,on-prem privacy-preserving deployment,5,hn (5),https://news.ycombinator.com/item?id=45644172 https://news.ycombinator.com/item?id=42485114 https://news.ycombinator.com/item?id=42485116 https://news.ycombinator.com/item?id=42402449 https://news.ycombinator.com/item?id=37853768
+39,pain_point,evals hard to set up & tune,5,hn (5),https://news.ycombinator.com/item?id=44514132 https://news.ycombinator.com/item?id=45564641 https://news.ycombinator.com/item?id=44194187 https://news.ycombinator.com/item?id=47854504 https://news.ycombinator.com/item?id=41084333
+40,wished_existed,agent session replay tooling,5,hn (5),https://news.ycombinator.com/item?id=45716518 https://news.ycombinator.com/item?id=45730896 https://news.ycombinator.com/item?id=47213361 https://news.ycombinator.com/item?id=47854504 https://news.ycombinator.com/item?id=47657287
+41,pain_point,no audit trail for post-mortems,5,hn (5),https://news.ycombinator.com/item?id=47301395 https://news.ycombinator.com/item?id=47260913 https://news.ycombinator.com/item?id=47392108 https://news.ycombinator.com/item?id=47640461 https://news.ycombinator.com/item?id=47111756
+42,pain_point,OTel gaps for LLM tracing,5,hn (5),https://news.ycombinator.com/item?id=46813337 https://news.ycombinator.com/item?id=45399127 https://news.ycombinator.com/item?id=45399902 https://news.ycombinator.com/item?id=40190872 https://news.ycombinator.com/item?id=40198236
+43,pain_point,data residency & compliance concerns,5,hn (5),https://news.ycombinator.com/item?id=46659028 https://news.ycombinator.com/item?id=46659277 https://news.ycombinator.com/item?id=46659303 https://news.ycombinator.com/item?id=35281069 https://news.ycombinator.com/item?id=42442608
+44,use_case,custom trace storage pipeline,5,hn (5),https://news.ycombinator.com/item?id=43771473 https://news.ycombinator.com/item?id=40992871 https://news.ycombinator.com/item?id=45400332 https://news.ycombinator.com/item?id=45409109 https://news.ycombinator.com/item?id=46929801
+45,use_case,informal manual model evaluation,5,hn (5),https://news.ycombinator.com/item?id=47997124 https://news.ycombinator.com/item?id=48564077 https://news.ycombinator.com/item?id=48843559 https://news.ycombinator.com/item?id=45550410 https://news.ycombinator.com/item?id=47637697
+46,use_case,build vs buy evaluation,5,hn (5),https://news.ycombinator.com/item?id=42445247 https://news.ycombinator.com/item?id=42448499 https://news.ycombinator.com/item?id=42449180 https://news.ycombinator.com/item?id=48592296 https://news.ycombinator.com/item?id=47918318
+47,pain_point,clunky user experience,5,hn (5),https://news.ycombinator.com/item?id=44739338 https://news.ycombinator.com/item?id=44739456 https://news.ycombinator.com/item?id=45399697 https://news.ycombinator.com/item?id=44065595 https://news.ycombinator.com/item?id=39605620
+48,pain_point,human review bottleneck at scale,5,hn (5),https://news.ycombinator.com/item?id=37835976 https://news.ycombinator.com/item?id=47769845 https://news.ycombinator.com/item?id=37312299 https://news.ycombinator.com/item?id=43817584 https://news.ycombinator.com/item?id=47767229
+49,use_case,observability as output validation,4,hn (4),https://news.ycombinator.com/item?id=47245320 https://news.ycombinator.com/item?id=47678904 https://news.ycombinator.com/item?id=47409017 https://news.ycombinator.com/item?id=46193901
+50,wished_existed,prompt-version tracking & slicing,4,hn (4),https://news.ycombinator.com/item?id=45644172 https://news.ycombinator.com/item?id=35280758 https://news.ycombinator.com/item?id=34885657 https://news.ycombinator.com/item?id=47159322
+51,pain_point,no runtime enforcement boundary,4,hn (4),https://news.ycombinator.com/item?id=47671453 https://news.ycombinator.com/item?id=47224740 https://news.ycombinator.com/item?id=47343816 https://news.ycombinator.com/item?id=47072678
+52,use_case,granular usage & cost tracking,4,hn (4),https://news.ycombinator.com/item?id=47237134 https://news.ycombinator.com/item?id=48714151 https://news.ycombinator.com/item?id=47961558 https://news.ycombinator.com/item?id=47137106
+53,wished_existed,runtime enforcement & spend caps,4,hn (4),https://news.ycombinator.com/item?id=47683113 https://news.ycombinator.com/item?id=47371712 https://news.ycombinator.com/item?id=35280758 https://news.ycombinator.com/item?id=35283256
+54,pain_point,lacks visual trace inspector,4,hn (4),https://news.ycombinator.com/item?id=44326536 https://news.ycombinator.com/item?id=44822941 https://news.ycombinator.com/item?id=42497673 https://news.ycombinator.com/item?id=45017947
+55,pain_point,log integrity unverifiable,4,hn (4),https://news.ycombinator.com/item?id=47079460 https://news.ycombinator.com/item?id=47104162 https://news.ycombinator.com/item?id=47779042 https://news.ycombinator.com/item?id=47328111
+56,use_case,self-hosted LLM proxy setup,4,hn (4),https://news.ycombinator.com/item?id=42331784 https://news.ycombinator.com/item?id=43907187 https://news.ycombinator.com/item?id=45005470 https://news.ycombinator.com/item?id=46813584
+57,pain_point,unbounded trace storage growth,4,hn (4),https://news.ycombinator.com/item?id=46707675 https://news.ycombinator.com/item?id=46969098 https://news.ycombinator.com/item?id=40991743 https://news.ycombinator.com/item?id=40992871
+58,liked,granular usage & cost tracking,4,hn (4),https://news.ycombinator.com/item?id=46151394 https://news.ycombinator.com/item?id=41010983 https://news.ycombinator.com/item?id=35283860 https://news.ycombinator.com/item?id=42407385
+59,pain_point,confusing product documentation,4,hn (4),https://news.ycombinator.com/item?id=46656961 https://news.ycombinator.com/item?id=46657025 https://news.ycombinator.com/item?id=42077849 https://news.ycombinator.com/item?id=40191255
+60,wished_existed,vendor-agnostic observability layer,4,hn (4),https://news.ycombinator.com/item?id=38041669 https://news.ycombinator.com/item?id=40191054 https://news.ycombinator.com/item?id=41891317 https://news.ycombinator.com/item?id=46072079
+61,liked,responsive team & support,4,hn (4),https://news.ycombinator.com/item?id=41010983 https://news.ycombinator.com/item?id=42443522 https://news.ycombinator.com/item?id=42444280 https://news.ycombinator.com/item?id=42447538
+62,pain_point,silent backend behavior drift,4,hn (4),https://news.ycombinator.com/item?id=47455230 https://news.ycombinator.com/item?id=46656449 https://news.ycombinator.com/item?id=47260913 https://news.ycombinator.com/item?id=48663922
+63,wished_existed,auditable agent action trail,4,hn (4),https://news.ycombinator.com/item?id=48605420 https://news.ycombinator.com/item?id=47505255 https://news.ycombinator.com/item?id=47899864 https://news.ycombinator.com/item?id=48779413
+64,liked,clean/appealing UX design,4,hn (4),https://news.ycombinator.com/item?id=44742393 https://news.ycombinator.com/item?id=47277882 https://news.ycombinator.com/item?id=47278026 https://news.ycombinator.com/item?id=43892003
+65,pain_point,LLM metrics value doubted,4,hn (4),https://news.ycombinator.com/item?id=45401759 https://news.ycombinator.com/item?id=40191054 https://news.ycombinator.com/item?id=39374252 https://news.ycombinator.com/item?id=39376134
+66,pain_point,UI crashes & hangs,3,langfuse/langfuse (2); hn (1),https://github.com/langfuse/langfuse/issues/15017 https://github.com/langfuse/langfuse/issues/15008 https://news.ycombinator.com/item?id=44194187
+67,pain_point,runaway loops burn tokens,3,hn (3),https://news.ycombinator.com/item?id=45525963 https://news.ycombinator.com/item?id=47683113 https://news.ycombinator.com/item?id=48675346
+68,wished_existed,built-in observability tooling,3,hn (3),https://news.ycombinator.com/item?id=46016753 https://news.ycombinator.com/item?id=48054081 https://news.ycombinator.com/item?id=42331784
+69,use_case,durable workflows for observability,3,hn (3),https://news.ycombinator.com/item?id=48054051 https://news.ycombinator.com/item?id=43541817 https://news.ycombinator.com/item?id=48328442
+70,pain_point,multi-agent failure attribution,3,hn (3),https://news.ycombinator.com/item?id=47521908 https://news.ycombinator.com/item?id=47663818 https://news.ycombinator.com/item?id=46543021
+71,pain_point,missing OpenTelemetry support,3,hn (3),https://news.ycombinator.com/item?id=36398068 https://news.ycombinator.com/item?id=45984095 https://news.ycombinator.com/item?id=42494469
+72,use_case,fragmented eval tool stack,3,hn (3),https://news.ycombinator.com/item?id=47320733 https://news.ycombinator.com/item?id=47330325 https://news.ycombinator.com/item?id=39913318
+73,pain_point,evals treated as afterthought,3,hn (3),https://news.ycombinator.com/item?id=47320733 https://news.ycombinator.com/item?id=47331845 https://news.ycombinator.com/item?id=44194187
+74,pain_point,agent drift detection,3,hn (3),https://news.ycombinator.com/item?id=48582429 https://news.ycombinator.com/item?id=48689447 https://news.ycombinator.com/item?id=47319129
+75,wished_existed,visual agent trace inspector,3,hn (3),https://news.ycombinator.com/item?id=44326536 https://news.ycombinator.com/item?id=40191671 https://news.ycombinator.com/item?id=37850412
+76,liked,prompt versioning and rollback,3,hn (3),https://news.ycombinator.com/item?id=44194187 https://news.ycombinator.com/item?id=46668124 https://news.ycombinator.com/item?id=42444280
+77,pain_point,prompt management feature gaps,3,hn (3),https://news.ycombinator.com/item?id=46659051 https://news.ycombinator.com/item?id=46663717 https://news.ycombinator.com/item?id=45431387
+78,pain_point,loss of trace visibility,3,hn (3),https://news.ycombinator.com/item?id=48906902 https://news.ycombinator.com/item?id=48907592 https://news.ycombinator.com/item?id=47411495
+79,pain_point,multi-agent session management,3,hn (3),https://news.ycombinator.com/item?id=48716955 https://news.ycombinator.com/item?id=46732461 https://news.ycombinator.com/item?id=48306255
+80,pain_point,trace bloat overwhelms context,3,hn (3),https://news.ycombinator.com/item?id=47215395 https://news.ycombinator.com/item?id=45628729 https://news.ycombinator.com/item?id=46289612
+81,pain_point,slow trace store performance,3,hn (3),https://news.ycombinator.com/item?id=42444558 https://news.ycombinator.com/item?id=48196380 https://news.ycombinator.com/item?id=47506521
+82,liked,easy self-hosting,3,hn (3),https://news.ycombinator.com/item?id=42444670 https://news.ycombinator.com/item?id=45398725 https://news.ycombinator.com/item?id=46581660
+83,pain_point,regression detection after changes,3,hn (3),https://news.ycombinator.com/item?id=42315972 https://news.ycombinator.com/item?id=45402673 https://news.ycombinator.com/item?id=40386667
+84,wished_existed,granular usage & cost tracking,3,hn (3),https://news.ycombinator.com/item?id=47365013 https://news.ycombinator.com/item?id=47247912 https://news.ycombinator.com/item?id=40553216
+85,use_case,agent self-debugging via traces,3,hn (3),https://news.ycombinator.com/item?id=47710166 https://news.ycombinator.com/item?id=47897031 https://news.ycombinator.com/item?id=47106324
+86,pain_point,trace viewer renders blank,2,langfuse/langfuse (2),https://github.com/langfuse/langfuse/issues/15007 https://github.com/langfuse/langfuse/issues/15000
+87,pain_point,dependency security vulnerabilities,2,langfuse/langfuse (1); hn (1),https://github.com/langfuse/langfuse/issues/14916 https://news.ycombinator.com/item?id=47005512
+88,use_case,visibility into agent decisions,2,hn (2),https://news.ycombinator.com/item?id=47230245 https://news.ycombinator.com/item?id=47228784
+89,pain_point,building evals exposes vague specs,2,hn (2),https://news.ycombinator.com/item?id=37497330 https://news.ycombinator.com/item?id=47460868
+90,use_case,agent simulation & scenario testing,2,hn (2),https://news.ycombinator.com/item?id=44508936 https://news.ycombinator.com/item?id=42332109
+91,pain_point,black-box data ownership concerns,2,hn (2),https://news.ycombinator.com/item?id=45809884 https://news.ycombinator.com/item?id=47365013
+92,pain_point,observability underused for product feedback,2,hn (2),https://news.ycombinator.com/item?id=46904140 https://news.ycombinator.com/item?id=47239409
+93,wished_existed,agent drift detection,2,hn (2),https://news.ycombinator.com/item?id=47360033 https://news.ycombinator.com/item?id=45644172
+94,wished_existed,multi-agent failure attribution,2,hn (2),https://news.ycombinator.com/item?id=47272846 https://news.ycombinator.com/item?id=47559657
+95,pain_point,multi-agent context management hard,2,hn (2),https://news.ycombinator.com/item?id=47014179 https://news.ycombinator.com/item?id=46707675
+96,pain_point,nondeterministic & costly agent tests,2,hn (2),https://news.ycombinator.com/item?id=46497490 https://news.ycombinator.com/item?id=47248766
+97,pain_point,fragmented cross-team observability,2,hn (2),https://news.ycombinator.com/item?id=47371748 https://news.ycombinator.com/item?id=47388338
+98,pain_point,model-focused not app-focused,2,hn (2),https://news.ycombinator.com/item?id=39279569 https://news.ycombinator.com/item?id=42499775
+99,use_case,manual review of agent output,2,hn (2),https://news.ycombinator.com/item?id=48893861 https://news.ycombinator.com/item?id=48547496
+100,wished_existed,runaway agent loop detection,2,hn (2),https://news.ycombinator.com/item?id=46044370 https://news.ycombinator.com/item?id=47529156
+101,pain_point,limited eval types available,2,hn (2),https://news.ycombinator.com/item?id=44194187 https://news.ycombinator.com/item?id=45025990
+102,wished_existed,agent trajectory capture,2,hn (2),https://news.ycombinator.com/item?id=44619624 https://news.ycombinator.com/item?id=46973413
+103,liked,persistent execution record for debugging,2,hn (2),https://news.ycombinator.com/item?id=47500341 https://news.ycombinator.com/item?id=47500853
+104,pain_point,general product dissatisfaction,2,hn (2),https://news.ycombinator.com/item?id=46660289 https://news.ycombinator.com/item?id=42499786
+105,pain_point,unexplained agent hangs in production,2,hn (2),https://news.ycombinator.com/item?id=43028573 https://news.ycombinator.com/item?id=46285388
+106,wished_existed,automated trace analysis,2,hn (2),https://news.ycombinator.com/item?id=46970225 https://news.ycombinator.com/item?id=46503604
+107,pain_point,third-party API key exposure,2,hn (2),https://news.ycombinator.com/item?id=35283225 https://news.ycombinator.com/item?id=40290784
+108,wished_existed,export logs for fine-tuning,2,hn (2),https://news.ycombinator.com/item?id=35283860 https://news.ycombinator.com/item?id=37415517
+109,liked,export logs for fine-tuning,2,hn (2),https://news.ycombinator.com/item?id=35285816 https://news.ycombinator.com/item?id=35291026
+110,liked,values self-hosting for data control,2,hn (2),https://news.ycombinator.com/item?id=42442774 https://news.ycombinator.com/item?id=40403577
+111,liked,open source flexibility,2,hn (2),https://news.ycombinator.com/item?id=42443522 https://news.ycombinator.com/item?id=42444558
+112,liked,time-travel replay & trajectory clustering appeal,2,hn (2),https://news.ycombinator.com/item?id=44737435 https://news.ycombinator.com/item?id=47335599
+113,pain_point,heavy self-host footprint,2,hn (2),https://news.ycombinator.com/item?id=46589665 https://news.ycombinator.com/item?id=40600330
+114,pain_point,AI debugging assistant unreliable,2,hn (2),https://news.ycombinator.com/item?id=44673765 https://news.ycombinator.com/item?id=47769000
+115,pain_point,fragmented eval tool stack,2,hn (2),https://news.ycombinator.com/item?id=43133994 https://news.ycombinator.com/item?id=47460868
+116,pain_point,non-actionable observability insights,2,hn (2),https://news.ycombinator.com/item?id=37650371 https://news.ycombinator.com/item?id=41645241
+117,pain_point,incomplete LLM callchain tracing,2,hn (2),https://news.ycombinator.com/item?id=42402449 https://news.ycombinator.com/item?id=48755044
+118,use_case,ad hoc tracing for personal projects,2,hn (2),https://news.ycombinator.com/item?id=46491024 https://news.ycombinator.com/item?id=47288820
+119,use_case,prompt versioning and rollback,2,hn (2),https://news.ycombinator.com/item?id=44591714 https://news.ycombinator.com/item?id=39374460
+120,wished_existed,LLM product analytics gap,2,hn (2),https://news.ycombinator.com/item?id=37313608 https://news.ycombinator.com/item?id=48590763
+121,use_case,team trace sharing,2,hn (2),https://news.ycombinator.com/item?id=47278026 https://news.ycombinator.com/item?id=47278735
+122,liked,visibility into agent decisions,2,hn (2),https://news.ycombinator.com/item?id=46709451 https://news.ycombinator.com/item?id=45844861
+123,use_case,values self-hosting for data control,2,hn (2),https://news.ycombinator.com/item?id=41645241 https://news.ycombinator.com/item?id=41701809
+124,wished_existed,no-signup product trial,2,hn (2),https://news.ycombinator.com/item?id=39373585 https://news.ycombinator.com/item?id=39379242
+125,pain_point,documentation doubles as sales funnel,2,hn (2),https://news.ycombinator.com/item?id=43609263 https://news.ycombinator.com/item?id=43610091
+126,pain_point,trace search broken for Unicode,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/15072
+127,wished_existed,flexible annotation review workflows,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/15006
+128,pain_point,orchestration layers brittle under load,1,hn (1),https://news.ycombinator.com/item?id=45132434
+129,liked,predictable state eases debugging,1,hn (1),https://news.ycombinator.com/item?id=46509130
+130,pain_point,conversational eval framework gaps,1,hn (1),https://news.ycombinator.com/item?id=41076795
+131,pain_point,connection handling gaps,1,hn (1),https://news.ycombinator.com/item?id=37133985
+132,wished_existed,CI/CD eval gating,1,hn (1),https://news.ycombinator.com/item?id=45644172
+133,wished_existed,automated trace documentation,1,hn (1),https://news.ycombinator.com/item?id=46882676
+134,use_case,trace-driven documentation workflow,1,hn (1),https://news.ycombinator.com/item?id=46883186
+135,pain_point,observability too hard for masses,1,hn (1),https://news.ycombinator.com/item?id=47320733
+136,pain_point,no bandwidth to improve tooling,1,hn (1),https://news.ycombinator.com/item?id=47330325
+137,liked,testing & iteration support,1,hn (1),https://news.ycombinator.com/item?id=36801960
+138,liked,prompt template deployment,1,hn (1),https://news.ycombinator.com/item?id=37035458
+139,use_case,manual runtime kill switches,1,hn (1),https://news.ycombinator.com/item?id=47224740
+140,pain_point,MCP observability gaps,1,hn (1),https://news.ycombinator.com/item?id=43821102
+141,wished_existed,local eval output inspection gap,1,hn (1),https://news.ycombinator.com/item?id=46305665
+142,wished_existed,collaborative prompt eval playground,1,hn (1),https://news.ycombinator.com/item?id=41522870
+143,pain_point,user-facing progress visibility,1,hn (1),https://news.ycombinator.com/item?id=48342441
+144,pain_point,difficult agent version comparison,1,hn (1),https://news.ycombinator.com/item?id=46044370
+145,wished_existed,token spend optimization tooling,1,hn (1),https://news.ycombinator.com/item?id=46044370
+146,wished_existed,agent work-tracking tool missing,1,hn (1),https://news.ycombinator.com/item?id=47244932
+147,use_case,external watcher for tamper-proof logs,1,hn (1),https://news.ycombinator.com/item?id=47104162
+148,pain_point,steep ML expertise barrier,1,hn (1),https://news.ycombinator.com/item?id=44194187
+149,use_case,LLM monitors long-running tasks,1,hn (1),https://news.ycombinator.com/item?id=48164608
+150,wished_existed,low-cost agent benchmarking,1,hn (1),https://news.ycombinator.com/item?id=45056338
+151,liked,clear product documentation,1,hn (1),https://news.ycombinator.com/item?id=46656993
+152,pain_point,LLM tooling lags general observability,1,hn (1),https://news.ycombinator.com/item?id=46657295
+153,use_case,prompt organization workflows,1,hn (1),https://news.ycombinator.com/item?id=46658137
+154,pain_point,features seen as investor padding,1,hn (1),https://news.ycombinator.com/item?id=46659272
+155,pain_point,enterprise agent governance gaps,1,hn (1),https://news.ycombinator.com/item?id=46603899
+156,pain_point,prompt engineering workflow limits,1,hn (1),https://news.ycombinator.com/item?id=46398376
+157,pain_point,overcomplicated framework terminology,1,hn (1),https://news.ycombinator.com/item?id=44762899
+158,pain_point,model migration eval overhead,1,hn (1),https://news.ycombinator.com/item?id=48743518
+159,pain_point,unstructured output hinders observability,1,hn (1),https://news.ycombinator.com/item?id=45473131
+160,use_case,structured output for observability,1,hn (1),https://news.ycombinator.com/item?id=45473131
+161,use_case,manual trace log trimming,1,hn (1),https://news.ycombinator.com/item?id=46969098
+162,wished_existed,auto fine-tune savings alerts,1,hn (1),https://news.ycombinator.com/item?id=37484521
+163,pain_point,non-deterministic agent orchestration,1,hn (1),https://news.ycombinator.com/item?id=48672212
+164,liked,reliable metrics tracking,1,hn (1),https://news.ycombinator.com/item?id=43906315
+165,liked,LLM pricing page UX,1,hn (1),https://news.ycombinator.com/item?id=46309137
+166,liked,multi-agent session management,1,hn (1),https://news.ycombinator.com/item?id=48716955
+167,liked,RAG evaluation tooling,1,hn (1),https://news.ycombinator.com/item?id=37583903
+168,liked,agent framework handles debugging,1,hn (1),https://news.ycombinator.com/item?id=47367516
+169,liked,live tool-call trace visibility,1,hn (1),https://news.ycombinator.com/item?id=47714492
+170,liked,post-hoc session observability,1,hn (1),https://news.ycombinator.com/item?id=47214586
+171,pain_point,long-tail issues hard to prioritize,1,hn (1),https://news.ycombinator.com/item?id=48914292
+172,wished_existed,testing without exposed API,1,hn (1),https://news.ycombinator.com/item?id=47234044
+173,wished_existed,custom knowledge base integration,1,hn (1),https://news.ycombinator.com/item?id=47237909
+174,wished_existed,correlate test failures to production,1,hn (1),https://news.ycombinator.com/item?id=47239693
+175,pain_point,wrong tool selection by agent,1,hn (1),https://news.ycombinator.com/item?id=47248766
+176,use_case,selective API-first adoption,1,hn (1),https://news.ycombinator.com/item?id=42443522
+177,use_case,vendor comparison & selection,1,hn (1),https://news.ycombinator.com/item?id=42443960
+178,wished_existed,realtime API observability support,1,hn (1),https://news.ycombinator.com/item?id=42444382
+179,pain_point,structured output retries clutter traces,1,hn (1),https://news.ycombinator.com/item?id=42444382
+180,wished_existed,trace view collapsing & grouping,1,hn (1),https://news.ycombinator.com/item?id=42444382
+181,liked,unified trace & score viewer,1,hn (1),https://news.ycombinator.com/item?id=42444558
+182,use_case,customer feedback flywheel & dataset building,1,hn (1),https://news.ycombinator.com/item?id=42444656
+183,pain_point,python dependency version conflicts,1,hn (1),https://news.ycombinator.com/item?id=42444670
+184,use_case,vendor-agnostic / swappable observability layer,1,hn (1),https://news.ycombinator.com/item?id=42444670
+185,use_case,OTEL trace export to customer infra,1,hn (1),https://news.ycombinator.com/item?id=42445247
+186,use_case,debugging backbone for high-spend LLM ops,1,hn (1),https://news.ycombinator.com/item?id=42445277
+187,pain_point,deceptive/dark UX patterns,1,hn (1),https://news.ycombinator.com/item?id=42446881
+188,wished_existed,dedicated prompt evaluation platform,1,hn (1),https://news.ycombinator.com/item?id=42449180
+189,wished_existed,fast prompt iteration without redeploy,1,hn (1),https://news.ycombinator.com/item?id=42452286
+190,liked,language-agnostic proxy design,1,hn (1),https://news.ycombinator.com/item?id=44737110
+191,wished_existed,enterprise agent governance gaps,1,hn (1),https://news.ycombinator.com/item?id=47343816
+192,pain_point,built-in observability tooling,1,hn (1),https://news.ycombinator.com/item?id=42309420
+193,wished_existed,surfacing unknown production failures,1,hn (1),https://news.ycombinator.com/item?id=42321315
+194,use_case,agent belief/reasoning inspection,1,hn (1),https://news.ycombinator.com/item?id=48816998
+195,wished_existed,bisectable agent trajectory debugging,1,hn (1),https://news.ycombinator.com/item?id=47171212
+196,pain_point,telemetry data enables prompt injection,1,hn (1),https://news.ycombinator.com/item?id=47946023
+197,use_case,model migration eval overhead,1,hn (1),https://news.ycombinator.com/item?id=48893080
+198,pain_point,pricing data freshness issues,1,hn (1),https://news.ycombinator.com/item?id=48244121
+199,wished_existed,seamless observability integration,1,hn (1),https://news.ycombinator.com/item?id=40600138
+200,liked,training data feedback loop,1,hn (1),https://news.ycombinator.com/item?id=40600138
+201,liked,simple self-hosted pricing,1,hn (1),https://news.ycombinator.com/item?id=44865484
+202,wished_existed,trace payload size limits,1,hn (1),https://news.ycombinator.com/item?id=44297632
+203,wished_existed,MCP observability gaps,1,hn (1),https://news.ycombinator.com/item?id=45431257
+204,wished_existed,prompt organization workflows,1,hn (1),https://news.ycombinator.com/item?id=39913318
+205,wished_existed,unified observability & evals platform,1,hn (1),https://news.ycombinator.com/item?id=40212723
+206,pain_point,trace attribute size limits,1,hn (1),https://news.ycombinator.com/item?id=42494329
+207,pain_point,experiment freeze & compare gaps,1,hn (1),https://news.ycombinator.com/item?id=42497673
+208,wished_existed,local-first agent debugging,1,hn (1),https://news.ycombinator.com/item?id=48196380
+209,liked,structured output for observability,1,hn (1),https://news.ycombinator.com/item?id=45346222
+210,liked,DIY custom agent observability stack,1,hn (1),https://news.ycombinator.com/item?id=46876406
+211,pain_point,heavyweight observability integration,1,hn (1),https://news.ycombinator.com/item?id=46805185
+212,pain_point,trace import loses fidelity,1,hn (1),https://news.ycombinator.com/item?id=46813584
+213,liked,built-in observability tooling,1,hn (1),https://news.ycombinator.com/item?id=46987006
+214,use_case,spend cap enforcement,1,hn (1),https://news.ycombinator.com/item?id=47137220
+215,wished_existed,eval stability tracking,1,hn (1),https://news.ycombinator.com/item?id=47567636
+216,use_case,trace monitoring for observability,1,hn (1),https://news.ycombinator.com/item?id=38051029
+217,wished_existed,programmatic access to evals,1,hn (1),https://news.ycombinator.com/item?id=37247900
+218,use_case,daily observability and debugging,1,hn (1),https://news.ycombinator.com/item?id=42808975
+219,use_case,adopting vendor for evals,1,hn (1),https://news.ycombinator.com/item?id=44455670
+220,pain_point,missing external API call visibility,1,hn (1),https://news.ycombinator.com/item?id=46766940
+221,pain_point,broader provider integrations,1,hn (1),https://news.ycombinator.com/item?id=41452994
+222,wished_existed,trace search functionality gaps,1,hn (1),https://news.ycombinator.com/item?id=41453001
+223,liked,regression detection after changes,1,hn (1),https://news.ycombinator.com/item?id=46754171
+224,wished_existed,structured tool failure errors,1,hn (1),https://news.ycombinator.com/item?id=44781729
+225,wished_existed,self-hosted LLM proxy setup,1,hn (1),https://news.ycombinator.com/item?id=37765603
+226,use_case,multi-agent failure attribution,1,hn (1),https://news.ycombinator.com/item?id=47715040
+227,wished_existed,expanded metrics beyond tracing,1,hn (1),https://news.ycombinator.com/item?id=37849325
+228,wished_existed,language SDK coverage gaps,1,hn (1),https://news.ycombinator.com/item?id=37851962
+229,wished_existed,cross-model prompt portability,1,hn (1),https://news.ycombinator.com/item?id=47061443
+230,wished_existed,live tool-call trace visibility,1,hn (1),https://news.ycombinator.com/item?id=47327495
+231,pain_point,observability overhead at scale,1,hn (1),https://news.ycombinator.com/item?id=47604127
+232,pain_point,cross-domain hallucination patterns,1,hn (1),https://news.ycombinator.com/item?id=47036001
+233,wished_existed,eval trust issues,1,hn (1),https://news.ycombinator.com/item?id=48178671
+234,pain_point,agent memory debugging,1,hn (1),https://news.ycombinator.com/item?id=44262808
+235,liked,team trace sharing,1,hn (1),https://news.ycombinator.com/item?id=47277834
+236,wished_existed,training data opt-out,1,hn (1),https://news.ycombinator.com/item?id=47277882
+237,wished_existed,git workflow automation,1,hn (1),https://news.ycombinator.com/item?id=47278735
+238,wished_existed,cross-tool agent handoffs,1,hn (1),https://news.ycombinator.com/item?id=47281182
+239,use_case,export logs for fine-tuning,1,hn (1),https://news.ycombinator.com/item?id=39374460
+240,use_case,root-cause quality/latency/cost debugging,1,hn (1),https://news.ycombinator.com/item?id=39374460
+241,wished_existed,external watcher for tamper-proof logs,1,hn (1),https://news.ycombinator.com/item?id=47604802
+242,use_case,agent trajectory capture,1,hn (1),https://news.ycombinator.com/item?id=48023911
+243,use_case,low-cost agent benchmarking,1,hn (1),https://news.ycombinator.com/item?id=47637697
+244,wished_existed,heavyweight observability integration,1,hn (1),https://news.ycombinator.com/item?id=47595162
+245,use_case,local-first agent debugging,1,hn (1),https://news.ycombinator.com/item?id=46863453
+246,wished_existed,fresh-state debugging tools,1,hn (1),https://news.ycombinator.com/item?id=46289612
+247,wished_existed,immature tooling landscape,1,hn (1),https://news.ycombinator.com/item?id=44437947
+248,wished_existed,regression detection after changes,1,hn (1),https://news.ycombinator.com/item?id=45412543
+249,pain_point,observability effort underappreciated,1,hn (1),https://news.ycombinator.com/item?id=44462442
+250,pain_point,cost and latency limit adoption,1,hn (1),https://news.ycombinator.com/item?id=46497654
+251,use_case,persistent execution record for debugging,1,hn (1),https://news.ycombinator.com/item?id=46849400
+252,wished_existed,evals for multimodal outputs,1,hn (1),https://news.ycombinator.com/item?id=40553216
+253,pain_point,CI/CD eval gating,1,hn (1),https://news.ycombinator.com/item?id=48658353
+254,pain_point,prompt-modifying gateway distrust,1,hn (1),https://news.ycombinator.com/item?id=47140813
