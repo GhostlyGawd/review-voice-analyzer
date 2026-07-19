@@ -1,0 +1,13 @@
+rank,type,category,mentions,sources,example_urls
+1,pain_point,self-hosted deployment breakage,4,langfuse/langfuse (4),https://github.com/langfuse/langfuse/issues/14999 https://github.com/langfuse/langfuse/issues/14906 https://github.com/langfuse/langfuse/issues/15034 https://github.com/langfuse/langfuse/issues/14925
+2,pain_point,experiments & evals workflow bugs,4,langfuse/langfuse (4),https://github.com/langfuse/langfuse/issues/15099 https://github.com/langfuse/langfuse/issues/14904 https://github.com/langfuse/langfuse/issues/14946 https://github.com/langfuse/langfuse/issues/14907
+3,pain_point,trace viewer renders blank,2,langfuse/langfuse (2),https://github.com/langfuse/langfuse/issues/15007 https://github.com/langfuse/langfuse/issues/15000
+4,pain_point,token & cost metrics wrong,2,langfuse/langfuse (2),https://github.com/langfuse/langfuse/issues/14987 https://github.com/langfuse/langfuse/issues/14913
+5,pain_point,UI crashes & hangs,2,langfuse/langfuse (2),https://github.com/langfuse/langfuse/issues/15017 https://github.com/langfuse/langfuse/issues/15008
+6,use_case,heavy evals & experiment comparison,2,langfuse/langfuse (2),https://github.com/langfuse/langfuse/issues/15099 https://github.com/langfuse/langfuse/issues/14907
+7,pain_point,silent failure without validation,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/15009
+8,pain_point,SDK wrapper integration gaps,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/15018
+9,pain_point,trace search broken for Unicode,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/15072
+10,pain_point,dependency security vulnerabilities,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/14916
+11,wished_existed,broader provider integrations,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/15105
+12,wished_existed,flexible annotation review workflows,1,langfuse/langfuse (1),https://github.com/langfuse/langfuse/issues/15006

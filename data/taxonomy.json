@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "target_space": "agent observability & debugging",
+    "seeded": "2026-07-19 shakedown: 23 most recent langfuse/langfuse issues, classified by hand (3 skipped as maintainer housekeeping)"
+  },
+  "processed_ids": [
+    "langfuse/langfuse#14904",
+    "langfuse/langfuse#14906",
+    "langfuse/langfuse#14907",
+    "langfuse/langfuse#14913",
+    "langfuse/langfuse#14916",
+    "langfuse/langfuse#14925",
+    "langfuse/langfuse#14946",
+    "langfuse/langfuse#14987",
+    "langfuse/langfuse#14999",
+    "langfuse/langfuse#15000",
+    "langfuse/langfuse#15006",
+    "langfuse/langfuse#15007",
+    "langfuse/langfuse#15008",
+    "langfuse/langfuse#15009",
+    "langfuse/langfuse#15013",
+    "langfuse/langfuse#15016",
+    "langfuse/langfuse#15017",
+    "langfuse/langfuse#15018",
+    "langfuse/langfuse#15019",
+    "langfuse/langfuse#15034",
+    "langfuse/langfuse#15072",
+    "langfuse/langfuse#15099",
+    "langfuse/langfuse#15105"
+  ],
+  "entries": [
+    {
+      "type": "pain_point",
+      "category": "self-hosted deployment breakage",
+      "count": 4,
+      "sources": {
+        "langfuse/langfuse": 4
+      },
+      "examples": [
+        {
+          "note": "v4 backfill migrations time out on ClickHouse",
+          "url": "https://github.com/langfuse/langfuse/issues/14999"
+        },
+        {
+          "note": "ClickHouse migration incompatible with NFS/EFS filesystems",
+          "url": "https://github.com/langfuse/langfuse/issues/14906"
+        },
+        {
+          "note": "traces page stuck on onboarding in events_only mode",
+          "url": "https://github.com/langfuse/langfuse/issues/15034"
+        },
+        {
+          "note": "self-host docker setup silently records nothing",
+          "url": "https://github.com/langfuse/langfuse/issues/14925"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "experiments & evals workflow bugs",
+      "count": 4,
+      "sources": {
+        "langfuse/langfuse": 4
+      },
+      "examples": [
+        {
+          "note": "regression: cannot open trace in experiment comparison view",
+          "url": "https://github.com/langfuse/langfuse/issues/15099"
+        },
+        {
+          "note": "tool config dropped in dataset experiments via UI",
+          "url": "https://github.com/langfuse/langfuse/issues/14904"
+        },
+        {
+          "note": "eval preview runs unbounded queries, exhausts memory",
+          "url": "https://github.com/langfuse/langfuse/issues/14946"
+        },
+        {
+          "note": "PR comment collision in parallel experiment matrix",
+          "url": "https://github.com/langfuse/langfuse/issues/14907"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "trace viewer renders blank",
+      "count": 2,
+      "sources": {
+        "langfuse/langfuse": 2
+      },
+      "examples": [
+        {
+          "note": "specific traces never render in UI, API returns them fine",
+          "url": "https://github.com/langfuse/langfuse/issues/15007"
+        },
+        {
+          "note": "observations table blank for GenAI role/parts messages",
+          "url": "https://github.com/langfuse/langfuse/issues/15000"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "token & cost metrics wrong",
+      "count": 2,
+      "sources": {
+        "langfuse/langfuse": 2
+      },
+      "examples": [
+        {
+          "note": "output token count wrong via LiteLLM gateway",
+          "url": "https://github.com/langfuse/langfuse/issues/14987"
+        },
+        {
+          "note": "tokens-per-second column always empty",
+          "url": "https://github.com/langfuse/langfuse/issues/14913"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "UI crashes & hangs",
+      "count": 2,
+      "sources": {
+        "langfuse/langfuse": 2
+      },
+      "examples": [
+        {
+          "note": "selecting GPT-5.x default model hangs indefinitely",
+          "url": "https://github.com/langfuse/langfuse/issues/15017"
+        },
+        {
+          "note": "frontend crashes where crypto.randomUUID unavailable",
+          "url": "https://github.com/langfuse/langfuse/issues/15008"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "silent failure without validation",
+      "count": 1,
+      "sources": {
+        "langfuse/langfuse": 1
+      },
+      "examples": [
+        {
+          "note": "manual scoring silently clamps out-of-range values",
+          "url": "https://github.com/langfuse/langfuse/issues/15009"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "SDK wrapper integration gaps",
+      "count": 1,
+      "sources": {
+        "langfuse/langfuse": 1
+      },
+      "examples": [
+        {
+          "note": "OpenAI stream helpers reject Langfuse-specific arguments",
+          "url": "https://github.com/langfuse/langfuse/issues/15018"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "trace search broken for Unicode",
+      "count": 1,
+      "sources": {
+        "langfuse/langfuse": 1
+      },
+      "examples": [
+        {
+          "note": "tracing search fails on Unicode and Chinese input",
+          "url": "https://github.com/langfuse/langfuse/issues/15072"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "dependency security vulnerabilities",
+      "count": 1,
+      "sources": {
+        "langfuse/langfuse": 1
+      },
+      "examples": [
+        {
+          "note": "high-severity vulns in Docker image dependencies",
+          "url": "https://github.com/langfuse/langfuse/issues/14916"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "broader provider integrations",
+      "count": 1,
+      "sources": {
+        "langfuse/langfuse": 1
+      },
+      "examples": [
+        {
+          "note": "add OpenAI-compatible meta-router to provider examples",
+          "url": "https://github.com/langfuse/langfuse/issues/15105"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "flexible annotation review workflows",
+      "count": 1,
+      "sources": {
+        "langfuse/langfuse": 1
+      },
+      "examples": [
+        {
+          "note": "annotation queues without score configs for corrected outputs",
+          "url": "https://github.com/langfuse/langfuse/issues/15006"
+        }
+      ]
+    },
+    {
+      "type": "use_case",
+      "category": "heavy evals & experiment comparison",
+      "count": 2,
+      "sources": {
+        "langfuse/langfuse": 2
+      },
+      "examples": [
+        {
+          "note": "cloud customer heavily uses evals and run comparisons",
+          "url": "https://github.com/langfuse/langfuse/issues/15099"
+        },
+        {
+          "note": "experiments run from CI in parallel matrices",
+          "url": "https://github.com/langfuse/langfuse/issues/14907"
+        }
+      ]
+    }
+  ]
+}
