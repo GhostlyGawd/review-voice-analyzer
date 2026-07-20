@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 pipeline/fetch_github_issues_mirror.py:*)",
+      "Bash(python pipeline/fetch_github_issues_mirror.py:*)"
+    ]
+  }
+}

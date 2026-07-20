@@ -8,11 +8,12 @@ W&B Weave, Galileo, Latitude, MLflow.
 
 | Source | Notes |
 |---|---|
-| GitHub issues | See CLAUDE.md table — ~10,800 issues across 7 public repos |
+| GitHub issues | MINED 2026-07-19/20 — all 7 repos via public-mirror fetcher (80-83% coverage each, documented); ~9,050 issues classified |
 | GitHub Discussions | Feature wishes; Langfuse's is active |
 | Reddit | r/LangChain, r/LLMDevs, r/LocalLLaMA |
 | G2 / Capterra | Paid-customer reviews; paste into the miner |
 | Discord | Langfuse and LangChain servers; complaints in help channels |
+| Hacker News | MINED 2026-07-19 (`pipeline/fetch_hn.py`) — launch/Show HN threads + topic threads, 5,168 items; vendor self-replies excluded |
 
 ## Early themes (from vendor-adjacent research — NOT tally data)
 
