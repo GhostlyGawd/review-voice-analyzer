@@ -95,10 +95,20 @@ docs/competitor-map.md            # field map + where the raw voice lives
 web/review-miner.jsx              # browser-based miner (Claude.ai artifact version)
 ```
 
-## State as of 2026-07-19
+## State as of 2026-07-20
 
-- **Milestone 1 COMPLETE — langfuse + phoenix full passes done.** Taxonomy:
-  **4,434 pieces across 478 categories from 12,277 processed items.**
+- **Milestones 1 AND 2 COMPLETE — all seven competitor issue trackers
+  mined** (langfuse, phoenix, opik, langsmith-sdk, agentops, helicone,
+  lmnr; 80-83% mirror coverage each, gaps documented) plus the full HN
+  pass. Taxonomy: **5,990 pieces across 528 categories from 14,224
+  processed items.** Field-wide corroborated head: SDK wrapper
+  integration gaps 515 (all 8 sources), self-hosted deployment breakage
+  322, token & cost metrics wrong 239, experiments & evals workflow bugs
+  216, broader provider integrations 192 (top wish), silent failure
+  without validation 121, trace viewer inconsistent rendering 79 +
+  renders blank 41.
+- Prior milestone-1 note (2026-07-19): taxonomy was
+  4,434 pieces across 478 categories from 12,277 processed items.
   Phoenix pass: 4,829 issues (81% mirror coverage) classified by 49
   parallel agents; phoenix's tracker is largely Arize's internal sprint
   board, so exclusion rule 7 did heavy lifting — 1,474 user-voice pieces

@@ -4,6 +4,420 @@
     "seeded": "2026-07-19 shakedown: 23 most recent langfuse/langfuse issues, classified by hand (3 skipped as maintainer housekeeping)"
   },
   "processed_ids": [
+    "AgentOps-AI/agentops#1",
+    "AgentOps-AI/agentops#1001",
+    "AgentOps-AI/agentops#1003",
+    "AgentOps-AI/agentops#1004",
+    "AgentOps-AI/agentops#1013",
+    "AgentOps-AI/agentops#1016",
+    "AgentOps-AI/agentops#1017",
+    "AgentOps-AI/agentops#1021",
+    "AgentOps-AI/agentops#1023",
+    "AgentOps-AI/agentops#1024",
+    "AgentOps-AI/agentops#1025",
+    "AgentOps-AI/agentops#1026",
+    "AgentOps-AI/agentops#1028",
+    "AgentOps-AI/agentops#1032",
+    "AgentOps-AI/agentops#1036",
+    "AgentOps-AI/agentops#1037",
+    "AgentOps-AI/agentops#1038",
+    "AgentOps-AI/agentops#1045",
+    "AgentOps-AI/agentops#1046",
+    "AgentOps-AI/agentops#1061",
+    "AgentOps-AI/agentops#1079",
+    "AgentOps-AI/agentops#1082",
+    "AgentOps-AI/agentops#1094",
+    "AgentOps-AI/agentops#11",
+    "AgentOps-AI/agentops#1101",
+    "AgentOps-AI/agentops#1104",
+    "AgentOps-AI/agentops#1105",
+    "AgentOps-AI/agentops#1106",
+    "AgentOps-AI/agentops#1125",
+    "AgentOps-AI/agentops#1127",
+    "AgentOps-AI/agentops#1130",
+    "AgentOps-AI/agentops#1149",
+    "AgentOps-AI/agentops#1151",
+    "AgentOps-AI/agentops#1165",
+    "AgentOps-AI/agentops#1170",
+    "AgentOps-AI/agentops#1171",
+    "AgentOps-AI/agentops#1172",
+    "AgentOps-AI/agentops#1180",
+    "AgentOps-AI/agentops#1202",
+    "AgentOps-AI/agentops#1257",
+    "AgentOps-AI/agentops#1258",
+    "AgentOps-AI/agentops#1260",
+    "AgentOps-AI/agentops#1262",
+    "AgentOps-AI/agentops#1263",
+    "AgentOps-AI/agentops#1266",
+    "AgentOps-AI/agentops#1269",
+    "AgentOps-AI/agentops#1280",
+    "AgentOps-AI/agentops#1291",
+    "AgentOps-AI/agentops#1295",
+    "AgentOps-AI/agentops#1299",
+    "AgentOps-AI/agentops#1309",
+    "AgentOps-AI/agentops#1313",
+    "AgentOps-AI/agentops#1321",
+    "AgentOps-AI/agentops#1329",
+    "AgentOps-AI/agentops#1334",
+    "AgentOps-AI/agentops#1335",
+    "AgentOps-AI/agentops#1336",
+    "AgentOps-AI/agentops#1337",
+    "AgentOps-AI/agentops#1338",
+    "AgentOps-AI/agentops#1342",
+    "AgentOps-AI/agentops#1363",
+    "AgentOps-AI/agentops#1369",
+    "AgentOps-AI/agentops#14",
+    "AgentOps-AI/agentops#1406",
+    "AgentOps-AI/agentops#1419",
+    "AgentOps-AI/agentops#15",
+    "AgentOps-AI/agentops#151",
+    "AgentOps-AI/agentops#161",
+    "AgentOps-AI/agentops#165",
+    "AgentOps-AI/agentops#167",
+    "AgentOps-AI/agentops#17",
+    "AgentOps-AI/agentops#170",
+    "AgentOps-AI/agentops#171",
+    "AgentOps-AI/agentops#172",
+    "AgentOps-AI/agentops#176",
+    "AgentOps-AI/agentops#18",
+    "AgentOps-AI/agentops#182",
+    "AgentOps-AI/agentops#188",
+    "AgentOps-AI/agentops#191",
+    "AgentOps-AI/agentops#192",
+    "AgentOps-AI/agentops#194",
+    "AgentOps-AI/agentops#197",
+    "AgentOps-AI/agentops#198",
+    "AgentOps-AI/agentops#2",
+    "AgentOps-AI/agentops#200",
+    "AgentOps-AI/agentops#201",
+    "AgentOps-AI/agentops#24",
+    "AgentOps-AI/agentops#249",
+    "AgentOps-AI/agentops#250",
+    "AgentOps-AI/agentops#253",
+    "AgentOps-AI/agentops#254",
+    "AgentOps-AI/agentops#256",
+    "AgentOps-AI/agentops#26",
+    "AgentOps-AI/agentops#262",
+    "AgentOps-AI/agentops#265",
+    "AgentOps-AI/agentops#267",
+    "AgentOps-AI/agentops#27",
+    "AgentOps-AI/agentops#270",
+    "AgentOps-AI/agentops#272",
+    "AgentOps-AI/agentops#274",
+    "AgentOps-AI/agentops#277",
+    "AgentOps-AI/agentops#28",
+    "AgentOps-AI/agentops#280",
+    "AgentOps-AI/agentops#282",
+    "AgentOps-AI/agentops#283",
+    "AgentOps-AI/agentops#284",
+    "AgentOps-AI/agentops#290",
+    "AgentOps-AI/agentops#291",
+    "AgentOps-AI/agentops#296",
+    "AgentOps-AI/agentops#297",
+    "AgentOps-AI/agentops#3",
+    "AgentOps-AI/agentops#30",
+    "AgentOps-AI/agentops#301",
+    "AgentOps-AI/agentops#308",
+    "AgentOps-AI/agentops#317",
+    "AgentOps-AI/agentops#321",
+    "AgentOps-AI/agentops#33",
+    "AgentOps-AI/agentops#336",
+    "AgentOps-AI/agentops#347",
+    "AgentOps-AI/agentops#349",
+    "AgentOps-AI/agentops#350",
+    "AgentOps-AI/agentops#363",
+    "AgentOps-AI/agentops#37",
+    "AgentOps-AI/agentops#372",
+    "AgentOps-AI/agentops#373",
+    "AgentOps-AI/agentops#375",
+    "AgentOps-AI/agentops#376",
+    "AgentOps-AI/agentops#379",
+    "AgentOps-AI/agentops#380",
+    "AgentOps-AI/agentops#383",
+    "AgentOps-AI/agentops#386",
+    "AgentOps-AI/agentops#388",
+    "AgentOps-AI/agentops#4",
+    "AgentOps-AI/agentops#403",
+    "AgentOps-AI/agentops#41",
+    "AgentOps-AI/agentops#414",
+    "AgentOps-AI/agentops#415",
+    "AgentOps-AI/agentops#419",
+    "AgentOps-AI/agentops#432",
+    "AgentOps-AI/agentops#433",
+    "AgentOps-AI/agentops#439",
+    "AgentOps-AI/agentops#44",
+    "AgentOps-AI/agentops#440",
+    "AgentOps-AI/agentops#445",
+    "AgentOps-AI/agentops#446",
+    "AgentOps-AI/agentops#447",
+    "AgentOps-AI/agentops#448",
+    "AgentOps-AI/agentops#449",
+    "AgentOps-AI/agentops#45",
+    "AgentOps-AI/agentops#450",
+    "AgentOps-AI/agentops#451",
+    "AgentOps-AI/agentops#452",
+    "AgentOps-AI/agentops#453",
+    "AgentOps-AI/agentops#454",
+    "AgentOps-AI/agentops#455",
+    "AgentOps-AI/agentops#456",
+    "AgentOps-AI/agentops#457",
+    "AgentOps-AI/agentops#458",
+    "AgentOps-AI/agentops#459",
+    "AgentOps-AI/agentops#46",
+    "AgentOps-AI/agentops#460",
+    "AgentOps-AI/agentops#461",
+    "AgentOps-AI/agentops#462",
+    "AgentOps-AI/agentops#463",
+    "AgentOps-AI/agentops#469",
+    "AgentOps-AI/agentops#470",
+    "AgentOps-AI/agentops#471",
+    "AgentOps-AI/agentops#473",
+    "AgentOps-AI/agentops#475",
+    "AgentOps-AI/agentops#477",
+    "AgentOps-AI/agentops#48",
+    "AgentOps-AI/agentops#481",
+    "AgentOps-AI/agentops#482",
+    "AgentOps-AI/agentops#488",
+    "AgentOps-AI/agentops#496",
+    "AgentOps-AI/agentops#498",
+    "AgentOps-AI/agentops#499",
+    "AgentOps-AI/agentops#5",
+    "AgentOps-AI/agentops#50",
+    "AgentOps-AI/agentops#500",
+    "AgentOps-AI/agentops#502",
+    "AgentOps-AI/agentops#505",
+    "AgentOps-AI/agentops#508",
+    "AgentOps-AI/agentops#509",
+    "AgentOps-AI/agentops#51",
+    "AgentOps-AI/agentops#511",
+    "AgentOps-AI/agentops#512",
+    "AgentOps-AI/agentops#514",
+    "AgentOps-AI/agentops#516",
+    "AgentOps-AI/agentops#518",
+    "AgentOps-AI/agentops#520",
+    "AgentOps-AI/agentops#521",
+    "AgentOps-AI/agentops#524",
+    "AgentOps-AI/agentops#531",
+    "AgentOps-AI/agentops#532",
+    "AgentOps-AI/agentops#533",
+    "AgentOps-AI/agentops#534",
+    "AgentOps-AI/agentops#535",
+    "AgentOps-AI/agentops#537",
+    "AgentOps-AI/agentops#539",
+    "AgentOps-AI/agentops#54",
+    "AgentOps-AI/agentops#542",
+    "AgentOps-AI/agentops#543",
+    "AgentOps-AI/agentops#544",
+    "AgentOps-AI/agentops#545",
+    "AgentOps-AI/agentops#547",
+    "AgentOps-AI/agentops#548",
+    "AgentOps-AI/agentops#550",
+    "AgentOps-AI/agentops#551",
+    "AgentOps-AI/agentops#553",
+    "AgentOps-AI/agentops#555",
+    "AgentOps-AI/agentops#557",
+    "AgentOps-AI/agentops#559",
+    "AgentOps-AI/agentops#560",
+    "AgentOps-AI/agentops#57",
+    "AgentOps-AI/agentops#578",
+    "AgentOps-AI/agentops#596",
+    "AgentOps-AI/agentops#600",
+    "AgentOps-AI/agentops#607",
+    "AgentOps-AI/agentops#61",
+    "AgentOps-AI/agentops#610",
+    "AgentOps-AI/agentops#612",
+    "AgentOps-AI/agentops#615",
+    "AgentOps-AI/agentops#62",
+    "AgentOps-AI/agentops#620",
+    "AgentOps-AI/agentops#621",
+    "AgentOps-AI/agentops#629",
+    "AgentOps-AI/agentops#632",
+    "AgentOps-AI/agentops#633",
+    "AgentOps-AI/agentops#634",
+    "AgentOps-AI/agentops#640",
+    "AgentOps-AI/agentops#65",
+    "AgentOps-AI/agentops#653",
+    "AgentOps-AI/agentops#655",
+    "AgentOps-AI/agentops#656",
+    "AgentOps-AI/agentops#658",
+    "AgentOps-AI/agentops#66",
+    "AgentOps-AI/agentops#663",
+    "AgentOps-AI/agentops#669",
+    "AgentOps-AI/agentops#67",
+    "AgentOps-AI/agentops#671",
+    "AgentOps-AI/agentops#672",
+    "AgentOps-AI/agentops#674",
+    "AgentOps-AI/agentops#676",
+    "AgentOps-AI/agentops#678",
+    "AgentOps-AI/agentops#681",
+    "AgentOps-AI/agentops#682",
+    "AgentOps-AI/agentops#683",
+    "AgentOps-AI/agentops#684",
+    "AgentOps-AI/agentops#685",
+    "AgentOps-AI/agentops#686",
+    "AgentOps-AI/agentops#687",
+    "AgentOps-AI/agentops#688",
+    "AgentOps-AI/agentops#689",
+    "AgentOps-AI/agentops#690",
+    "AgentOps-AI/agentops#691",
+    "AgentOps-AI/agentops#692",
+    "AgentOps-AI/agentops#693",
+    "AgentOps-AI/agentops#694",
+    "AgentOps-AI/agentops#695",
+    "AgentOps-AI/agentops#696",
+    "AgentOps-AI/agentops#697",
+    "AgentOps-AI/agentops#698",
+    "AgentOps-AI/agentops#7",
+    "AgentOps-AI/agentops#70",
+    "AgentOps-AI/agentops#704",
+    "AgentOps-AI/agentops#705",
+    "AgentOps-AI/agentops#706",
+    "AgentOps-AI/agentops#709",
+    "AgentOps-AI/agentops#710",
+    "AgentOps-AI/agentops#711",
+    "AgentOps-AI/agentops#712",
+    "AgentOps-AI/agentops#715",
+    "AgentOps-AI/agentops#716",
+    "AgentOps-AI/agentops#717",
+    "AgentOps-AI/agentops#718",
+    "AgentOps-AI/agentops#719",
+    "AgentOps-AI/agentops#72",
+    "AgentOps-AI/agentops#720",
+    "AgentOps-AI/agentops#721",
+    "AgentOps-AI/agentops#722",
+    "AgentOps-AI/agentops#723",
+    "AgentOps-AI/agentops#724",
+    "AgentOps-AI/agentops#725",
+    "AgentOps-AI/agentops#726",
+    "AgentOps-AI/agentops#727",
+    "AgentOps-AI/agentops#732",
+    "AgentOps-AI/agentops#74",
+    "AgentOps-AI/agentops#744",
+    "AgentOps-AI/agentops#745",
+    "AgentOps-AI/agentops#749",
+    "AgentOps-AI/agentops#754",
+    "AgentOps-AI/agentops#755",
+    "AgentOps-AI/agentops#757",
+    "AgentOps-AI/agentops#758",
+    "AgentOps-AI/agentops#759",
+    "AgentOps-AI/agentops#760",
+    "AgentOps-AI/agentops#761",
+    "AgentOps-AI/agentops#763",
+    "AgentOps-AI/agentops#764",
+    "AgentOps-AI/agentops#765",
+    "AgentOps-AI/agentops#766",
+    "AgentOps-AI/agentops#767",
+    "AgentOps-AI/agentops#768",
+    "AgentOps-AI/agentops#769",
+    "AgentOps-AI/agentops#77",
+    "AgentOps-AI/agentops#770",
+    "AgentOps-AI/agentops#771",
+    "AgentOps-AI/agentops#772",
+    "AgentOps-AI/agentops#773",
+    "AgentOps-AI/agentops#774",
+    "AgentOps-AI/agentops#775",
+    "AgentOps-AI/agentops#776",
+    "AgentOps-AI/agentops#777",
+    "AgentOps-AI/agentops#778",
+    "AgentOps-AI/agentops#779",
+    "AgentOps-AI/agentops#780",
+    "AgentOps-AI/agentops#781",
+    "AgentOps-AI/agentops#782",
+    "AgentOps-AI/agentops#783",
+    "AgentOps-AI/agentops#784",
+    "AgentOps-AI/agentops#787",
+    "AgentOps-AI/agentops#789",
+    "AgentOps-AI/agentops#790",
+    "AgentOps-AI/agentops#802",
+    "AgentOps-AI/agentops#81",
+    "AgentOps-AI/agentops#816",
+    "AgentOps-AI/agentops#825",
+    "AgentOps-AI/agentops#827",
+    "AgentOps-AI/agentops#83",
+    "AgentOps-AI/agentops#833",
+    "AgentOps-AI/agentops#834",
+    "AgentOps-AI/agentops#835",
+    "AgentOps-AI/agentops#837",
+    "AgentOps-AI/agentops#838",
+    "AgentOps-AI/agentops#839",
+    "AgentOps-AI/agentops#849",
+    "AgentOps-AI/agentops#850",
+    "AgentOps-AI/agentops#851",
+    "AgentOps-AI/agentops#852",
+    "AgentOps-AI/agentops#855",
+    "AgentOps-AI/agentops#857",
+    "AgentOps-AI/agentops#858",
+    "AgentOps-AI/agentops#859",
+    "AgentOps-AI/agentops#860",
+    "AgentOps-AI/agentops#861",
+    "AgentOps-AI/agentops#864",
+    "AgentOps-AI/agentops#867",
+    "AgentOps-AI/agentops#868",
+    "AgentOps-AI/agentops#869",
+    "AgentOps-AI/agentops#870",
+    "AgentOps-AI/agentops#871",
+    "AgentOps-AI/agentops#873",
+    "AgentOps-AI/agentops#875",
+    "AgentOps-AI/agentops#877",
+    "AgentOps-AI/agentops#878",
+    "AgentOps-AI/agentops#88",
+    "AgentOps-AI/agentops#883",
+    "AgentOps-AI/agentops#884",
+    "AgentOps-AI/agentops#886",
+    "AgentOps-AI/agentops#887",
+    "AgentOps-AI/agentops#889",
+    "AgentOps-AI/agentops#894",
+    "AgentOps-AI/agentops#895",
+    "AgentOps-AI/agentops#897",
+    "AgentOps-AI/agentops#898",
+    "AgentOps-AI/agentops#9",
+    "AgentOps-AI/agentops#902",
+    "AgentOps-AI/agentops#903",
+    "AgentOps-AI/agentops#904",
+    "AgentOps-AI/agentops#905",
+    "AgentOps-AI/agentops#907",
+    "AgentOps-AI/agentops#908",
+    "AgentOps-AI/agentops#912",
+    "AgentOps-AI/agentops#913",
+    "AgentOps-AI/agentops#916",
+    "AgentOps-AI/agentops#917",
+    "AgentOps-AI/agentops#920",
+    "AgentOps-AI/agentops#921",
+    "AgentOps-AI/agentops#922",
+    "AgentOps-AI/agentops#923",
+    "AgentOps-AI/agentops#925",
+    "AgentOps-AI/agentops#929",
+    "AgentOps-AI/agentops#930",
+    "AgentOps-AI/agentops#931",
+    "AgentOps-AI/agentops#934",
+    "AgentOps-AI/agentops#935",
+    "AgentOps-AI/agentops#936",
+    "AgentOps-AI/agentops#940",
+    "AgentOps-AI/agentops#945",
+    "AgentOps-AI/agentops#947",
+    "AgentOps-AI/agentops#952",
+    "AgentOps-AI/agentops#953",
+    "AgentOps-AI/agentops#955",
+    "AgentOps-AI/agentops#956",
+    "AgentOps-AI/agentops#957",
+    "AgentOps-AI/agentops#959",
+    "AgentOps-AI/agentops#960",
+    "AgentOps-AI/agentops#962",
+    "AgentOps-AI/agentops#965",
+    "AgentOps-AI/agentops#967",
+    "AgentOps-AI/agentops#968",
+    "AgentOps-AI/agentops#969",
+    "AgentOps-AI/agentops#974",
+    "AgentOps-AI/agentops#975",
+    "AgentOps-AI/agentops#977",
+    "AgentOps-AI/agentops#986",
+    "AgentOps-AI/agentops#988",
+    "AgentOps-AI/agentops#989",
+    "AgentOps-AI/agentops#991",
+    "AgentOps-AI/agentops#994",
+    "AgentOps-AI/agentops#995",
+    "AgentOps-AI/agentops#996",
+    "AgentOps-AI/agentops#998",
     "Arize-ai/phoenix#1",
     "Arize-ai/phoenix#1000",
     "Arize-ai/phoenix#10001",
@@ -4833,6 +5247,877 @@
     "Arize-ai/phoenix#9986",
     "Arize-ai/phoenix#9988",
     "Arize-ai/phoenix#999",
+    "Helicone/helicone#1002",
+    "Helicone/helicone#1030",
+    "Helicone/helicone#1033",
+    "Helicone/helicone#1057",
+    "Helicone/helicone#1061",
+    "Helicone/helicone#1062",
+    "Helicone/helicone#1077",
+    "Helicone/helicone#1109",
+    "Helicone/helicone#111",
+    "Helicone/helicone#1112",
+    "Helicone/helicone#1114",
+    "Helicone/helicone#1131",
+    "Helicone/helicone#1132",
+    "Helicone/helicone#1171",
+    "Helicone/helicone#1202",
+    "Helicone/helicone#1222",
+    "Helicone/helicone#1268",
+    "Helicone/helicone#132",
+    "Helicone/helicone#1326",
+    "Helicone/helicone#1328",
+    "Helicone/helicone#1329",
+    "Helicone/helicone#1351",
+    "Helicone/helicone#1364",
+    "Helicone/helicone#1374",
+    "Helicone/helicone#1391",
+    "Helicone/helicone#1395",
+    "Helicone/helicone#1402",
+    "Helicone/helicone#1406",
+    "Helicone/helicone#1425",
+    "Helicone/helicone#1463",
+    "Helicone/helicone#149",
+    "Helicone/helicone#1508",
+    "Helicone/helicone#1549",
+    "Helicone/helicone#1578",
+    "Helicone/helicone#158",
+    "Helicone/helicone#1600",
+    "Helicone/helicone#163",
+    "Helicone/helicone#1665",
+    "Helicone/helicone#1666",
+    "Helicone/helicone#1667",
+    "Helicone/helicone#1680",
+    "Helicone/helicone#1733",
+    "Helicone/helicone#1746",
+    "Helicone/helicone#1790",
+    "Helicone/helicone#1814",
+    "Helicone/helicone#1834",
+    "Helicone/helicone#1886",
+    "Helicone/helicone#1951",
+    "Helicone/helicone#1967",
+    "Helicone/helicone#209",
+    "Helicone/helicone#210",
+    "Helicone/helicone#211",
+    "Helicone/helicone#212",
+    "Helicone/helicone#213",
+    "Helicone/helicone#214",
+    "Helicone/helicone#2152",
+    "Helicone/helicone#217",
+    "Helicone/helicone#218",
+    "Helicone/helicone#219",
+    "Helicone/helicone#220",
+    "Helicone/helicone#2217",
+    "Helicone/helicone#223",
+    "Helicone/helicone#2234",
+    "Helicone/helicone#2244",
+    "Helicone/helicone#2245",
+    "Helicone/helicone#2247",
+    "Helicone/helicone#2256",
+    "Helicone/helicone#2281",
+    "Helicone/helicone#2284",
+    "Helicone/helicone#2291",
+    "Helicone/helicone#2348",
+    "Helicone/helicone#2377",
+    "Helicone/helicone#2423",
+    "Helicone/helicone#245",
+    "Helicone/helicone#2463",
+    "Helicone/helicone#2556",
+    "Helicone/helicone#2557",
+    "Helicone/helicone#2560",
+    "Helicone/helicone#2582",
+    "Helicone/helicone#2646",
+    "Helicone/helicone#2648",
+    "Helicone/helicone#2689",
+    "Helicone/helicone#274",
+    "Helicone/helicone#276",
+    "Helicone/helicone#2760",
+    "Helicone/helicone#2771",
+    "Helicone/helicone#2783",
+    "Helicone/helicone#2784",
+    "Helicone/helicone#2786",
+    "Helicone/helicone#2788",
+    "Helicone/helicone#279",
+    "Helicone/helicone#2792",
+    "Helicone/helicone#280",
+    "Helicone/helicone#282",
+    "Helicone/helicone#283",
+    "Helicone/helicone#284",
+    "Helicone/helicone#2840",
+    "Helicone/helicone#288",
+    "Helicone/helicone#2892",
+    "Helicone/helicone#2900",
+    "Helicone/helicone#2947",
+    "Helicone/helicone#295",
+    "Helicone/helicone#2955",
+    "Helicone/helicone#2956",
+    "Helicone/helicone#2957",
+    "Helicone/helicone#2961",
+    "Helicone/helicone#2965",
+    "Helicone/helicone#2973",
+    "Helicone/helicone#2974",
+    "Helicone/helicone#2977",
+    "Helicone/helicone#2979",
+    "Helicone/helicone#2981",
+    "Helicone/helicone#2982",
+    "Helicone/helicone#2983",
+    "Helicone/helicone#2996",
+    "Helicone/helicone#2997",
+    "Helicone/helicone#3001",
+    "Helicone/helicone#3003",
+    "Helicone/helicone#3043",
+    "Helicone/helicone#305",
+    "Helicone/helicone#3057",
+    "Helicone/helicone#3068",
+    "Helicone/helicone#307",
+    "Helicone/helicone#3079",
+    "Helicone/helicone#3080",
+    "Helicone/helicone#3081",
+    "Helicone/helicone#3082",
+    "Helicone/helicone#3091",
+    "Helicone/helicone#3093",
+    "Helicone/helicone#3098",
+    "Helicone/helicone#310",
+    "Helicone/helicone#311",
+    "Helicone/helicone#3111",
+    "Helicone/helicone#3115",
+    "Helicone/helicone#3128",
+    "Helicone/helicone#3186",
+    "Helicone/helicone#3251",
+    "Helicone/helicone#3267",
+    "Helicone/helicone#328",
+    "Helicone/helicone#33",
+    "Helicone/helicone#3303",
+    "Helicone/helicone#3310",
+    "Helicone/helicone#335",
+    "Helicone/helicone#339",
+    "Helicone/helicone#3396",
+    "Helicone/helicone#34",
+    "Helicone/helicone#3411",
+    "Helicone/helicone#3466",
+    "Helicone/helicone#3489",
+    "Helicone/helicone#3492",
+    "Helicone/helicone#35",
+    "Helicone/helicone#3508",
+    "Helicone/helicone#3509",
+    "Helicone/helicone#3512",
+    "Helicone/helicone#3549",
+    "Helicone/helicone#3556",
+    "Helicone/helicone#3651",
+    "Helicone/helicone#3680",
+    "Helicone/helicone#3687",
+    "Helicone/helicone#3736",
+    "Helicone/helicone#3737",
+    "Helicone/helicone#3767",
+    "Helicone/helicone#3809",
+    "Helicone/helicone#3836",
+    "Helicone/helicone#3851",
+    "Helicone/helicone#3852",
+    "Helicone/helicone#3906",
+    "Helicone/helicone#3951",
+    "Helicone/helicone#3952",
+    "Helicone/helicone#3953",
+    "Helicone/helicone#4029",
+    "Helicone/helicone#4072",
+    "Helicone/helicone#4077",
+    "Helicone/helicone#4080",
+    "Helicone/helicone#4081",
+    "Helicone/helicone#4107",
+    "Helicone/helicone#4115",
+    "Helicone/helicone#4119",
+    "Helicone/helicone#4186",
+    "Helicone/helicone#4332",
+    "Helicone/helicone#4432",
+    "Helicone/helicone#45",
+    "Helicone/helicone#4547",
+    "Helicone/helicone#4583",
+    "Helicone/helicone#4619",
+    "Helicone/helicone#463",
+    "Helicone/helicone#464",
+    "Helicone/helicone#4683",
+    "Helicone/helicone#4695",
+    "Helicone/helicone#4716",
+    "Helicone/helicone#473",
+    "Helicone/helicone#4769",
+    "Helicone/helicone#4770",
+    "Helicone/helicone#4893",
+    "Helicone/helicone#4894",
+    "Helicone/helicone#4907",
+    "Helicone/helicone#4914",
+    "Helicone/helicone#493",
+    "Helicone/helicone#4960",
+    "Helicone/helicone#4966",
+    "Helicone/helicone#4980",
+    "Helicone/helicone#5",
+    "Helicone/helicone#501",
+    "Helicone/helicone#505",
+    "Helicone/helicone#510",
+    "Helicone/helicone#5135",
+    "Helicone/helicone#5172",
+    "Helicone/helicone#5200",
+    "Helicone/helicone#5203",
+    "Helicone/helicone#5242",
+    "Helicone/helicone#5284",
+    "Helicone/helicone#5297",
+    "Helicone/helicone#5353",
+    "Helicone/helicone#5374",
+    "Helicone/helicone#5407",
+    "Helicone/helicone#5423",
+    "Helicone/helicone#5475",
+    "Helicone/helicone#5550",
+    "Helicone/helicone#5561",
+    "Helicone/helicone#5610",
+    "Helicone/helicone#5615",
+    "Helicone/helicone#5629",
+    "Helicone/helicone#5636",
+    "Helicone/helicone#5653",
+    "Helicone/helicone#5657",
+    "Helicone/helicone#570",
+    "Helicone/helicone#596",
+    "Helicone/helicone#605",
+    "Helicone/helicone#647",
+    "Helicone/helicone#678",
+    "Helicone/helicone#692",
+    "Helicone/helicone#698",
+    "Helicone/helicone#699",
+    "Helicone/helicone#712",
+    "Helicone/helicone#715",
+    "Helicone/helicone#718",
+    "Helicone/helicone#719",
+    "Helicone/helicone#731",
+    "Helicone/helicone#733",
+    "Helicone/helicone#739",
+    "Helicone/helicone#752",
+    "Helicone/helicone#761",
+    "Helicone/helicone#777",
+    "Helicone/helicone#798",
+    "Helicone/helicone#807",
+    "Helicone/helicone#808",
+    "Helicone/helicone#809",
+    "Helicone/helicone#810",
+    "Helicone/helicone#811",
+    "Helicone/helicone#815",
+    "Helicone/helicone#840",
+    "Helicone/helicone#842",
+    "Helicone/helicone#844",
+    "Helicone/helicone#852",
+    "Helicone/helicone#859",
+    "Helicone/helicone#862",
+    "Helicone/helicone#869",
+    "Helicone/helicone#872",
+    "Helicone/helicone#877",
+    "Helicone/helicone#879",
+    "Helicone/helicone#883",
+    "Helicone/helicone#891",
+    "Helicone/helicone#909",
+    "Helicone/helicone#917",
+    "Helicone/helicone#933",
+    "Helicone/helicone#937",
+    "Helicone/helicone#942",
+    "Helicone/helicone#946",
+    "Helicone/helicone#951",
+    "Helicone/helicone#964",
+    "Helicone/helicone#965",
+    "Helicone/helicone#966",
+    "comet-ml/opik#1000",
+    "comet-ml/opik#1007",
+    "comet-ml/opik#1009",
+    "comet-ml/opik#1010",
+    "comet-ml/opik#1029",
+    "comet-ml/opik#1044",
+    "comet-ml/opik#1047",
+    "comet-ml/opik#1050",
+    "comet-ml/opik#1054",
+    "comet-ml/opik#1091",
+    "comet-ml/opik#1092",
+    "comet-ml/opik#1093",
+    "comet-ml/opik#1094",
+    "comet-ml/opik#1095",
+    "comet-ml/opik#1097",
+    "comet-ml/opik#1103",
+    "comet-ml/opik#1105",
+    "comet-ml/opik#1128",
+    "comet-ml/opik#1132",
+    "comet-ml/opik#1139",
+    "comet-ml/opik#1151",
+    "comet-ml/opik#1152",
+    "comet-ml/opik#1155",
+    "comet-ml/opik#1156",
+    "comet-ml/opik#116",
+    "comet-ml/opik#1160",
+    "comet-ml/opik#1163",
+    "comet-ml/opik#1169",
+    "comet-ml/opik#1174",
+    "comet-ml/opik#1203",
+    "comet-ml/opik#1205",
+    "comet-ml/opik#1229",
+    "comet-ml/opik#1239",
+    "comet-ml/opik#1243",
+    "comet-ml/opik#1250",
+    "comet-ml/opik#1256",
+    "comet-ml/opik#1264",
+    "comet-ml/opik#1268",
+    "comet-ml/opik#1279",
+    "comet-ml/opik#1287",
+    "comet-ml/opik#1297",
+    "comet-ml/opik#1310",
+    "comet-ml/opik#1319",
+    "comet-ml/opik#1326",
+    "comet-ml/opik#1335",
+    "comet-ml/opik#1349",
+    "comet-ml/opik#1350",
+    "comet-ml/opik#1352",
+    "comet-ml/opik#1354",
+    "comet-ml/opik#1359",
+    "comet-ml/opik#1367",
+    "comet-ml/opik#137",
+    "comet-ml/opik#1382",
+    "comet-ml/opik#1392",
+    "comet-ml/opik#1393",
+    "comet-ml/opik#1396",
+    "comet-ml/opik#1407",
+    "comet-ml/opik#141",
+    "comet-ml/opik#1413",
+    "comet-ml/opik#1415",
+    "comet-ml/opik#1422",
+    "comet-ml/opik#1431",
+    "comet-ml/opik#1433",
+    "comet-ml/opik#1436",
+    "comet-ml/opik#1439",
+    "comet-ml/opik#1440",
+    "comet-ml/opik#1442",
+    "comet-ml/opik#1446",
+    "comet-ml/opik#1447",
+    "comet-ml/opik#1449",
+    "comet-ml/opik#1467",
+    "comet-ml/opik#1470",
+    "comet-ml/opik#1472",
+    "comet-ml/opik#1473",
+    "comet-ml/opik#1475",
+    "comet-ml/opik#1477",
+    "comet-ml/opik#1486",
+    "comet-ml/opik#1498",
+    "comet-ml/opik#1502",
+    "comet-ml/opik#1503",
+    "comet-ml/opik#1511",
+    "comet-ml/opik#1533",
+    "comet-ml/opik#1551",
+    "comet-ml/opik#1552",
+    "comet-ml/opik#1553",
+    "comet-ml/opik#1561",
+    "comet-ml/opik#1567",
+    "comet-ml/opik#1568",
+    "comet-ml/opik#157",
+    "comet-ml/opik#1571",
+    "comet-ml/opik#1577",
+    "comet-ml/opik#1582",
+    "comet-ml/opik#1587",
+    "comet-ml/opik#1590",
+    "comet-ml/opik#1591",
+    "comet-ml/opik#1596",
+    "comet-ml/opik#1607",
+    "comet-ml/opik#1610",
+    "comet-ml/opik#1617",
+    "comet-ml/opik#1620",
+    "comet-ml/opik#1624",
+    "comet-ml/opik#1632",
+    "comet-ml/opik#1635",
+    "comet-ml/opik#1636",
+    "comet-ml/opik#1637",
+    "comet-ml/opik#1641",
+    "comet-ml/opik#166",
+    "comet-ml/opik#1660",
+    "comet-ml/opik#1677",
+    "comet-ml/opik#1687",
+    "comet-ml/opik#1688",
+    "comet-ml/opik#1712",
+    "comet-ml/opik#1716",
+    "comet-ml/opik#1729",
+    "comet-ml/opik#1741",
+    "comet-ml/opik#1743",
+    "comet-ml/opik#1744",
+    "comet-ml/opik#1751",
+    "comet-ml/opik#1757",
+    "comet-ml/opik#1768",
+    "comet-ml/opik#1773",
+    "comet-ml/opik#1781",
+    "comet-ml/opik#1782",
+    "comet-ml/opik#1823",
+    "comet-ml/opik#1831",
+    "comet-ml/opik#1836",
+    "comet-ml/opik#1846",
+    "comet-ml/opik#1847",
+    "comet-ml/opik#1866",
+    "comet-ml/opik#1870",
+    "comet-ml/opik#1871",
+    "comet-ml/opik#1878",
+    "comet-ml/opik#1879",
+    "comet-ml/opik#1897",
+    "comet-ml/opik#1899",
+    "comet-ml/opik#1905",
+    "comet-ml/opik#1908",
+    "comet-ml/opik#1913",
+    "comet-ml/opik#1926",
+    "comet-ml/opik#1949",
+    "comet-ml/opik#1955",
+    "comet-ml/opik#1960",
+    "comet-ml/opik#1964",
+    "comet-ml/opik#1979",
+    "comet-ml/opik#1989",
+    "comet-ml/opik#1990",
+    "comet-ml/opik#2007",
+    "comet-ml/opik#2008",
+    "comet-ml/opik#2013",
+    "comet-ml/opik#2015",
+    "comet-ml/opik#2022",
+    "comet-ml/opik#2026",
+    "comet-ml/opik#2028",
+    "comet-ml/opik#2034",
+    "comet-ml/opik#2036",
+    "comet-ml/opik#204",
+    "comet-ml/opik#2044",
+    "comet-ml/opik#2046",
+    "comet-ml/opik#2048",
+    "comet-ml/opik#2049",
+    "comet-ml/opik#2054",
+    "comet-ml/opik#2077",
+    "comet-ml/opik#2087",
+    "comet-ml/opik#2090",
+    "comet-ml/opik#2098",
+    "comet-ml/opik#2099",
+    "comet-ml/opik#21",
+    "comet-ml/opik#2101",
+    "comet-ml/opik#2106",
+    "comet-ml/opik#2114",
+    "comet-ml/opik#2118",
+    "comet-ml/opik#2124",
+    "comet-ml/opik#214",
+    "comet-ml/opik#2147",
+    "comet-ml/opik#2148",
+    "comet-ml/opik#2157",
+    "comet-ml/opik#216",
+    "comet-ml/opik#2160",
+    "comet-ml/opik#2184",
+    "comet-ml/opik#2186",
+    "comet-ml/opik#2202",
+    "comet-ml/opik#2213",
+    "comet-ml/opik#2218",
+    "comet-ml/opik#2220",
+    "comet-ml/opik#2227",
+    "comet-ml/opik#2228",
+    "comet-ml/opik#2232",
+    "comet-ml/opik#2237",
+    "comet-ml/opik#2238",
+    "comet-ml/opik#2245",
+    "comet-ml/opik#2265",
+    "comet-ml/opik#2276",
+    "comet-ml/opik#2277",
+    "comet-ml/opik#2278",
+    "comet-ml/opik#2287",
+    "comet-ml/opik#2291",
+    "comet-ml/opik#2295",
+    "comet-ml/opik#2296",
+    "comet-ml/opik#2297",
+    "comet-ml/opik#2298",
+    "comet-ml/opik#230",
+    "comet-ml/opik#2305",
+    "comet-ml/opik#2308",
+    "comet-ml/opik#2309",
+    "comet-ml/opik#2317",
+    "comet-ml/opik#2341",
+    "comet-ml/opik#2346",
+    "comet-ml/opik#235",
+    "comet-ml/opik#236",
+    "comet-ml/opik#2360",
+    "comet-ml/opik#2364",
+    "comet-ml/opik#2366",
+    "comet-ml/opik#2375",
+    "comet-ml/opik#2377",
+    "comet-ml/opik#2379",
+    "comet-ml/opik#2380",
+    "comet-ml/opik#2386",
+    "comet-ml/opik#2394",
+    "comet-ml/opik#2402",
+    "comet-ml/opik#2412",
+    "comet-ml/opik#2414",
+    "comet-ml/opik#2422",
+    "comet-ml/opik#2431",
+    "comet-ml/opik#2433",
+    "comet-ml/opik#2446",
+    "comet-ml/opik#2448",
+    "comet-ml/opik#2456",
+    "comet-ml/opik#2459",
+    "comet-ml/opik#2464",
+    "comet-ml/opik#2467",
+    "comet-ml/opik#2481",
+    "comet-ml/opik#2484",
+    "comet-ml/opik#2488",
+    "comet-ml/opik#2497",
+    "comet-ml/opik#2513",
+    "comet-ml/opik#2515",
+    "comet-ml/opik#2517",
+    "comet-ml/opik#2518",
+    "comet-ml/opik#2520",
+    "comet-ml/opik#2522",
+    "comet-ml/opik#2528",
+    "comet-ml/opik#2529",
+    "comet-ml/opik#2530",
+    "comet-ml/opik#2536",
+    "comet-ml/opik#2537",
+    "comet-ml/opik#2541",
+    "comet-ml/opik#2546",
+    "comet-ml/opik#2566",
+    "comet-ml/opik#2572",
+    "comet-ml/opik#2583",
+    "comet-ml/opik#2619",
+    "comet-ml/opik#2625",
+    "comet-ml/opik#2641",
+    "comet-ml/opik#2647",
+    "comet-ml/opik#2654",
+    "comet-ml/opik#2656",
+    "comet-ml/opik#2658",
+    "comet-ml/opik#266",
+    "comet-ml/opik#2676",
+    "comet-ml/opik#2696",
+    "comet-ml/opik#270",
+    "comet-ml/opik#2705",
+    "comet-ml/opik#2710",
+    "comet-ml/opik#272",
+    "comet-ml/opik#2721",
+    "comet-ml/opik#2724",
+    "comet-ml/opik#2734",
+    "comet-ml/opik#2744",
+    "comet-ml/opik#2763",
+    "comet-ml/opik#2764",
+    "comet-ml/opik#2765",
+    "comet-ml/opik#2769",
+    "comet-ml/opik#2780",
+    "comet-ml/opik#2782",
+    "comet-ml/opik#2800",
+    "comet-ml/opik#2801",
+    "comet-ml/opik#2814",
+    "comet-ml/opik#2819",
+    "comet-ml/opik#2822",
+    "comet-ml/opik#2825",
+    "comet-ml/opik#2827",
+    "comet-ml/opik#2842",
+    "comet-ml/opik#2852",
+    "comet-ml/opik#2864",
+    "comet-ml/opik#2869",
+    "comet-ml/opik#2870",
+    "comet-ml/opik#292",
+    "comet-ml/opik#2940",
+    "comet-ml/opik#2944",
+    "comet-ml/opik#2954",
+    "comet-ml/opik#2961",
+    "comet-ml/opik#2989",
+    "comet-ml/opik#3031",
+    "comet-ml/opik#3033",
+    "comet-ml/opik#3034",
+    "comet-ml/opik#3051",
+    "comet-ml/opik#3056",
+    "comet-ml/opik#3067",
+    "comet-ml/opik#3076",
+    "comet-ml/opik#3086",
+    "comet-ml/opik#3089",
+    "comet-ml/opik#311",
+    "comet-ml/opik#3111",
+    "comet-ml/opik#312",
+    "comet-ml/opik#3140",
+    "comet-ml/opik#3147",
+    "comet-ml/opik#3157",
+    "comet-ml/opik#3175",
+    "comet-ml/opik#319",
+    "comet-ml/opik#3218",
+    "comet-ml/opik#3220",
+    "comet-ml/opik#3224",
+    "comet-ml/opik#3227",
+    "comet-ml/opik#3228",
+    "comet-ml/opik#3242",
+    "comet-ml/opik#3269",
+    "comet-ml/opik#3270",
+    "comet-ml/opik#3275",
+    "comet-ml/opik#328",
+    "comet-ml/opik#3291",
+    "comet-ml/opik#33",
+    "comet-ml/opik#3305",
+    "comet-ml/opik#3327",
+    "comet-ml/opik#335",
+    "comet-ml/opik#3360",
+    "comet-ml/opik#3361",
+    "comet-ml/opik#3362",
+    "comet-ml/opik#3369",
+    "comet-ml/opik#3371",
+    "comet-ml/opik#3384",
+    "comet-ml/opik#3397",
+    "comet-ml/opik#3412",
+    "comet-ml/opik#3413",
+    "comet-ml/opik#3414",
+    "comet-ml/opik#3415",
+    "comet-ml/opik#3416",
+    "comet-ml/opik#3418",
+    "comet-ml/opik#3419",
+    "comet-ml/opik#343",
+    "comet-ml/opik#3435",
+    "comet-ml/opik#3437",
+    "comet-ml/opik#3439",
+    "comet-ml/opik#3441",
+    "comet-ml/opik#3444",
+    "comet-ml/opik#3445",
+    "comet-ml/opik#3446",
+    "comet-ml/opik#3447",
+    "comet-ml/opik#3448",
+    "comet-ml/opik#3457",
+    "comet-ml/opik#3462",
+    "comet-ml/opik#3468",
+    "comet-ml/opik#3476",
+    "comet-ml/opik#3484",
+    "comet-ml/opik#3500",
+    "comet-ml/opik#3535",
+    "comet-ml/opik#3595",
+    "comet-ml/opik#3629",
+    "comet-ml/opik#3647",
+    "comet-ml/opik#3663",
+    "comet-ml/opik#3679",
+    "comet-ml/opik#3680",
+    "comet-ml/opik#3684",
+    "comet-ml/opik#3687",
+    "comet-ml/opik#3694",
+    "comet-ml/opik#3695",
+    "comet-ml/opik#3732",
+    "comet-ml/opik#3741",
+    "comet-ml/opik#3750",
+    "comet-ml/opik#377",
+    "comet-ml/opik#3783",
+    "comet-ml/opik#3786",
+    "comet-ml/opik#3802",
+    "comet-ml/opik#3852",
+    "comet-ml/opik#3867",
+    "comet-ml/opik#3868",
+    "comet-ml/opik#3870",
+    "comet-ml/opik#3878",
+    "comet-ml/opik#3886",
+    "comet-ml/opik#3942",
+    "comet-ml/opik#3973",
+    "comet-ml/opik#398",
+    "comet-ml/opik#3999",
+    "comet-ml/opik#4001",
+    "comet-ml/opik#4002",
+    "comet-ml/opik#4015",
+    "comet-ml/opik#4017",
+    "comet-ml/opik#4033",
+    "comet-ml/opik#4080",
+    "comet-ml/opik#410",
+    "comet-ml/opik#411",
+    "comet-ml/opik#4136",
+    "comet-ml/opik#4137",
+    "comet-ml/opik#4179",
+    "comet-ml/opik#4186",
+    "comet-ml/opik#420",
+    "comet-ml/opik#4208",
+    "comet-ml/opik#4225",
+    "comet-ml/opik#4229",
+    "comet-ml/opik#4233",
+    "comet-ml/opik#424",
+    "comet-ml/opik#4270",
+    "comet-ml/opik#4274",
+    "comet-ml/opik#4285",
+    "comet-ml/opik#430",
+    "comet-ml/opik#4316",
+    "comet-ml/opik#432",
+    "comet-ml/opik#4335",
+    "comet-ml/opik#4338",
+    "comet-ml/opik#4341",
+    "comet-ml/opik#4343",
+    "comet-ml/opik#4348",
+    "comet-ml/opik#4359",
+    "comet-ml/opik#4362",
+    "comet-ml/opik#4379",
+    "comet-ml/opik#439",
+    "comet-ml/opik#4412",
+    "comet-ml/opik#4416",
+    "comet-ml/opik#4439",
+    "comet-ml/opik#4440",
+    "comet-ml/opik#4448",
+    "comet-ml/opik#4474",
+    "comet-ml/opik#4483",
+    "comet-ml/opik#450",
+    "comet-ml/opik#4503",
+    "comet-ml/opik#4504",
+    "comet-ml/opik#4506",
+    "comet-ml/opik#4507",
+    "comet-ml/opik#4508",
+    "comet-ml/opik#4531",
+    "comet-ml/opik#4542",
+    "comet-ml/opik#4547",
+    "comet-ml/opik#4574",
+    "comet-ml/opik#4576",
+    "comet-ml/opik#458",
+    "comet-ml/opik#4586",
+    "comet-ml/opik#4595",
+    "comet-ml/opik#4607",
+    "comet-ml/opik#464",
+    "comet-ml/opik#4646",
+    "comet-ml/opik#4668",
+    "comet-ml/opik#4669",
+    "comet-ml/opik#468",
+    "comet-ml/opik#4695",
+    "comet-ml/opik#4719",
+    "comet-ml/opik#472",
+    "comet-ml/opik#4722",
+    "comet-ml/opik#4724",
+    "comet-ml/opik#4734",
+    "comet-ml/opik#4737",
+    "comet-ml/opik#4740",
+    "comet-ml/opik#475",
+    "comet-ml/opik#4761",
+    "comet-ml/opik#4767",
+    "comet-ml/opik#478",
+    "comet-ml/opik#4794",
+    "comet-ml/opik#4798",
+    "comet-ml/opik#488",
+    "comet-ml/opik#4883",
+    "comet-ml/opik#4887",
+    "comet-ml/opik#4888",
+    "comet-ml/opik#4903",
+    "comet-ml/opik#493",
+    "comet-ml/opik#4938",
+    "comet-ml/opik#494",
+    "comet-ml/opik#496",
+    "comet-ml/opik#497",
+    "comet-ml/opik#4986",
+    "comet-ml/opik#5007",
+    "comet-ml/opik#5013",
+    "comet-ml/opik#5057",
+    "comet-ml/opik#506",
+    "comet-ml/opik#5106",
+    "comet-ml/opik#5111",
+    "comet-ml/opik#5168",
+    "comet-ml/opik#519",
+    "comet-ml/opik#522",
+    "comet-ml/opik#524",
+    "comet-ml/opik#526",
+    "comet-ml/opik#5274",
+    "comet-ml/opik#528",
+    "comet-ml/opik#534",
+    "comet-ml/opik#535",
+    "comet-ml/opik#537",
+    "comet-ml/opik#538",
+    "comet-ml/opik#5397",
+    "comet-ml/opik#541",
+    "comet-ml/opik#5453",
+    "comet-ml/opik#548",
+    "comet-ml/opik#549",
+    "comet-ml/opik#551",
+    "comet-ml/opik#5524",
+    "comet-ml/opik#553",
+    "comet-ml/opik#5596",
+    "comet-ml/opik#560",
+    "comet-ml/opik#5619",
+    "comet-ml/opik#5620",
+    "comet-ml/opik#5621",
+    "comet-ml/opik#567",
+    "comet-ml/opik#5815",
+    "comet-ml/opik#5835",
+    "comet-ml/opik#585",
+    "comet-ml/opik#589",
+    "comet-ml/opik#594",
+    "comet-ml/opik#598",
+    "comet-ml/opik#6007",
+    "comet-ml/opik#602",
+    "comet-ml/opik#605",
+    "comet-ml/opik#612",
+    "comet-ml/opik#6120",
+    "comet-ml/opik#6131",
+    "comet-ml/opik#618",
+    "comet-ml/opik#6205",
+    "comet-ml/opik#6231",
+    "comet-ml/opik#627",
+    "comet-ml/opik#6281",
+    "comet-ml/opik#632",
+    "comet-ml/opik#6344",
+    "comet-ml/opik#638",
+    "comet-ml/opik#644",
+    "comet-ml/opik#645",
+    "comet-ml/opik#6451",
+    "comet-ml/opik#649",
+    "comet-ml/opik#663",
+    "comet-ml/opik#6653",
+    "comet-ml/opik#668",
+    "comet-ml/opik#6697",
+    "comet-ml/opik#670",
+    "comet-ml/opik#6721",
+    "comet-ml/opik#673",
+    "comet-ml/opik#674",
+    "comet-ml/opik#676",
+    "comet-ml/opik#6777",
+    "comet-ml/opik#681",
+    "comet-ml/opik#6813",
+    "comet-ml/opik#690",
+    "comet-ml/opik#694",
+    "comet-ml/opik#696",
+    "comet-ml/opik#6976",
+    "comet-ml/opik#6982",
+    "comet-ml/opik#7000",
+    "comet-ml/opik#702",
+    "comet-ml/opik#705",
+    "comet-ml/opik#706",
+    "comet-ml/opik#708",
+    "comet-ml/opik#7150",
+    "comet-ml/opik#737",
+    "comet-ml/opik#738",
+    "comet-ml/opik#739",
+    "comet-ml/opik#7393",
+    "comet-ml/opik#742",
+    "comet-ml/opik#7420",
+    "comet-ml/opik#744",
+    "comet-ml/opik#7446",
+    "comet-ml/opik#746",
+    "comet-ml/opik#7462",
+    "comet-ml/opik#756",
+    "comet-ml/opik#759",
+    "comet-ml/opik#79",
+    "comet-ml/opik#812",
+    "comet-ml/opik#817",
+    "comet-ml/opik#818",
+    "comet-ml/opik#834",
+    "comet-ml/opik#835",
+    "comet-ml/opik#836",
+    "comet-ml/opik#847",
+    "comet-ml/opik#850",
+    "comet-ml/opik#851",
+    "comet-ml/opik#858",
+    "comet-ml/opik#861",
+    "comet-ml/opik#862",
+    "comet-ml/opik#863",
+    "comet-ml/opik#866",
+    "comet-ml/opik#870",
+    "comet-ml/opik#871",
+    "comet-ml/opik#875",
+    "comet-ml/opik#876",
+    "comet-ml/opik#886",
+    "comet-ml/opik#905",
+    "comet-ml/opik#914",
+    "comet-ml/opik#92",
+    "comet-ml/opik#938",
+    "comet-ml/opik#941",
+    "comet-ml/opik#943",
+    "comet-ml/opik#949",
+    "comet-ml/opik#953",
+    "comet-ml/opik#956",
+    "comet-ml/opik#960",
+    "comet-ml/opik#961",
+    "comet-ml/opik#963",
+    "comet-ml/opik#967",
+    "comet-ml/opik#971",
+    "comet-ml/opik#974",
+    "comet-ml/opik#975",
+    "comet-ml/opik#976",
+    "comet-ml/opik#978",
+    "comet-ml/opik#979",
+    "comet-ml/opik#982",
+    "comet-ml/opik#990",
+    "comet-ml/opik#996",
     "hn#1003311",
     "hn#1013821",
     "hn#10144188",
@@ -10001,6 +11286,557 @@
     "hn#981801",
     "hn#9835853",
     "hn#9999439",
+    "langchain-ai/langsmith-sdk#1002",
+    "langchain-ai/langsmith-sdk#1003",
+    "langchain-ai/langsmith-sdk#1004",
+    "langchain-ai/langsmith-sdk#1007",
+    "langchain-ai/langsmith-sdk#1018",
+    "langchain-ai/langsmith-sdk#1026",
+    "langchain-ai/langsmith-sdk#1038",
+    "langchain-ai/langsmith-sdk#104",
+    "langchain-ai/langsmith-sdk#1040",
+    "langchain-ai/langsmith-sdk#1042",
+    "langchain-ai/langsmith-sdk#1045",
+    "langchain-ai/langsmith-sdk#105",
+    "langchain-ai/langsmith-sdk#1068",
+    "langchain-ai/langsmith-sdk#1073",
+    "langchain-ai/langsmith-sdk#1074",
+    "langchain-ai/langsmith-sdk#1076",
+    "langchain-ai/langsmith-sdk#1084",
+    "langchain-ai/langsmith-sdk#1089",
+    "langchain-ai/langsmith-sdk#1090",
+    "langchain-ai/langsmith-sdk#1091",
+    "langchain-ai/langsmith-sdk#1097",
+    "langchain-ai/langsmith-sdk#1101",
+    "langchain-ai/langsmith-sdk#1102",
+    "langchain-ai/langsmith-sdk#1108",
+    "langchain-ai/langsmith-sdk#1110",
+    "langchain-ai/langsmith-sdk#1111",
+    "langchain-ai/langsmith-sdk#1112",
+    "langchain-ai/langsmith-sdk#1115",
+    "langchain-ai/langsmith-sdk#1116",
+    "langchain-ai/langsmith-sdk#1120",
+    "langchain-ai/langsmith-sdk#1122",
+    "langchain-ai/langsmith-sdk#1123",
+    "langchain-ai/langsmith-sdk#1125",
+    "langchain-ai/langsmith-sdk#1127",
+    "langchain-ai/langsmith-sdk#1137",
+    "langchain-ai/langsmith-sdk#1142",
+    "langchain-ai/langsmith-sdk#1144",
+    "langchain-ai/langsmith-sdk#1147",
+    "langchain-ai/langsmith-sdk#1152",
+    "langchain-ai/langsmith-sdk#1154",
+    "langchain-ai/langsmith-sdk#1163",
+    "langchain-ai/langsmith-sdk#1173",
+    "langchain-ai/langsmith-sdk#1188",
+    "langchain-ai/langsmith-sdk#1195",
+    "langchain-ai/langsmith-sdk#1201",
+    "langchain-ai/langsmith-sdk#1206",
+    "langchain-ai/langsmith-sdk#1208",
+    "langchain-ai/langsmith-sdk#1212",
+    "langchain-ai/langsmith-sdk#1214",
+    "langchain-ai/langsmith-sdk#1240",
+    "langchain-ai/langsmith-sdk#1242",
+    "langchain-ai/langsmith-sdk#1245",
+    "langchain-ai/langsmith-sdk#1249",
+    "langchain-ai/langsmith-sdk#1269",
+    "langchain-ai/langsmith-sdk#1272",
+    "langchain-ai/langsmith-sdk#1285",
+    "langchain-ai/langsmith-sdk#1290",
+    "langchain-ai/langsmith-sdk#1299",
+    "langchain-ai/langsmith-sdk#130",
+    "langchain-ai/langsmith-sdk#1300",
+    "langchain-ai/langsmith-sdk#1306",
+    "langchain-ai/langsmith-sdk#1318",
+    "langchain-ai/langsmith-sdk#1319",
+    "langchain-ai/langsmith-sdk#1321",
+    "langchain-ai/langsmith-sdk#1339",
+    "langchain-ai/langsmith-sdk#1350",
+    "langchain-ai/langsmith-sdk#1356",
+    "langchain-ai/langsmith-sdk#1360",
+    "langchain-ai/langsmith-sdk#1365",
+    "langchain-ai/langsmith-sdk#1366",
+    "langchain-ai/langsmith-sdk#1368",
+    "langchain-ai/langsmith-sdk#1375",
+    "langchain-ai/langsmith-sdk#1378",
+    "langchain-ai/langsmith-sdk#1379",
+    "langchain-ai/langsmith-sdk#1399",
+    "langchain-ai/langsmith-sdk#1411",
+    "langchain-ai/langsmith-sdk#1412",
+    "langchain-ai/langsmith-sdk#1418",
+    "langchain-ai/langsmith-sdk#1428",
+    "langchain-ai/langsmith-sdk#1433",
+    "langchain-ai/langsmith-sdk#1434",
+    "langchain-ai/langsmith-sdk#1436",
+    "langchain-ai/langsmith-sdk#1440",
+    "langchain-ai/langsmith-sdk#1441",
+    "langchain-ai/langsmith-sdk#1442",
+    "langchain-ai/langsmith-sdk#1448",
+    "langchain-ai/langsmith-sdk#1451",
+    "langchain-ai/langsmith-sdk#1459",
+    "langchain-ai/langsmith-sdk#146",
+    "langchain-ai/langsmith-sdk#1461",
+    "langchain-ai/langsmith-sdk#1462",
+    "langchain-ai/langsmith-sdk#1469",
+    "langchain-ai/langsmith-sdk#1478",
+    "langchain-ai/langsmith-sdk#1480",
+    "langchain-ai/langsmith-sdk#1484",
+    "langchain-ai/langsmith-sdk#1490",
+    "langchain-ai/langsmith-sdk#1501",
+    "langchain-ai/langsmith-sdk#1504",
+    "langchain-ai/langsmith-sdk#1506",
+    "langchain-ai/langsmith-sdk#1507",
+    "langchain-ai/langsmith-sdk#1508",
+    "langchain-ai/langsmith-sdk#1509",
+    "langchain-ai/langsmith-sdk#1516",
+    "langchain-ai/langsmith-sdk#1517",
+    "langchain-ai/langsmith-sdk#1518",
+    "langchain-ai/langsmith-sdk#1519",
+    "langchain-ai/langsmith-sdk#1520",
+    "langchain-ai/langsmith-sdk#1521",
+    "langchain-ai/langsmith-sdk#1522",
+    "langchain-ai/langsmith-sdk#1523",
+    "langchain-ai/langsmith-sdk#1526",
+    "langchain-ai/langsmith-sdk#1529",
+    "langchain-ai/langsmith-sdk#153",
+    "langchain-ai/langsmith-sdk#1530",
+    "langchain-ai/langsmith-sdk#1531",
+    "langchain-ai/langsmith-sdk#1534",
+    "langchain-ai/langsmith-sdk#1549",
+    "langchain-ai/langsmith-sdk#1550",
+    "langchain-ai/langsmith-sdk#1551",
+    "langchain-ai/langsmith-sdk#1560",
+    "langchain-ai/langsmith-sdk#1562",
+    "langchain-ai/langsmith-sdk#1563",
+    "langchain-ai/langsmith-sdk#1566",
+    "langchain-ai/langsmith-sdk#1570",
+    "langchain-ai/langsmith-sdk#1578",
+    "langchain-ai/langsmith-sdk#1579",
+    "langchain-ai/langsmith-sdk#158",
+    "langchain-ai/langsmith-sdk#1580",
+    "langchain-ai/langsmith-sdk#1582",
+    "langchain-ai/langsmith-sdk#1583",
+    "langchain-ai/langsmith-sdk#1586",
+    "langchain-ai/langsmith-sdk#1588",
+    "langchain-ai/langsmith-sdk#1592",
+    "langchain-ai/langsmith-sdk#1599",
+    "langchain-ai/langsmith-sdk#160",
+    "langchain-ai/langsmith-sdk#1600",
+    "langchain-ai/langsmith-sdk#1601",
+    "langchain-ai/langsmith-sdk#1603",
+    "langchain-ai/langsmith-sdk#1605",
+    "langchain-ai/langsmith-sdk#1608",
+    "langchain-ai/langsmith-sdk#1616",
+    "langchain-ai/langsmith-sdk#1618",
+    "langchain-ai/langsmith-sdk#1619",
+    "langchain-ai/langsmith-sdk#1620",
+    "langchain-ai/langsmith-sdk#1624",
+    "langchain-ai/langsmith-sdk#1626",
+    "langchain-ai/langsmith-sdk#1628",
+    "langchain-ai/langsmith-sdk#1629",
+    "langchain-ai/langsmith-sdk#1630",
+    "langchain-ai/langsmith-sdk#1637",
+    "langchain-ai/langsmith-sdk#1639",
+    "langchain-ai/langsmith-sdk#1640",
+    "langchain-ai/langsmith-sdk#1643",
+    "langchain-ai/langsmith-sdk#1645",
+    "langchain-ai/langsmith-sdk#1646",
+    "langchain-ai/langsmith-sdk#1658",
+    "langchain-ai/langsmith-sdk#1660",
+    "langchain-ai/langsmith-sdk#167",
+    "langchain-ai/langsmith-sdk#1670",
+    "langchain-ai/langsmith-sdk#1671",
+    "langchain-ai/langsmith-sdk#1672",
+    "langchain-ai/langsmith-sdk#1678",
+    "langchain-ai/langsmith-sdk#168",
+    "langchain-ai/langsmith-sdk#1681",
+    "langchain-ai/langsmith-sdk#1682",
+    "langchain-ai/langsmith-sdk#1690",
+    "langchain-ai/langsmith-sdk#1692",
+    "langchain-ai/langsmith-sdk#1695",
+    "langchain-ai/langsmith-sdk#170",
+    "langchain-ai/langsmith-sdk#1707",
+    "langchain-ai/langsmith-sdk#171",
+    "langchain-ai/langsmith-sdk#1715",
+    "langchain-ai/langsmith-sdk#1716",
+    "langchain-ai/langsmith-sdk#1719",
+    "langchain-ai/langsmith-sdk#1720",
+    "langchain-ai/langsmith-sdk#1722",
+    "langchain-ai/langsmith-sdk#1723",
+    "langchain-ai/langsmith-sdk#1725",
+    "langchain-ai/langsmith-sdk#1731",
+    "langchain-ai/langsmith-sdk#1736",
+    "langchain-ai/langsmith-sdk#174",
+    "langchain-ai/langsmith-sdk#1741",
+    "langchain-ai/langsmith-sdk#1742",
+    "langchain-ai/langsmith-sdk#1748",
+    "langchain-ai/langsmith-sdk#175",
+    "langchain-ai/langsmith-sdk#1751",
+    "langchain-ai/langsmith-sdk#1752",
+    "langchain-ai/langsmith-sdk#1755",
+    "langchain-ai/langsmith-sdk#1756",
+    "langchain-ai/langsmith-sdk#1761",
+    "langchain-ai/langsmith-sdk#1763",
+    "langchain-ai/langsmith-sdk#1764",
+    "langchain-ai/langsmith-sdk#1769",
+    "langchain-ai/langsmith-sdk#1771",
+    "langchain-ai/langsmith-sdk#1772",
+    "langchain-ai/langsmith-sdk#1773",
+    "langchain-ai/langsmith-sdk#1785",
+    "langchain-ai/langsmith-sdk#1786",
+    "langchain-ai/langsmith-sdk#1790",
+    "langchain-ai/langsmith-sdk#1792",
+    "langchain-ai/langsmith-sdk#1799",
+    "langchain-ai/langsmith-sdk#1800",
+    "langchain-ai/langsmith-sdk#1802",
+    "langchain-ai/langsmith-sdk#1806",
+    "langchain-ai/langsmith-sdk#1809",
+    "langchain-ai/langsmith-sdk#1810",
+    "langchain-ai/langsmith-sdk#1811",
+    "langchain-ai/langsmith-sdk#1812",
+    "langchain-ai/langsmith-sdk#1813",
+    "langchain-ai/langsmith-sdk#1818",
+    "langchain-ai/langsmith-sdk#1828",
+    "langchain-ai/langsmith-sdk#1831",
+    "langchain-ai/langsmith-sdk#1838",
+    "langchain-ai/langsmith-sdk#184",
+    "langchain-ai/langsmith-sdk#1841",
+    "langchain-ai/langsmith-sdk#1844",
+    "langchain-ai/langsmith-sdk#1855",
+    "langchain-ai/langsmith-sdk#1858",
+    "langchain-ai/langsmith-sdk#1862",
+    "langchain-ai/langsmith-sdk#1866",
+    "langchain-ai/langsmith-sdk#1869",
+    "langchain-ai/langsmith-sdk#187",
+    "langchain-ai/langsmith-sdk#1874",
+    "langchain-ai/langsmith-sdk#1875",
+    "langchain-ai/langsmith-sdk#1897",
+    "langchain-ai/langsmith-sdk#1900",
+    "langchain-ai/langsmith-sdk#1902",
+    "langchain-ai/langsmith-sdk#1911",
+    "langchain-ai/langsmith-sdk#1924",
+    "langchain-ai/langsmith-sdk#1935",
+    "langchain-ai/langsmith-sdk#1949",
+    "langchain-ai/langsmith-sdk#1951",
+    "langchain-ai/langsmith-sdk#196",
+    "langchain-ai/langsmith-sdk#1969",
+    "langchain-ai/langsmith-sdk#197",
+    "langchain-ai/langsmith-sdk#1970",
+    "langchain-ai/langsmith-sdk#1978",
+    "langchain-ai/langsmith-sdk#198",
+    "langchain-ai/langsmith-sdk#1988",
+    "langchain-ai/langsmith-sdk#1998",
+    "langchain-ai/langsmith-sdk#200",
+    "langchain-ai/langsmith-sdk#2005",
+    "langchain-ai/langsmith-sdk#2006",
+    "langchain-ai/langsmith-sdk#2007",
+    "langchain-ai/langsmith-sdk#2009",
+    "langchain-ai/langsmith-sdk#2011",
+    "langchain-ai/langsmith-sdk#2019",
+    "langchain-ai/langsmith-sdk#202",
+    "langchain-ai/langsmith-sdk#2021",
+    "langchain-ai/langsmith-sdk#2024",
+    "langchain-ai/langsmith-sdk#2029",
+    "langchain-ai/langsmith-sdk#2032",
+    "langchain-ai/langsmith-sdk#2034",
+    "langchain-ai/langsmith-sdk#2035",
+    "langchain-ai/langsmith-sdk#2036",
+    "langchain-ai/langsmith-sdk#204",
+    "langchain-ai/langsmith-sdk#2040",
+    "langchain-ai/langsmith-sdk#2043",
+    "langchain-ai/langsmith-sdk#2044",
+    "langchain-ai/langsmith-sdk#2045",
+    "langchain-ai/langsmith-sdk#2046",
+    "langchain-ai/langsmith-sdk#2048",
+    "langchain-ai/langsmith-sdk#2055",
+    "langchain-ai/langsmith-sdk#2056",
+    "langchain-ai/langsmith-sdk#2071",
+    "langchain-ai/langsmith-sdk#2077",
+    "langchain-ai/langsmith-sdk#2078",
+    "langchain-ai/langsmith-sdk#2082",
+    "langchain-ai/langsmith-sdk#2083",
+    "langchain-ai/langsmith-sdk#2085",
+    "langchain-ai/langsmith-sdk#2091",
+    "langchain-ai/langsmith-sdk#2092",
+    "langchain-ai/langsmith-sdk#2096",
+    "langchain-ai/langsmith-sdk#2097",
+    "langchain-ai/langsmith-sdk#2111",
+    "langchain-ai/langsmith-sdk#2112",
+    "langchain-ai/langsmith-sdk#2113",
+    "langchain-ai/langsmith-sdk#2120",
+    "langchain-ai/langsmith-sdk#2122",
+    "langchain-ai/langsmith-sdk#2126",
+    "langchain-ai/langsmith-sdk#2127",
+    "langchain-ai/langsmith-sdk#2128",
+    "langchain-ai/langsmith-sdk#2140",
+    "langchain-ai/langsmith-sdk#2148",
+    "langchain-ai/langsmith-sdk#2151",
+    "langchain-ai/langsmith-sdk#216",
+    "langchain-ai/langsmith-sdk#2169",
+    "langchain-ai/langsmith-sdk#217",
+    "langchain-ai/langsmith-sdk#218",
+    "langchain-ai/langsmith-sdk#2180",
+    "langchain-ai/langsmith-sdk#2194",
+    "langchain-ai/langsmith-sdk#2224",
+    "langchain-ai/langsmith-sdk#2226",
+    "langchain-ai/langsmith-sdk#2227",
+    "langchain-ai/langsmith-sdk#2229",
+    "langchain-ai/langsmith-sdk#2236",
+    "langchain-ai/langsmith-sdk#2238",
+    "langchain-ai/langsmith-sdk#2242",
+    "langchain-ai/langsmith-sdk#2245",
+    "langchain-ai/langsmith-sdk#225",
+    "langchain-ai/langsmith-sdk#2250",
+    "langchain-ai/langsmith-sdk#2252",
+    "langchain-ai/langsmith-sdk#2254",
+    "langchain-ai/langsmith-sdk#2261",
+    "langchain-ai/langsmith-sdk#2262",
+    "langchain-ai/langsmith-sdk#2267",
+    "langchain-ai/langsmith-sdk#2273",
+    "langchain-ai/langsmith-sdk#2274",
+    "langchain-ai/langsmith-sdk#228",
+    "langchain-ai/langsmith-sdk#2294",
+    "langchain-ai/langsmith-sdk#2295",
+    "langchain-ai/langsmith-sdk#2297",
+    "langchain-ai/langsmith-sdk#2323",
+    "langchain-ai/langsmith-sdk#2324",
+    "langchain-ai/langsmith-sdk#2325",
+    "langchain-ai/langsmith-sdk#2328",
+    "langchain-ai/langsmith-sdk#233",
+    "langchain-ai/langsmith-sdk#2348",
+    "langchain-ai/langsmith-sdk#2372",
+    "langchain-ai/langsmith-sdk#2390",
+    "langchain-ai/langsmith-sdk#2407",
+    "langchain-ai/langsmith-sdk#2411",
+    "langchain-ai/langsmith-sdk#2413",
+    "langchain-ai/langsmith-sdk#2431",
+    "langchain-ai/langsmith-sdk#2438",
+    "langchain-ai/langsmith-sdk#2458",
+    "langchain-ai/langsmith-sdk#246",
+    "langchain-ai/langsmith-sdk#248",
+    "langchain-ai/langsmith-sdk#2491",
+    "langchain-ai/langsmith-sdk#2492",
+    "langchain-ai/langsmith-sdk#2494",
+    "langchain-ai/langsmith-sdk#2495",
+    "langchain-ai/langsmith-sdk#2514",
+    "langchain-ai/langsmith-sdk#2542",
+    "langchain-ai/langsmith-sdk#2551",
+    "langchain-ai/langsmith-sdk#2552",
+    "langchain-ai/langsmith-sdk#2553",
+    "langchain-ai/langsmith-sdk#2564",
+    "langchain-ai/langsmith-sdk#2571",
+    "langchain-ai/langsmith-sdk#2593",
+    "langchain-ai/langsmith-sdk#2615",
+    "langchain-ai/langsmith-sdk#263",
+    "langchain-ai/langsmith-sdk#2641",
+    "langchain-ai/langsmith-sdk#2651",
+    "langchain-ai/langsmith-sdk#2719",
+    "langchain-ai/langsmith-sdk#273",
+    "langchain-ai/langsmith-sdk#2777",
+    "langchain-ai/langsmith-sdk#281",
+    "langchain-ai/langsmith-sdk#2818",
+    "langchain-ai/langsmith-sdk#2826",
+    "langchain-ai/langsmith-sdk#2830",
+    "langchain-ai/langsmith-sdk#2837",
+    "langchain-ai/langsmith-sdk#2844",
+    "langchain-ai/langsmith-sdk#2872",
+    "langchain-ai/langsmith-sdk#2886",
+    "langchain-ai/langsmith-sdk#2907",
+    "langchain-ai/langsmith-sdk#2924",
+    "langchain-ai/langsmith-sdk#2936",
+    "langchain-ai/langsmith-sdk#2962",
+    "langchain-ai/langsmith-sdk#297",
+    "langchain-ai/langsmith-sdk#300",
+    "langchain-ai/langsmith-sdk#3042",
+    "langchain-ai/langsmith-sdk#305",
+    "langchain-ai/langsmith-sdk#3054",
+    "langchain-ai/langsmith-sdk#3057",
+    "langchain-ai/langsmith-sdk#306",
+    "langchain-ai/langsmith-sdk#3072",
+    "langchain-ai/langsmith-sdk#3073",
+    "langchain-ai/langsmith-sdk#312",
+    "langchain-ai/langsmith-sdk#3128",
+    "langchain-ai/langsmith-sdk#315",
+    "langchain-ai/langsmith-sdk#316",
+    "langchain-ai/langsmith-sdk#318",
+    "langchain-ai/langsmith-sdk#321",
+    "langchain-ai/langsmith-sdk#323",
+    "langchain-ai/langsmith-sdk#325",
+    "langchain-ai/langsmith-sdk#326",
+    "langchain-ai/langsmith-sdk#329",
+    "langchain-ai/langsmith-sdk#332",
+    "langchain-ai/langsmith-sdk#337",
+    "langchain-ai/langsmith-sdk#351",
+    "langchain-ai/langsmith-sdk#354",
+    "langchain-ai/langsmith-sdk#355",
+    "langchain-ai/langsmith-sdk#356",
+    "langchain-ai/langsmith-sdk#361",
+    "langchain-ai/langsmith-sdk#381",
+    "langchain-ai/langsmith-sdk#384",
+    "langchain-ai/langsmith-sdk#393",
+    "langchain-ai/langsmith-sdk#400",
+    "langchain-ai/langsmith-sdk#401",
+    "langchain-ai/langsmith-sdk#402",
+    "langchain-ai/langsmith-sdk#422",
+    "langchain-ai/langsmith-sdk#423",
+    "langchain-ai/langsmith-sdk#432",
+    "langchain-ai/langsmith-sdk#433",
+    "langchain-ai/langsmith-sdk#450",
+    "langchain-ai/langsmith-sdk#453",
+    "langchain-ai/langsmith-sdk#457",
+    "langchain-ai/langsmith-sdk#460",
+    "langchain-ai/langsmith-sdk#462",
+    "langchain-ai/langsmith-sdk#505",
+    "langchain-ai/langsmith-sdk#510",
+    "langchain-ai/langsmith-sdk#513",
+    "langchain-ai/langsmith-sdk#516",
+    "langchain-ai/langsmith-sdk#520",
+    "langchain-ai/langsmith-sdk#522",
+    "langchain-ai/langsmith-sdk#523",
+    "langchain-ai/langsmith-sdk#527",
+    "langchain-ai/langsmith-sdk#528",
+    "langchain-ai/langsmith-sdk#529",
+    "langchain-ai/langsmith-sdk#530",
+    "langchain-ai/langsmith-sdk#537",
+    "langchain-ai/langsmith-sdk#541",
+    "langchain-ai/langsmith-sdk#543",
+    "langchain-ai/langsmith-sdk#544",
+    "langchain-ai/langsmith-sdk#545",
+    "langchain-ai/langsmith-sdk#546",
+    "langchain-ai/langsmith-sdk#548",
+    "langchain-ai/langsmith-sdk#550",
+    "langchain-ai/langsmith-sdk#551",
+    "langchain-ai/langsmith-sdk#553",
+    "langchain-ai/langsmith-sdk#554",
+    "langchain-ai/langsmith-sdk#557",
+    "langchain-ai/langsmith-sdk#559",
+    "langchain-ai/langsmith-sdk#568",
+    "langchain-ai/langsmith-sdk#569",
+    "langchain-ai/langsmith-sdk#572",
+    "langchain-ai/langsmith-sdk#574",
+    "langchain-ai/langsmith-sdk#582",
+    "langchain-ai/langsmith-sdk#586",
+    "langchain-ai/langsmith-sdk#587",
+    "langchain-ai/langsmith-sdk#591",
+    "langchain-ai/langsmith-sdk#597",
+    "langchain-ai/langsmith-sdk#598",
+    "langchain-ai/langsmith-sdk#604",
+    "langchain-ai/langsmith-sdk#607",
+    "langchain-ai/langsmith-sdk#609",
+    "langchain-ai/langsmith-sdk#610",
+    "langchain-ai/langsmith-sdk#611",
+    "langchain-ai/langsmith-sdk#617",
+    "langchain-ai/langsmith-sdk#619",
+    "langchain-ai/langsmith-sdk#620",
+    "langchain-ai/langsmith-sdk#622",
+    "langchain-ai/langsmith-sdk#624",
+    "langchain-ai/langsmith-sdk#625",
+    "langchain-ai/langsmith-sdk#630",
+    "langchain-ai/langsmith-sdk#637",
+    "langchain-ai/langsmith-sdk#638",
+    "langchain-ai/langsmith-sdk#642",
+    "langchain-ai/langsmith-sdk#655",
+    "langchain-ai/langsmith-sdk#661",
+    "langchain-ai/langsmith-sdk#664",
+    "langchain-ai/langsmith-sdk#666",
+    "langchain-ai/langsmith-sdk#670",
+    "langchain-ai/langsmith-sdk#671",
+    "langchain-ai/langsmith-sdk#672",
+    "langchain-ai/langsmith-sdk#677",
+    "langchain-ai/langsmith-sdk#680",
+    "langchain-ai/langsmith-sdk#698",
+    "langchain-ai/langsmith-sdk#699",
+    "langchain-ai/langsmith-sdk#705",
+    "langchain-ai/langsmith-sdk#706",
+    "langchain-ai/langsmith-sdk#710",
+    "langchain-ai/langsmith-sdk#711",
+    "langchain-ai/langsmith-sdk#720",
+    "langchain-ai/langsmith-sdk#721",
+    "langchain-ai/langsmith-sdk#729",
+    "langchain-ai/langsmith-sdk#73",
+    "langchain-ai/langsmith-sdk#730",
+    "langchain-ai/langsmith-sdk#732",
+    "langchain-ai/langsmith-sdk#733",
+    "langchain-ai/langsmith-sdk#737",
+    "langchain-ai/langsmith-sdk#742",
+    "langchain-ai/langsmith-sdk#743",
+    "langchain-ai/langsmith-sdk#751",
+    "langchain-ai/langsmith-sdk#752",
+    "langchain-ai/langsmith-sdk#755",
+    "langchain-ai/langsmith-sdk#756",
+    "langchain-ai/langsmith-sdk#757",
+    "langchain-ai/langsmith-sdk#760",
+    "langchain-ai/langsmith-sdk#761",
+    "langchain-ai/langsmith-sdk#763",
+    "langchain-ai/langsmith-sdk#768",
+    "langchain-ai/langsmith-sdk#771",
+    "langchain-ai/langsmith-sdk#776",
+    "langchain-ai/langsmith-sdk#786",
+    "langchain-ai/langsmith-sdk#790",
+    "langchain-ai/langsmith-sdk#802",
+    "langchain-ai/langsmith-sdk#803",
+    "langchain-ai/langsmith-sdk#805",
+    "langchain-ai/langsmith-sdk#806",
+    "langchain-ai/langsmith-sdk#808",
+    "langchain-ai/langsmith-sdk#809",
+    "langchain-ai/langsmith-sdk#814",
+    "langchain-ai/langsmith-sdk#815",
+    "langchain-ai/langsmith-sdk#817",
+    "langchain-ai/langsmith-sdk#818",
+    "langchain-ai/langsmith-sdk#819",
+    "langchain-ai/langsmith-sdk#821",
+    "langchain-ai/langsmith-sdk#824",
+    "langchain-ai/langsmith-sdk#825",
+    "langchain-ai/langsmith-sdk#828",
+    "langchain-ai/langsmith-sdk#830",
+    "langchain-ai/langsmith-sdk#832",
+    "langchain-ai/langsmith-sdk#837",
+    "langchain-ai/langsmith-sdk#839",
+    "langchain-ai/langsmith-sdk#840",
+    "langchain-ai/langsmith-sdk#842",
+    "langchain-ai/langsmith-sdk#844",
+    "langchain-ai/langsmith-sdk#845",
+    "langchain-ai/langsmith-sdk#846",
+    "langchain-ai/langsmith-sdk#847",
+    "langchain-ai/langsmith-sdk#848",
+    "langchain-ai/langsmith-sdk#851",
+    "langchain-ai/langsmith-sdk#855",
+    "langchain-ai/langsmith-sdk#856",
+    "langchain-ai/langsmith-sdk#858",
+    "langchain-ai/langsmith-sdk#859",
+    "langchain-ai/langsmith-sdk#860",
+    "langchain-ai/langsmith-sdk#867",
+    "langchain-ai/langsmith-sdk#868",
+    "langchain-ai/langsmith-sdk#870",
+    "langchain-ai/langsmith-sdk#871",
+    "langchain-ai/langsmith-sdk#872",
+    "langchain-ai/langsmith-sdk#876",
+    "langchain-ai/langsmith-sdk#880",
+    "langchain-ai/langsmith-sdk#882",
+    "langchain-ai/langsmith-sdk#889",
+    "langchain-ai/langsmith-sdk#891",
+    "langchain-ai/langsmith-sdk#892",
+    "langchain-ai/langsmith-sdk#894",
+    "langchain-ai/langsmith-sdk#897",
+    "langchain-ai/langsmith-sdk#899",
+    "langchain-ai/langsmith-sdk#910",
+    "langchain-ai/langsmith-sdk#914",
+    "langchain-ai/langsmith-sdk#918",
+    "langchain-ai/langsmith-sdk#919",
+    "langchain-ai/langsmith-sdk#920",
+    "langchain-ai/langsmith-sdk#923",
+    "langchain-ai/langsmith-sdk#926",
+    "langchain-ai/langsmith-sdk#947",
+    "langchain-ai/langsmith-sdk#962",
+    "langchain-ai/langsmith-sdk#963",
+    "langchain-ai/langsmith-sdk#965",
+    "langchain-ai/langsmith-sdk#966",
+    "langchain-ai/langsmith-sdk#967",
+    "langchain-ai/langsmith-sdk#968",
+    "langchain-ai/langsmith-sdk#970",
+    "langchain-ai/langsmith-sdk#986",
+    "langchain-ai/langsmith-sdk#993",
+    "langchain-ai/langsmith-sdk#999",
     "langfuse/langfuse#1000",
     "langfuse/langfuse#10006",
     "langfuse/langfuse#10021",
@@ -12280,17 +14116,132 @@
     "langfuse/langfuse#9970",
     "langfuse/langfuse#9979",
     "langfuse/langfuse#9989",
-    "langfuse/langfuse#9990"
+    "langfuse/langfuse#9990",
+    "lmnr-ai/lmnr#10",
+    "lmnr-ai/lmnr#101",
+    "lmnr-ai/lmnr#1070",
+    "lmnr-ai/lmnr#108",
+    "lmnr-ai/lmnr#1150",
+    "lmnr-ai/lmnr#1179",
+    "lmnr-ai/lmnr#125",
+    "lmnr-ai/lmnr#1257",
+    "lmnr-ai/lmnr#1264",
+    "lmnr-ai/lmnr#127",
+    "lmnr-ai/lmnr#128",
+    "lmnr-ai/lmnr#13",
+    "lmnr-ai/lmnr#130",
+    "lmnr-ai/lmnr#139",
+    "lmnr-ai/lmnr#140",
+    "lmnr-ai/lmnr#15",
+    "lmnr-ai/lmnr#150",
+    "lmnr-ai/lmnr#154",
+    "lmnr-ai/lmnr#16",
+    "lmnr-ai/lmnr#172",
+    "lmnr-ai/lmnr#173",
+    "lmnr-ai/lmnr#179",
+    "lmnr-ai/lmnr#180",
+    "lmnr-ai/lmnr#1804",
+    "lmnr-ai/lmnr#1893",
+    "lmnr-ai/lmnr#19",
+    "lmnr-ai/lmnr#192",
+    "lmnr-ai/lmnr#205",
+    "lmnr-ai/lmnr#21",
+    "lmnr-ai/lmnr#23",
+    "lmnr-ai/lmnr#231",
+    "lmnr-ai/lmnr#233",
+    "lmnr-ai/lmnr#24",
+    "lmnr-ai/lmnr#25",
+    "lmnr-ai/lmnr#251",
+    "lmnr-ai/lmnr#256",
+    "lmnr-ai/lmnr#26",
+    "lmnr-ai/lmnr#268",
+    "lmnr-ai/lmnr#269",
+    "lmnr-ai/lmnr#274",
+    "lmnr-ai/lmnr#278",
+    "lmnr-ai/lmnr#28",
+    "lmnr-ai/lmnr#282",
+    "lmnr-ai/lmnr#29",
+    "lmnr-ai/lmnr#300",
+    "lmnr-ai/lmnr#325",
+    "lmnr-ai/lmnr#33",
+    "lmnr-ai/lmnr#344",
+    "lmnr-ai/lmnr#345",
+    "lmnr-ai/lmnr#348",
+    "lmnr-ai/lmnr#366",
+    "lmnr-ai/lmnr#372",
+    "lmnr-ai/lmnr#40",
+    "lmnr-ai/lmnr#412",
+    "lmnr-ai/lmnr#422",
+    "lmnr-ai/lmnr#425",
+    "lmnr-ai/lmnr#43",
+    "lmnr-ai/lmnr#440",
+    "lmnr-ai/lmnr#454",
+    "lmnr-ai/lmnr#459",
+    "lmnr-ai/lmnr#482",
+    "lmnr-ai/lmnr#49",
+    "lmnr-ai/lmnr#490",
+    "lmnr-ai/lmnr#493",
+    "lmnr-ai/lmnr#499",
+    "lmnr-ai/lmnr#509",
+    "lmnr-ai/lmnr#516",
+    "lmnr-ai/lmnr#581",
+    "lmnr-ai/lmnr#584",
+    "lmnr-ai/lmnr#592",
+    "lmnr-ai/lmnr#594",
+    "lmnr-ai/lmnr#598",
+    "lmnr-ai/lmnr#6",
+    "lmnr-ai/lmnr#609",
+    "lmnr-ai/lmnr#612",
+    "lmnr-ai/lmnr#613",
+    "lmnr-ai/lmnr#618",
+    "lmnr-ai/lmnr#622",
+    "lmnr-ai/lmnr#626",
+    "lmnr-ai/lmnr#628",
+    "lmnr-ai/lmnr#636",
+    "lmnr-ai/lmnr#637",
+    "lmnr-ai/lmnr#638",
+    "lmnr-ai/lmnr#639",
+    "lmnr-ai/lmnr#663",
+    "lmnr-ai/lmnr#671",
+    "lmnr-ai/lmnr#693",
+    "lmnr-ai/lmnr#694",
+    "lmnr-ai/lmnr#697",
+    "lmnr-ai/lmnr#698",
+    "lmnr-ai/lmnr#706",
+    "lmnr-ai/lmnr#762",
+    "lmnr-ai/lmnr#774",
+    "lmnr-ai/lmnr#778",
+    "lmnr-ai/lmnr#79",
+    "lmnr-ai/lmnr#797",
+    "lmnr-ai/lmnr#81",
+    "lmnr-ai/lmnr#818",
+    "lmnr-ai/lmnr#82",
+    "lmnr-ai/lmnr#821",
+    "lmnr-ai/lmnr#827",
+    "lmnr-ai/lmnr#832",
+    "lmnr-ai/lmnr#833",
+    "lmnr-ai/lmnr#840",
+    "lmnr-ai/lmnr#87",
+    "lmnr-ai/lmnr#870",
+    "lmnr-ai/lmnr#882",
+    "lmnr-ai/lmnr#904",
+    "lmnr-ai/lmnr#923",
+    "lmnr-ai/lmnr#942",
+    "lmnr-ai/lmnr#974"
   ],
   "entries": [
     {
       "type": "pain_point",
       "category": "self-hosted deployment breakage",
-      "count": 264,
+      "count": 322,
       "sources": {
         "langfuse/langfuse": 225,
         "hn": 2,
-        "Arize-ai/phoenix": 37
+        "Arize-ai/phoenix": 37,
+        "Helicone/helicone": 26,
+        "comet-ml/opik": 21,
+        "langchain-ai/langsmith-sdk": 4,
+        "lmnr-ai/lmnr": 7
       },
       "examples": [
         {
@@ -12322,11 +14273,14 @@
     {
       "type": "pain_point",
       "category": "experiments & evals workflow bugs",
-      "count": 163,
+      "count": 216,
       "sources": {
         "langfuse/langfuse": 105,
         "hn": 2,
-        "Arize-ai/phoenix": 56
+        "Arize-ai/phoenix": 56,
+        "comet-ml/opik": 20,
+        "langchain-ai/langsmith-sdk": 32,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -12358,10 +14312,13 @@
     {
       "type": "pain_point",
       "category": "trace viewer renders blank",
-      "count": 36,
+      "count": 41,
       "sources": {
         "langfuse/langfuse": 26,
-        "Arize-ai/phoenix": 10
+        "Arize-ai/phoenix": 10,
+        "Helicone/helicone": 1,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
@@ -12393,11 +14350,16 @@
     {
       "type": "pain_point",
       "category": "token & cost metrics wrong",
-      "count": 168,
+      "count": 239,
       "sources": {
         "langfuse/langfuse": 138,
         "hn": 5,
-        "Arize-ai/phoenix": 25
+        "Arize-ai/phoenix": 25,
+        "AgentOps-AI/agentops": 8,
+        "Helicone/helicone": 13,
+        "comet-ml/opik": 17,
+        "langchain-ai/langsmith-sdk": 31,
+        "lmnr-ai/lmnr": 2
       },
       "examples": [
         {
@@ -12429,11 +14391,15 @@
     {
       "type": "pain_point",
       "category": "UI crashes & hangs",
-      "count": 87,
+      "count": 98,
       "sources": {
         "langfuse/langfuse": 19,
         "hn": 1,
-        "Arize-ai/phoenix": 67
+        "Arize-ai/phoenix": 67,
+        "AgentOps-AI/agentops": 2,
+        "Helicone/helicone": 3,
+        "langchain-ai/langsmith-sdk": 5,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -12465,11 +14431,15 @@
     {
       "type": "pain_point",
       "category": "silent failure without validation",
-      "count": 95,
+      "count": 121,
       "sources": {
         "langfuse/langfuse": 57,
         "hn": 24,
-        "Arize-ai/phoenix": 14
+        "Arize-ai/phoenix": 14,
+        "AgentOps-AI/agentops": 4,
+        "Helicone/helicone": 4,
+        "comet-ml/opik": 6,
+        "langchain-ai/langsmith-sdk": 12
       },
       "examples": [
         {
@@ -12501,11 +14471,16 @@
     {
       "type": "pain_point",
       "category": "SDK wrapper integration gaps",
-      "count": 388,
+      "count": 515,
       "sources": {
         "langfuse/langfuse": 336,
         "hn": 11,
-        "Arize-ai/phoenix": 41
+        "Arize-ai/phoenix": 41,
+        "AgentOps-AI/agentops": 42,
+        "Helicone/helicone": 8,
+        "comet-ml/opik": 36,
+        "langchain-ai/langsmith-sdk": 34,
+        "lmnr-ai/lmnr": 7
       },
       "examples": [
         {
@@ -12559,10 +14534,11 @@
     {
       "type": "pain_point",
       "category": "dependency security vulnerabilities",
-      "count": 9,
+      "count": 11,
       "sources": {
         "langfuse/langfuse": 8,
-        "hn": 1
+        "hn": 1,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
@@ -12594,11 +14570,16 @@
     {
       "type": "wished_existed",
       "category": "broader provider integrations",
-      "count": 91,
+      "count": 192,
       "sources": {
         "langfuse/langfuse": 40,
         "hn": 6,
-        "Arize-ai/phoenix": 45
+        "Arize-ai/phoenix": 45,
+        "AgentOps-AI/agentops": 47,
+        "Helicone/helicone": 11,
+        "comet-ml/opik": 29,
+        "langchain-ai/langsmith-sdk": 11,
+        "lmnr-ai/lmnr": 3
       },
       "examples": [
         {
@@ -12630,10 +14611,14 @@
     {
       "type": "wished_existed",
       "category": "flexible annotation review workflows",
-      "count": 7,
+      "count": 19,
       "sources": {
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 4
+        "Arize-ai/phoenix": 4,
+        "Helicone/helicone": 3,
+        "comet-ml/opik": 5,
+        "langchain-ai/langsmith-sdk": 3,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -13213,10 +15198,11 @@
     {
       "type": "wished_existed",
       "category": "agent drift detection",
-      "count": 3,
+      "count": 4,
       "sources": {
         "hn": 2,
-        "langfuse/langfuse": 1
+        "langfuse/langfuse": 1,
+        "AgentOps-AI/agentops": 1
       },
       "examples": [
         {
@@ -13230,6 +15216,10 @@
         {
           "note": "wants cross-session behavioral consistency scoring across context-compaction boundaries",
           "url": "https://github.com/langfuse/langfuse/issues/12877"
+        },
+        {
+          "note": "RFC for session-boundary behavioral drift monitoring on long-running agents",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/1313"
         }
       ]
     },
@@ -13327,10 +15317,11 @@
     {
       "type": "pain_point",
       "category": "insufficient visibility into agent actions",
-      "count": 32,
+      "count": 33,
       "sources": {
         "hn": 29,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "AgentOps-AI/agentops": 1
       },
       "examples": [
         {
@@ -13479,11 +15470,12 @@
     {
       "type": "liked",
       "category": "overall positive experience",
-      "count": 60,
+      "count": 62,
       "sources": {
         "hn": 54,
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "comet-ml/opik": 2
       },
       "examples": [
         {
@@ -13670,10 +15662,11 @@
     {
       "type": "wished_existed",
       "category": "on-prem privacy-preserving deployment",
-      "count": 6,
+      "count": 8,
       "sources": {
         "hn": 5,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "AgentOps-AI/agentops": 2
       },
       "examples": [
         {
@@ -14297,11 +16290,12 @@
     {
       "type": "wished_existed",
       "category": "visual agent trace inspector",
-      "count": 14,
+      "count": 15,
       "sources": {
         "hn": 3,
         "langfuse/langfuse": 4,
-        "Arize-ai/phoenix": 7
+        "Arize-ai/phoenix": 7,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -14698,11 +16692,14 @@
     {
       "type": "pain_point",
       "category": "OTel gaps for LLM tracing",
-      "count": 49,
+      "count": 65,
       "sources": {
         "hn": 5,
         "langfuse/langfuse": 32,
-        "Arize-ai/phoenix": 12
+        "Arize-ai/phoenix": 12,
+        "comet-ml/opik": 4,
+        "langchain-ai/langsmith-sdk": 10,
+        "lmnr-ai/lmnr": 2
       },
       "examples": [
         {
@@ -14734,10 +16731,11 @@
     {
       "type": "liked",
       "category": "strong tracing capabilities",
-      "count": 11,
+      "count": 12,
       "sources": {
         "hn": 10,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -14769,11 +16767,13 @@
     {
       "type": "pain_point",
       "category": "numerous implementation bugs",
-      "count": 31,
+      "count": 36,
       "sources": {
         "hn": 6,
         "langfuse/langfuse": 19,
-        "Arize-ai/phoenix": 6
+        "Arize-ai/phoenix": 6,
+        "comet-ml/opik": 4,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -14845,11 +16845,16 @@
     {
       "type": "pain_point",
       "category": "confusing product documentation",
-      "count": 84,
+      "count": 139,
       "sources": {
         "hn": 4,
         "langfuse/langfuse": 34,
-        "Arize-ai/phoenix": 46
+        "Arize-ai/phoenix": 46,
+        "AgentOps-AI/agentops": 7,
+        "Helicone/helicone": 23,
+        "comet-ml/opik": 10,
+        "langchain-ai/langsmith-sdk": 12,
+        "lmnr-ai/lmnr": 3
       },
       "examples": [
         {
@@ -14923,10 +16928,11 @@
     {
       "type": "pain_point",
       "category": "data residency & compliance concerns",
-      "count": 7,
+      "count": 8,
       "sources": {
         "hn": 5,
-        "langfuse/langfuse": 2
+        "langfuse/langfuse": 2,
+        "Helicone/helicone": 1
       },
       "examples": [
         {
@@ -14958,11 +16964,14 @@
     {
       "type": "pain_point",
       "category": "prompt management feature gaps",
-      "count": 39,
+      "count": 55,
       "sources": {
         "hn": 3,
         "langfuse/langfuse": 31,
-        "Arize-ai/phoenix": 5
+        "Arize-ai/phoenix": 5,
+        "Helicone/helicone": 2,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 12
       },
       "examples": [
         {
@@ -15056,11 +17065,12 @@
     {
       "type": "pain_point",
       "category": "loss of trace visibility",
-      "count": 15,
+      "count": 16,
       "sources": {
         "hn": 3,
         "langfuse/langfuse": 6,
-        "Arize-ai/phoenix": 6
+        "Arize-ai/phoenix": 6,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -15334,9 +17344,10 @@
     {
       "type": "pain_point",
       "category": "multi-agent session management",
-      "count": 3,
+      "count": 4,
       "sources": {
-        "hn": 3
+        "hn": 3,
+        "AgentOps-AI/agentops": 1
       },
       "examples": [
         {
@@ -15350,6 +17361,10 @@
         {
           "note": "tracking which of many agent instances awaits input",
           "url": "https://news.ycombinator.com/item?id=48306255"
+        },
+        {
+          "note": "concurrent websocket-triggered sessions collide with false 'multiple sessions' error",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/403"
         }
       ]
     },
@@ -15412,11 +17427,12 @@
     {
       "type": "pain_point",
       "category": "silent backend behavior drift",
-      "count": 9,
+      "count": 10,
       "sources": {
         "hn": 4,
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -15866,11 +17882,13 @@
     {
       "type": "pain_point",
       "category": "slow trace store performance",
-      "count": 32,
+      "count": 37,
       "sources": {
         "hn": 3,
         "langfuse/langfuse": 15,
-        "Arize-ai/phoenix": 14
+        "Arize-ai/phoenix": 14,
+        "comet-ml/opik": 3,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
@@ -15916,11 +17934,15 @@
     {
       "type": "pain_point",
       "category": "python dependency version conflicts",
-      "count": 54,
+      "count": 74,
       "sources": {
         "hn": 1,
         "langfuse/langfuse": 20,
-        "Arize-ai/phoenix": 33
+        "Arize-ai/phoenix": 33,
+        "AgentOps-AI/agentops": 9,
+        "Helicone/helicone": 2,
+        "comet-ml/opik": 5,
+        "langchain-ai/langsmith-sdk": 4
       },
       "examples": [
         {
@@ -16222,11 +18244,12 @@
     {
       "type": "pain_point",
       "category": "clunky user experience",
-      "count": 28,
+      "count": 30,
       "sources": {
         "hn": 5,
         "langfuse/langfuse": 16,
-        "Arize-ai/phoenix": 7
+        "Arize-ai/phoenix": 7,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
@@ -16303,11 +18326,12 @@
     {
       "type": "wished_existed",
       "category": "OpenTelemetry standardization & support",
-      "count": 12,
+      "count": 14,
       "sources": {
         "hn": 8,
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
@@ -16437,10 +18461,11 @@
     {
       "type": "pain_point",
       "category": "heavy self-host footprint",
-      "count": 3,
+      "count": 4,
       "sources": {
         "hn": 2,
-        "langfuse/langfuse": 1
+        "langfuse/langfuse": 1,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
@@ -16454,6 +18479,10 @@
         {
           "note": "V3 ClickHouse burns CPU even when idle, hurts local dev",
           "url": "https://github.com/langfuse/langfuse/issues/6572"
+        },
+        {
+          "note": "wants lighter alternative to mandatory ClickHouse+MySQL+Redis stack",
+          "url": "https://github.com/comet-ml/opik/issues/1093"
         }
       ]
     },
@@ -16558,10 +18587,12 @@
     {
       "type": "pain_point",
       "category": "pricing data freshness issues",
-      "count": 4,
+      "count": 7,
       "sources": {
         "hn": 1,
-        "langfuse/langfuse": 3
+        "langfuse/langfuse": 3,
+        "Helicone/helicone": 2,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -16579,6 +18610,14 @@
         {
           "note": "No pricing data shown for o3 model",
           "url": "https://github.com/langfuse/langfuse/issues/8857"
+        },
+        {
+          "note": "gpt-4o-2024-11-20 pricing not added to cost data",
+          "url": "https://github.com/Helicone/helicone/issues/2983"
+        },
+        {
+          "note": "o3 model pricing shown is out of date",
+          "url": "https://github.com/Helicone/helicone/issues/4029"
         }
       ]
     },
@@ -16603,11 +18642,16 @@
     {
       "type": "wished_existed",
       "category": "granular usage & cost tracking",
-      "count": 15,
+      "count": 43,
       "sources": {
         "hn": 3,
         "langfuse/langfuse": 5,
-        "Arize-ai/phoenix": 7
+        "Arize-ai/phoenix": 7,
+        "AgentOps-AI/agentops": 1,
+        "Helicone/helicone": 4,
+        "comet-ml/opik": 15,
+        "langchain-ai/langsmith-sdk": 6,
+        "lmnr-ai/lmnr": 2
       },
       "examples": [
         {
@@ -16681,10 +18725,11 @@
     {
       "type": "wished_existed",
       "category": "trace payload size limits",
-      "count": 2,
+      "count": 3,
       "sources": {
         "hn": 1,
-        "langfuse/langfuse": 1
+        "langfuse/langfuse": 1,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
@@ -16694,6 +18739,10 @@
         {
           "note": "wants configurable/larger 1MB self-hosted trace input/output size cap",
           "url": "https://github.com/langfuse/langfuse/issues/4940"
+        },
+        {
+          "note": "wants large base64 images supported without 413 errors",
+          "url": "https://github.com/comet-ml/opik/issues/605"
         }
       ]
     },
@@ -16747,11 +18796,12 @@
     {
       "type": "pain_point",
       "category": "trace attribute size limits",
-      "count": 5,
+      "count": 6,
       "sources": {
         "hn": 1,
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -16773,6 +18823,10 @@
         {
           "note": "embedding spans still exceed allocated attribute size limits",
           "url": "https://github.com/Arize-ai/phoenix/issues/2669"
+        },
+        {
+          "note": "Batch ingest fails when a field exceeds 128 chars",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/462"
         }
       ]
     },
@@ -17109,11 +19163,13 @@
     {
       "type": "pain_point",
       "category": "broader provider integrations",
-      "count": 22,
+      "count": 26,
       "sources": {
         "hn": 1,
         "langfuse/langfuse": 13,
-        "Arize-ai/phoenix": 8
+        "Arize-ai/phoenix": 8,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 3
       },
       "examples": [
         {
@@ -17145,11 +19201,14 @@
     {
       "type": "wished_existed",
       "category": "trace search functionality gaps",
-      "count": 20,
+      "count": 29,
       "sources": {
         "hn": 1,
         "langfuse/langfuse": 4,
-        "Arize-ai/phoenix": 15
+        "Arize-ai/phoenix": 15,
+        "Helicone/helicone": 1,
+        "comet-ml/opik": 6,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
@@ -17255,11 +19314,16 @@
     {
       "type": "wished_existed",
       "category": "expanded metrics beyond tracing",
-      "count": 12,
+      "count": 24,
       "sources": {
         "hn": 1,
         "langfuse/langfuse": 7,
-        "Arize-ai/phoenix": 4
+        "Arize-ai/phoenix": 4,
+        "AgentOps-AI/agentops": 2,
+        "Helicone/helicone": 3,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 4,
+        "lmnr-ai/lmnr": 2
       },
       "examples": [
         {
@@ -17291,11 +19355,15 @@
     {
       "type": "wished_existed",
       "category": "language SDK coverage gaps",
-      "count": 5,
+      "count": 13,
       "sources": {
         "hn": 1,
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "Helicone/helicone": 1,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 3,
+        "lmnr-ai/lmnr": 2
       },
       "examples": [
         {
@@ -17317,6 +19385,10 @@
         {
           "note": "want a JavaScript client, e.g. for langchainjs",
           "url": "https://github.com/Arize-ai/phoenix/issues/1551"
+        },
+        {
+          "note": "Jobs feature has no Node.js SDK package yet",
+          "url": "https://github.com/Helicone/helicone/issues/933"
         }
       ]
     },
@@ -17799,10 +19871,15 @@
     {
       "type": "pain_point",
       "category": "UI rendering & interaction bugs",
-      "count": 148,
+      "count": 175,
       "sources": {
         "langfuse/langfuse": 67,
-        "Arize-ai/phoenix": 81
+        "Arize-ai/phoenix": 81,
+        "AgentOps-AI/agentops": 3,
+        "Helicone/helicone": 7,
+        "comet-ml/opik": 7,
+        "langchain-ai/langsmith-sdk": 6,
+        "lmnr-ai/lmnr": 4
       },
       "examples": [
         {
@@ -17834,10 +19911,15 @@
     {
       "type": "wished_existed",
       "category": "account & user management gaps",
-      "count": 6,
+      "count": 14,
       "sources": {
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "AgentOps-AI/agentops": 1,
+        "Helicone/helicone": 3,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 2,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -17869,10 +19951,11 @@
     {
       "type": "wished_existed",
       "category": "SSO & enterprise auth gaps",
-      "count": 24,
+      "count": 26,
       "sources": {
         "langfuse/langfuse": 11,
-        "Arize-ai/phoenix": 13
+        "Arize-ai/phoenix": 13,
+        "comet-ml/opik": 2
       },
       "examples": [
         {
@@ -17904,10 +19987,14 @@
     {
       "type": "wished_existed",
       "category": "SDK & API feature gaps",
-      "count": 82,
+      "count": 153,
       "sources": {
         "langfuse/langfuse": 33,
-        "Arize-ai/phoenix": 49
+        "Arize-ai/phoenix": 49,
+        "AgentOps-AI/agentops": 18,
+        "Helicone/helicone": 4,
+        "comet-ml/opik": 25,
+        "langchain-ai/langsmith-sdk": 24
       },
       "examples": [
         {
@@ -17939,10 +20026,15 @@
     {
       "type": "pain_point",
       "category": "SDK packaging & typing gaps",
-      "count": 41,
+      "count": 67,
       "sources": {
         "langfuse/langfuse": 28,
-        "Arize-ai/phoenix": 13
+        "Arize-ai/phoenix": 13,
+        "AgentOps-AI/agentops": 6,
+        "Helicone/helicone": 1,
+        "comet-ml/opik": 5,
+        "langchain-ai/langsmith-sdk": 13,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -17974,10 +20066,13 @@
     {
       "type": "pain_point",
       "category": "dashboard display & metrics bugs",
-      "count": 33,
+      "count": 40,
       "sources": {
         "langfuse/langfuse": 22,
-        "Arize-ai/phoenix": 11
+        "Arize-ai/phoenix": 11,
+        "Helicone/helicone": 3,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 3
       },
       "examples": [
         {
@@ -18009,10 +20104,11 @@
     {
       "type": "pain_point",
       "category": "account & user management gaps",
-      "count": 5,
+      "count": 6,
       "sources": {
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
@@ -18034,16 +20130,22 @@
         {
           "note": "invite email matching is case sensitive, locks users out",
           "url": "https://github.com/Arize-ai/phoenix/issues/8865"
+        },
+        {
+          "note": "deleted default workspace can't be recreated, name conflict blocks it",
+          "url": "https://github.com/comet-ml/opik/issues/1105"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "broader deployment platform support",
-      "count": 8,
+      "count": 13,
       "sources": {
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 5
+        "Arize-ai/phoenix": 5,
+        "Helicone/helicone": 2,
+        "comet-ml/opik": 3
       },
       "examples": [
         {
@@ -18075,10 +20177,12 @@
     {
       "type": "pain_point",
       "category": "unhelpful error messages",
-      "count": 18,
+      "count": 20,
       "sources": {
         "langfuse/langfuse": 6,
-        "Arize-ai/phoenix": 12
+        "Arize-ai/phoenix": 12,
+        "Helicone/helicone": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -18110,10 +20214,14 @@
     {
       "type": "wished_existed",
       "category": "trace data management controls",
-      "count": 11,
+      "count": 23,
       "sources": {
         "langfuse/langfuse": 5,
-        "Arize-ai/phoenix": 6
+        "Arize-ai/phoenix": 6,
+        "AgentOps-AI/agentops": 1,
+        "comet-ml/opik": 3,
+        "langchain-ai/langsmith-sdk": 6,
+        "lmnr-ai/lmnr": 2
       },
       "examples": [
         {
@@ -18145,10 +20253,12 @@
     {
       "type": "wished_existed",
       "category": "self-hosted deployment config gaps",
-      "count": 45,
+      "count": 58,
       "sources": {
         "langfuse/langfuse": 12,
-        "Arize-ai/phoenix": 33
+        "Arize-ai/phoenix": 33,
+        "comet-ml/opik": 9,
+        "lmnr-ai/lmnr": 4
       },
       "examples": [
         {
@@ -18180,10 +20290,14 @@
     {
       "type": "wished_existed",
       "category": "minor UI workflow enhancements",
-      "count": 57,
+      "count": 84,
       "sources": {
         "langfuse/langfuse": 12,
-        "Arize-ai/phoenix": 45
+        "Arize-ai/phoenix": 45,
+        "AgentOps-AI/agentops": 2,
+        "Helicone/helicone": 3,
+        "comet-ml/opik": 16,
+        "lmnr-ai/lmnr": 6
       },
       "examples": [
         {
@@ -18249,10 +20363,11 @@
     {
       "type": "pain_point",
       "category": "LLM model name parsing failures",
-      "count": 19,
+      "count": 21,
       "sources": {
         "langfuse/langfuse": 16,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "comet-ml/opik": 2
       },
       "examples": [
         {
@@ -18284,10 +20399,12 @@
     {
       "type": "wished_existed",
       "category": "customizable UI table columns",
-      "count": 13,
+      "count": 21,
       "sources": {
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 10
+        "Arize-ai/phoenix": 10,
+        "comet-ml/opik": 7,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -18319,10 +20436,14 @@
     {
       "type": "wished_existed",
       "category": "eval metrics visualization",
-      "count": 19,
+      "count": 29,
       "sources": {
         "langfuse/langfuse": 5,
-        "Arize-ai/phoenix": 14
+        "Arize-ai/phoenix": 14,
+        "Helicone/helicone": 1,
+        "comet-ml/opik": 6,
+        "langchain-ai/langsmith-sdk": 2,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -18377,10 +20498,11 @@
     {
       "type": "wished_existed",
       "category": "config validation & clear errors",
-      "count": 6,
+      "count": 7,
       "sources": {
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
@@ -18412,24 +20534,32 @@
     {
       "type": "wished_existed",
       "category": "SDK type definitions too restrictive",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "langfuse/langfuse": 1
+        "langfuse/langfuse": 1,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
           "note": "optional fields marked mandatory in generated python types, breaks type checking ergonomics",
           "url": "https://github.com/langfuse/langfuse/issues/635"
+        },
+        {
+          "note": "TS SDK doesn't export evaluator types, forcing inline definitions",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/594"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "broken trace & session links",
-      "count": 9,
+      "count": 13,
       "sources": {
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 6
+        "Arize-ai/phoenix": 6,
+        "AgentOps-AI/agentops": 2,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -18479,10 +20609,13 @@
     {
       "type": "wished_existed",
       "category": "prompt management feature gaps",
-      "count": 31,
+      "count": 66,
       "sources": {
         "langfuse/langfuse": 23,
-        "Arize-ai/phoenix": 8
+        "Arize-ai/phoenix": 8,
+        "Helicone/helicone": 2,
+        "comet-ml/opik": 16,
+        "langchain-ai/langsmith-sdk": 17
       },
       "examples": [
         {
@@ -18528,10 +20661,14 @@
     {
       "type": "pain_point",
       "category": "SDK trace delivery failures",
-      "count": 40,
+      "count": 71,
       "sources": {
         "langfuse/langfuse": 28,
-        "Arize-ai/phoenix": 12
+        "Arize-ai/phoenix": 12,
+        "AgentOps-AI/agentops": 3,
+        "comet-ml/opik": 5,
+        "langchain-ai/langsmith-sdk": 21,
+        "lmnr-ai/lmnr": 2
       },
       "examples": [
         {
@@ -18563,10 +20700,13 @@
     {
       "type": "pain_point",
       "category": "latency & timing metrics wrong",
-      "count": 18,
+      "count": 21,
       "sources": {
         "langfuse/langfuse": 14,
-        "Arize-ai/phoenix": 4
+        "Arize-ai/phoenix": 4,
+        "AgentOps-AI/agentops": 1,
+        "Helicone/helicone": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -18598,10 +20738,15 @@
     {
       "type": "pain_point",
       "category": "trace viewer inconsistent rendering",
-      "count": 60,
+      "count": 79,
       "sources": {
         "langfuse/langfuse": 39,
-        "Arize-ai/phoenix": 21
+        "Arize-ai/phoenix": 21,
+        "AgentOps-AI/agentops": 2,
+        "Helicone/helicone": 2,
+        "comet-ml/opik": 9,
+        "langchain-ai/langsmith-sdk": 5,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -18633,9 +20778,11 @@
     {
       "type": "pain_point",
       "category": "trace payload size limits",
-      "count": 6,
+      "count": 11,
       "sources": {
-        "langfuse/langfuse": 6
+        "langfuse/langfuse": 6,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 4
       },
       "examples": [
         {
@@ -18667,10 +20814,14 @@
     {
       "type": "pain_point",
       "category": "SDK error handling bugs",
-      "count": 53,
+      "count": 82,
       "sources": {
         "langfuse/langfuse": 36,
-        "Arize-ai/phoenix": 17
+        "Arize-ai/phoenix": 17,
+        "AgentOps-AI/agentops": 12,
+        "comet-ml/opik": 6,
+        "langchain-ai/langsmith-sdk": 10,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -18702,10 +20853,14 @@
     {
       "type": "pain_point",
       "category": "UI filtering & pagination bugs",
-      "count": 43,
+      "count": 53,
       "sources": {
         "langfuse/langfuse": 28,
-        "Arize-ai/phoenix": 15
+        "Arize-ai/phoenix": 15,
+        "Helicone/helicone": 2,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 5,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -18737,9 +20892,11 @@
     {
       "type": "pain_point",
       "category": "API key management gaps",
-      "count": 4,
+      "count": 9,
       "sources": {
-        "langfuse/langfuse": 4
+        "langfuse/langfuse": 4,
+        "Helicone/helicone": 2,
+        "langchain-ai/langsmith-sdk": 3
       },
       "examples": [
         {
@@ -18757,16 +20914,27 @@
         {
           "note": "New LLM connection dialog closes when switching windows to paste key",
           "url": "https://github.com/langfuse/langfuse/issues/8707"
+        },
+        {
+          "note": "User unable to retrieve their public key",
+          "url": "https://github.com/Helicone/helicone/issues/45"
+        },
+        {
+          "note": "generating API key from portal fails with 404",
+          "url": "https://github.com/Helicone/helicone/issues/1790"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "opaque SDK error messages",
-      "count": 9,
+      "count": 12,
       "sources": {
         "langfuse/langfuse": 7,
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "AgentOps-AI/agentops": 1,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -18798,10 +20966,13 @@
     {
       "type": "pain_point",
       "category": "SDK serialization failures",
-      "count": 30,
+      "count": 40,
       "sources": {
         "langfuse/langfuse": 22,
-        "Arize-ai/phoenix": 8
+        "Arize-ai/phoenix": 8,
+        "AgentOps-AI/agentops": 2,
+        "comet-ml/opik": 4,
+        "langchain-ai/langsmith-sdk": 4
       },
       "examples": [
         {
@@ -18847,10 +21018,13 @@
     {
       "type": "pain_point",
       "category": "public API operations broken",
-      "count": 44,
+      "count": 65,
       "sources": {
         "langfuse/langfuse": 25,
-        "Arize-ai/phoenix": 19
+        "Arize-ai/phoenix": 19,
+        "Helicone/helicone": 2,
+        "comet-ml/opik": 4,
+        "langchain-ai/langsmith-sdk": 15
       },
       "examples": [
         {
@@ -18882,10 +21056,12 @@
     {
       "type": "pain_point",
       "category": "prompt editor UI bugs",
-      "count": 13,
+      "count": 17,
       "sources": {
         "langfuse/langfuse": 12,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "Helicone/helicone": 1,
+        "langchain-ai/langsmith-sdk": 3
       },
       "examples": [
         {
@@ -18931,10 +21107,13 @@
     {
       "type": "wished_existed",
       "category": "experiments & evals workflow bugs",
-      "count": 29,
+      "count": 53,
       "sources": {
         "langfuse/langfuse": 10,
-        "Arize-ai/phoenix": 19
+        "Arize-ai/phoenix": 19,
+        "comet-ml/opik": 13,
+        "langchain-ai/langsmith-sdk": 10,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -19000,10 +21179,13 @@
     {
       "type": "pain_point",
       "category": "SSO & enterprise auth gaps",
-      "count": 34,
+      "count": 43,
       "sources": {
         "langfuse/langfuse": 25,
-        "Arize-ai/phoenix": 9
+        "Arize-ai/phoenix": 9,
+        "AgentOps-AI/agentops": 2,
+        "Helicone/helicone": 4,
+        "langchain-ai/langsmith-sdk": 3
       },
       "examples": [
         {
@@ -19068,10 +21250,12 @@
     {
       "type": "wished_existed",
       "category": "SDK packaging & typing gaps",
-      "count": 3,
+      "count": 7,
       "sources": {
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
@@ -19085,6 +21269,18 @@
         {
           "note": "wants single package instead of separate openinference-core install",
           "url": "https://github.com/Arize-ai/phoenix/issues/12516"
+        },
+        {
+          "note": "wants pandas/numpy optional to reduce SDK footprint",
+          "url": "https://github.com/comet-ml/opik/issues/644"
+        },
+        {
+          "note": "Wants litellm as optional extra instead of hard dependency",
+          "url": "https://github.com/comet-ml/opik/issues/4740"
+        },
+        {
+          "note": "make orjson dependency optional for pypy compatibility",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/803"
         }
       ]
     },
@@ -19105,10 +21301,14 @@
     {
       "type": "pain_point",
       "category": "SDK logging misbehavior",
-      "count": 23,
+      "count": 34,
       "sources": {
         "langfuse/langfuse": 15,
-        "Arize-ai/phoenix": 8
+        "Arize-ai/phoenix": 8,
+        "AgentOps-AI/agentops": 7,
+        "Helicone/helicone": 1,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
@@ -19140,10 +21340,11 @@
     {
       "type": "wished_existed",
       "category": "limited eval types available",
-      "count": 14,
+      "count": 22,
       "sources": {
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 13
+        "Arize-ai/phoenix": 13,
+        "comet-ml/opik": 8
       },
       "examples": [
         {
@@ -19175,10 +21376,13 @@
     {
       "type": "pain_point",
       "category": "SDK & API feature gaps",
-      "count": 25,
+      "count": 35,
       "sources": {
         "langfuse/langfuse": 19,
-        "Arize-ai/phoenix": 6
+        "Arize-ai/phoenix": 6,
+        "AgentOps-AI/agentops": 3,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 5
       },
       "examples": [
         {
@@ -19210,9 +21414,11 @@
     {
       "type": "pain_point",
       "category": "trace metadata update bugs",
-      "count": 19,
+      "count": 21,
       "sources": {
-        "langfuse/langfuse": 19
+        "langfuse/langfuse": 19,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -19244,10 +21450,14 @@
     {
       "type": "pain_point",
       "category": "llm connection setup broken",
-      "count": 22,
+      "count": 39,
       "sources": {
         "langfuse/langfuse": 17,
-        "Arize-ai/phoenix": 5
+        "Arize-ai/phoenix": 5,
+        "Helicone/helicone": 9,
+        "comet-ml/opik": 5,
+        "langchain-ai/langsmith-sdk": 2,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -19279,10 +21489,13 @@
     {
       "type": "pain_point",
       "category": "data export functionality broken",
-      "count": 24,
+      "count": 31,
       "sources": {
         "langfuse/langfuse": 13,
-        "Arize-ai/phoenix": 11
+        "Arize-ai/phoenix": 11,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 4,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -19314,10 +21527,13 @@
     {
       "type": "pain_point",
       "category": "SDK performance & resource issues",
-      "count": 15,
+      "count": 28,
       "sources": {
         "langfuse/langfuse": 11,
-        "Arize-ai/phoenix": 4
+        "Arize-ai/phoenix": 4,
+        "AgentOps-AI/agentops": 3,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 8
       },
       "examples": [
         {
@@ -19349,10 +21565,15 @@
     {
       "type": "wished_existed",
       "category": "custom trace field control",
-      "count": 15,
+      "count": 34,
       "sources": {
         "langfuse/langfuse": 5,
-        "Arize-ai/phoenix": 10
+        "Arize-ai/phoenix": 10,
+        "AgentOps-AI/agentops": 4,
+        "Helicone/helicone": 1,
+        "comet-ml/opik": 7,
+        "langchain-ai/langsmith-sdk": 5,
+        "lmnr-ai/lmnr": 2
       },
       "examples": [
         {
@@ -19384,10 +21605,11 @@
     {
       "type": "wished_existed",
       "category": "dashboard chart display gaps",
-      "count": 2,
+      "count": 4,
       "sources": {
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
@@ -19397,15 +21619,24 @@
         {
           "note": "Wants minute/hour-level granularity on timeseries plot, not just daily",
           "url": "https://github.com/Arize-ai/phoenix/issues/2243"
+        },
+        {
+          "note": "wants week-over-week overlay comparison on dashboard graphs",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/986"
+        },
+        {
+          "note": "wants weekly/monthly cost aggregation instead of raw daily points",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/2194"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "distributed tracing across services",
-      "count": 2,
+      "count": 3,
       "sources": {
-        "langfuse/langfuse": 2
+        "langfuse/langfuse": 2,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
@@ -19415,16 +21646,22 @@
         {
           "note": "Wants explicit parentSpanId control to avoid orphaned Vercel AI SDK root",
           "url": "https://github.com/langfuse/langfuse/issues/8561"
+        },
+        {
+          "note": "wants trace context propagation across Kafka/thread boundaries",
+          "url": "https://github.com/comet-ml/opik/issues/2513"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "API key management gaps",
-      "count": 6,
+      "count": 10,
       "sources": {
         "langfuse/langfuse": 2,
-        "Arize-ai/phoenix": 4
+        "Arize-ai/phoenix": 4,
+        "Helicone/helicone": 3,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -19603,9 +21840,10 @@
     {
       "type": "pain_point",
       "category": "PII redaction from traces",
-      "count": 7,
+      "count": 9,
       "sources": {
-        "langfuse/langfuse": 7
+        "langfuse/langfuse": 7,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
@@ -19668,10 +21906,13 @@
     {
       "type": "pain_point",
       "category": "playground functionality bugs",
-      "count": 89,
+      "count": 112,
       "sources": {
         "langfuse/langfuse": 15,
-        "Arize-ai/phoenix": 74
+        "Arize-ai/phoenix": 74,
+        "Helicone/helicone": 2,
+        "comet-ml/opik": 3,
+        "langchain-ai/langsmith-sdk": 18
       },
       "examples": [
         {
@@ -19703,10 +21944,14 @@
     {
       "type": "pain_point",
       "category": "media handling bugs",
-      "count": 16,
+      "count": 23,
       "sources": {
         "langfuse/langfuse": 13,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "Helicone/helicone": 1,
+        "comet-ml/opik": 3,
+        "langchain-ai/langsmith-sdk": 2,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -19738,10 +21983,14 @@
     {
       "type": "pain_point",
       "category": "self-hosted deployment config gaps",
-      "count": 52,
+      "count": 77,
       "sources": {
         "langfuse/langfuse": 27,
-        "Arize-ai/phoenix": 25
+        "Arize-ai/phoenix": 25,
+        "Helicone/helicone": 7,
+        "comet-ml/opik": 14,
+        "langchain-ai/langsmith-sdk": 1,
+        "lmnr-ai/lmnr": 3
       },
       "examples": [
         {
@@ -19787,10 +22036,11 @@
     {
       "type": "pain_point",
       "category": "special characters break lookups",
-      "count": 20,
+      "count": 23,
       "sources": {
         "langfuse/langfuse": 17,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "comet-ml/opik": 3
       },
       "examples": [
         {
@@ -19822,10 +22072,11 @@
     {
       "type": "wished_existed",
       "category": "inline media preview in traces",
-      "count": 4,
+      "count": 5,
       "sources": {
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
@@ -19843,16 +22094,21 @@
         {
           "note": "Wants images rendered in Phoenix UI for multi-modal RAG traces",
           "url": "https://github.com/Arize-ai/phoenix/issues/2895"
+        },
+        {
+          "note": "wants attachments rendered inline instead of extra click",
+          "url": "https://github.com/comet-ml/opik/issues/2814"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "overly strict input validation",
-      "count": 6,
+      "count": 7,
       "sources": {
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -19884,10 +22140,12 @@
     {
       "type": "wished_existed",
       "category": "evaluator lifecycle management",
-      "count": 7,
+      "count": 12,
       "sources": {
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 6
+        "Arize-ai/phoenix": 6,
+        "comet-ml/opik": 4,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -19919,9 +22177,10 @@
     {
       "type": "wished_existed",
       "category": "SDK logging misbehavior",
-      "count": 2,
+      "count": 3,
       "sources": {
-        "langfuse/langfuse": 2
+        "langfuse/langfuse": 2,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
@@ -19931,16 +22190,23 @@
         {
           "note": "Wants to suppress expected 'prompt not found' error logs",
           "url": "https://github.com/langfuse/langfuse/issues/6482"
+        },
+        {
+          "note": "can't configure console log level to suppress HTTP logs",
+          "url": "https://github.com/comet-ml/opik/issues/1239"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "disabling tracing doesn't work",
-      "count": 6,
+      "count": 10,
       "sources": {
         "langfuse/langfuse": 4,
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "AgentOps-AI/agentops": 1,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
@@ -19972,10 +22238,12 @@
     {
       "type": "wished_existed",
       "category": "dataset management UI gaps",
-      "count": 31,
+      "count": 44,
       "sources": {
         "langfuse/langfuse": 12,
-        "Arize-ai/phoenix": 19
+        "Arize-ai/phoenix": 19,
+        "comet-ml/opik": 9,
+        "langchain-ai/langsmith-sdk": 4
       },
       "examples": [
         {
@@ -20007,10 +22275,13 @@
     {
       "type": "pain_point",
       "category": "dataset management UI gaps",
-      "count": 25,
+      "count": 33,
       "sources": {
         "langfuse/langfuse": 10,
-        "Arize-ai/phoenix": 15
+        "Arize-ai/phoenix": 15,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 6,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -20042,10 +22313,12 @@
     {
       "type": "pain_point",
       "category": "evaluator lifecycle management",
-      "count": 22,
+      "count": 27,
       "sources": {
         "langfuse/langfuse": 10,
-        "Arize-ai/phoenix": 12
+        "Arize-ai/phoenix": 12,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 4
       },
       "examples": [
         {
@@ -20077,10 +22350,13 @@
     {
       "type": "wished_existed",
       "category": "UI filtering & pagination bugs",
-      "count": 5,
+      "count": 9,
       "sources": {
         "langfuse/langfuse": 2,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "Helicone/helicone": 2,
+        "comet-ml/opik": 1,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -20102,30 +22378,45 @@
         {
           "note": "wants filter/pagination/sort on the projects list page",
           "url": "https://github.com/Arize-ai/phoenix/issues/7419"
+        },
+        {
+          "note": "Wants ability to filter on empty and null values",
+          "url": "https://github.com/Helicone/helicone/issues/328"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "config validation & clear errors",
-      "count": 1,
+      "count": 3,
       "sources": {
-        "langfuse/langfuse": 1
+        "langfuse/langfuse": 1,
+        "comet-ml/opik": 2
       },
       "examples": [
         {
           "note": "SDK regex blocks uppercase characters in environment values",
           "url": "https://github.com/langfuse/langfuse/issues/6158"
+        },
+        {
+          "note": "confusing 401 'API key should be provided' error from CrewAI+LiteLLM setup",
+          "url": "https://github.com/comet-ml/opik/issues/1949"
+        },
+        {
+          "note": "litellm+track decorator needs undocumented env vars or gets silent 403",
+          "url": "https://github.com/comet-ml/opik/issues/2118"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "eval metrics visualization",
-      "count": 10,
+      "count": 15,
       "sources": {
         "langfuse/langfuse": 5,
-        "Arize-ai/phoenix": 5
+        "Arize-ai/phoenix": 5,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 3
       },
       "examples": [
         {
@@ -20157,10 +22448,11 @@
     {
       "type": "wished_existed",
       "category": "missing OpenTelemetry support",
-      "count": 5,
+      "count": 6,
       "sources": {
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -20182,6 +22474,10 @@
         {
           "note": "requests OTel logs signal support; log export currently fails with 405",
           "url": "https://github.com/Arize-ai/phoenix/issues/7355"
+        },
+        {
+          "note": "wants OTel-compliant trace export in TypeScript SDK, parity with Python",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1751"
         }
       ]
     },
@@ -20235,10 +22531,12 @@
     {
       "type": "wished_existed",
       "category": "OTel gaps for LLM tracing",
-      "count": 4,
+      "count": 9,
       "sources": {
         "langfuse/langfuse": 2,
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 3
       },
       "examples": [
         {
@@ -20256,6 +22554,14 @@
         {
           "note": "Wants no-op handler instead of 405 for OTLP metrics/logs",
           "url": "https://github.com/Arize-ai/phoenix/issues/7212"
+        },
+        {
+          "note": "wants OTel trace attributes like thread_id mappable to Opik Threads",
+          "url": "https://github.com/comet-ml/opik/issues/3441"
+        },
+        {
+          "note": "Spring AI OTel bridge integration doesn't recognize tags/metadata attributes",
+          "url": "https://github.com/comet-ml/opik/issues/4233"
         }
       ]
     },
@@ -20276,24 +22582,49 @@
     {
       "type": "wished_existed",
       "category": "data residency & compliance concerns",
-      "count": 1,
+      "count": 6,
       "sources": {
-        "langfuse/langfuse": 1
+        "langfuse/langfuse": 1,
+        "AgentOps-AI/agentops": 2,
+        "Helicone/helicone": 3
       },
       "examples": [
         {
           "note": "wants configurable GCP region for ChatVertexAI calls; hardcoded to us-central1",
           "url": "https://github.com/langfuse/langfuse/issues/7363"
+        },
+        {
+          "note": "users unaware env metadata is collected; wants indicator on key creation",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/171"
+        },
+        {
+          "note": "wants a toggle to disable environment metadata collection",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/172"
+        },
+        {
+          "note": "Wants ability to encrypt stored prompts via header flag",
+          "url": "https://github.com/Helicone/helicone/issues/35"
+        },
+        {
+          "note": "Wants configurable retention TTL for sensitive request data",
+          "url": "https://github.com/Helicone/helicone/issues/307"
+        },
+        {
+          "note": "wants cached vector embeddings encrypted at rest",
+          "url": "https://github.com/Helicone/helicone/issues/1665"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "custom model pricing config bugs",
-      "count": 5,
+      "count": 9,
       "sources": {
         "langfuse/langfuse": 4,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "AgentOps-AI/agentops": 2,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -20315,6 +22646,10 @@
         {
           "note": "model pricing regex fails to match provider-prefixed model IDs",
           "url": "https://github.com/Arize-ai/phoenix/issues/8489"
+        },
+        {
+          "note": "no pricing/cost tracked for o3-mini model",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/671"
         }
       ]
     },
@@ -20343,28 +22678,38 @@
     {
       "type": "wished_existed",
       "category": "flexible export scheduling",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "langfuse/langfuse": 1
+        "langfuse/langfuse": 1,
+        "Helicone/helicone": 1
       },
       "examples": [
         {
           "note": "Wants custom/cron export schedule instead of fixed hourly/daily/weekly",
           "url": "https://github.com/langfuse/langfuse/issues/7633"
+        },
+        {
+          "note": "Wants weekly emailed performance and cost summary reports",
+          "url": "https://github.com/Helicone/helicone/issues/220"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "distributed tracing across services",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "langfuse/langfuse": 1
+        "langfuse/langfuse": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
           "note": "FastAPI root span and LangGraph CallbackHandler split into separate traces",
           "url": "https://github.com/langfuse/langfuse/issues/7838"
+        },
+        {
+          "note": "distributed tracing fails with Flask due to camel-cased header",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1855"
         }
       ]
     },
@@ -20389,10 +22734,13 @@
     {
       "type": "pain_point",
       "category": "data deletion failures",
-      "count": 25,
+      "count": 30,
       "sources": {
         "langfuse/langfuse": 17,
-        "Arize-ai/phoenix": 8
+        "Arize-ai/phoenix": 8,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 3,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -20446,10 +22794,15 @@
     {
       "type": "pain_point",
       "category": "third-party integration bugs",
-      "count": 16,
+      "count": 29,
       "sources": {
         "langfuse/langfuse": 5,
-        "Arize-ai/phoenix": 11
+        "Arize-ai/phoenix": 11,
+        "AgentOps-AI/agentops": 3,
+        "Helicone/helicone": 4,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 3,
+        "lmnr-ai/lmnr": 2
       },
       "examples": [
         {
@@ -20481,10 +22834,12 @@
     {
       "type": "pain_point",
       "category": "non-ASCII character encoding gaps",
-      "count": 7,
+      "count": 9,
       "sources": {
         "langfuse/langfuse": 4,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "AgentOps-AI/agentops": 1,
+        "Helicone/helicone": 1
       },
       "examples": [
         {
@@ -20535,10 +22890,11 @@
     {
       "type": "wished_existed",
       "category": "data export missing fields",
-      "count": 4,
+      "count": 6,
       "sources": {
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "comet-ml/opik": 2
       },
       "examples": [
         {
@@ -20556,29 +22912,52 @@
         {
           "note": "tool definitions don't propagate from span to dataset input",
           "url": "https://github.com/Arize-ai/phoenix/issues/6139"
+        },
+        {
+          "note": "wants project name in exported CSV file name",
+          "url": "https://github.com/comet-ml/opik/issues/464"
+        },
+        {
+          "note": "JSON export of experiment results omits the reason field for feedback scores",
+          "url": "https://github.com/comet-ml/opik/issues/1503"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "token & cost metrics wrong",
-      "count": 1,
+      "count": 4,
       "sources": {
-        "langfuse/langfuse": 1
+        "langfuse/langfuse": 1,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
           "note": "Wants tiered cost tracking for Claude's 1M-context pricing",
           "url": "https://github.com/langfuse/langfuse/issues/8482"
+        },
+        {
+          "note": "DSPy integration doesn't capture token usage in traces",
+          "url": "https://github.com/comet-ml/opik/issues/3679"
+        },
+        {
+          "note": "wants cost tracking to account for OpenAI flex-tier pricing",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1763"
+        },
+        {
+          "note": "OpenAI Agents SDK via LiteLLM logs 0 tokens",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1802"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "input validation security gaps",
-      "count": 2,
+      "count": 3,
       "sources": {
-        "langfuse/langfuse": 2
+        "langfuse/langfuse": 2,
+        "AgentOps-AI/agentops": 1
       },
       "examples": [
         {
@@ -20588,6 +22967,10 @@
         {
           "note": "Image URL validator misses IPv6 ULA and IPv4-mapped private addresses",
           "url": "https://github.com/langfuse/langfuse/issues/13213"
+        },
+        {
+          "note": "Unsafe deserialization of LLM/agent output flagged as security risk",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/1342"
         }
       ]
     },
@@ -20621,10 +23004,14 @@
     {
       "type": "pain_point",
       "category": "runtime environment compatibility gaps",
-      "count": 18,
+      "count": 29,
       "sources": {
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 17
+        "Arize-ai/phoenix": 17,
+        "AgentOps-AI/agentops": 2,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 4,
+        "lmnr-ai/lmnr": 3
       },
       "examples": [
         {
@@ -20693,9 +23080,10 @@
     {
       "type": "pain_point",
       "category": "webhook delivery bugs",
-      "count": 2,
+      "count": 3,
       "sources": {
-        "langfuse/langfuse": 2
+        "langfuse/langfuse": 2,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -20705,16 +23093,21 @@
         {
           "note": "prompt-update webhook fires twice, double-triggers GitLab pipeline",
           "url": "https://github.com/langfuse/langfuse/issues/9542"
+        },
+        {
+          "note": "webhook tied to run data never fires",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1300"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "HTTP proxy support",
-      "count": 2,
+      "count": 3,
       "sources": {
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -20724,16 +23117,21 @@
         {
           "note": "wants custom proxy endpoint config for playground LLM calls",
           "url": "https://github.com/Arize-ai/phoenix/issues/5836"
+        },
+        {
+          "note": "JS SDK lacks proxy configuration support",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/202"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "unhelpful error messages",
-      "count": 4,
+      "count": 5,
       "sources": {
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -20751,16 +23149,21 @@
         {
           "note": "wants clearer warning when empty messages sent to Anthropic/Bedrock",
           "url": "https://github.com/Arize-ai/phoenix/issues/11338"
+        },
+        {
+          "note": "409 conflict error doesn't say which fields conflict",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1529"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "observation type misclassification",
-      "count": 3,
+      "count": 4,
       "sources": {
         "langfuse/langfuse": 2,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -20774,6 +23177,10 @@
         {
           "note": "responses-API calls span-named 'chatCompletions', breaks correct filtering/indexing",
           "url": "https://github.com/Arize-ai/phoenix/issues/11377"
+        },
+        {
+          "note": "intentional NodeInterrupt shown as node status ERROR",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1127"
         }
       ]
     },
@@ -20838,10 +23245,12 @@
     {
       "type": "wished_existed",
       "category": "missing default model pricing",
-      "count": 2,
+      "count": 4,
       "sources": {
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -20851,6 +23260,14 @@
         {
           "note": "Wants tiered long-context pricing support for Claude models",
           "url": "https://github.com/Arize-ai/phoenix/issues/10467"
+        },
+        {
+          "note": "Wants specific OpenRouter model+provider combo added to pricing file",
+          "url": "https://github.com/comet-ml/opik/issues/4507"
+        },
+        {
+          "note": "No built-in cost calculation for gpt-4-turbo",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/597"
         }
       ]
     },
@@ -20885,9 +23302,10 @@
     {
       "type": "wished_existed",
       "category": "pricing data freshness issues",
-      "count": 2,
+      "count": 3,
       "sources": {
-        "langfuse/langfuse": 2
+        "langfuse/langfuse": 2,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -20897,16 +23315,22 @@
         {
           "note": "wants pricing added for new gpt 5.2 model",
           "url": "https://github.com/langfuse/langfuse/issues/11084"
+        },
+        {
+          "note": "wants SDK API to sync/manage model pricing instead of UI-only entry",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/2552"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "timestamp timezone display bugs",
-      "count": 3,
+      "count": 6,
       "sources": {
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "AgentOps-AI/agentops": 2,
+        "Helicone/helicone": 1
       },
       "examples": [
         {
@@ -20920,6 +23344,18 @@
         {
           "note": "get_spans time filters use UTC while UI shows local timezone",
           "url": "https://github.com/Arize-ai/phoenix/issues/3024"
+        },
+        {
+          "note": "get_ISO_time returns local time but labels it UTC with 'Z'",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/46"
+        },
+        {
+          "note": "Span drilldown shows UTC while traces table shows local time",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/969"
+        },
+        {
+          "note": "Dashboard time graphs are off by a day",
+          "url": "https://github.com/Helicone/helicone/issues/280"
         }
       ]
     },
@@ -21060,10 +23496,11 @@
     {
       "type": "wished_existed",
       "category": "CLI feature & bug gaps",
-      "count": 2,
+      "count": 3,
       "sources": {
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
@@ -21073,16 +23510,21 @@
         {
           "note": "phoenix CLI has no --help listing available options",
           "url": "https://github.com/Arize-ai/phoenix/issues/5656"
+        },
+        {
+          "note": "wants 'opik configure' CLI command ported to the Typescript SDK",
+          "url": "https://github.com/comet-ml/opik/issues/3418"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "CLI feature & bug gaps",
-      "count": 4,
+      "count": 5,
       "sources": {
         "langfuse/langfuse": 3,
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -21100,6 +23542,10 @@
         {
           "note": "list commands render unreadable custom box output",
           "url": "https://github.com/Arize-ai/phoenix/issues/12148"
+        },
+        {
+          "note": "CLI eval command fails on multiple files outside root eval folder",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/598"
         }
       ]
     },
@@ -21125,10 +23571,12 @@
     {
       "type": "wished_existed",
       "category": "playground missing trace context",
-      "count": 3,
+      "count": 5,
       "sources": {
         "langfuse/langfuse": 1,
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "comet-ml/opik": 1,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -21142,20 +23590,33 @@
         {
           "note": "wants View Trace link surfaced on failed Playground runs",
           "url": "https://github.com/Arize-ai/phoenix/issues/13130"
+        },
+        {
+          "note": "wants to replay Anthropic-format LLM spans directly into the playground",
+          "url": "https://github.com/comet-ml/opik/issues/3412"
+        },
+        {
+          "note": "Wants structured-output schema auto-copied from trace into playground",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/626"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "UI internationalization & translation",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "langfuse/langfuse": 1
+        "langfuse/langfuse": 1,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
           "note": "wants full i18n infrastructure + Chinese (zh-CN) UI translation",
           "url": "https://github.com/langfuse/langfuse/issues/12890"
+        },
+        {
+          "note": "wants unified i18n/translation infrastructure for the front-end",
+          "url": "https://github.com/comet-ml/opik/issues/3741"
         }
       ]
     },
@@ -21176,28 +23637,38 @@
     {
       "type": "wished_existed",
       "category": "session lifecycle handling gaps",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "AgentOps-AI/agentops": 1
       },
       "examples": [
         {
           "note": "wants graceful shutdown when local Jupyter server stops unexpectedly",
           "url": "https://github.com/Arize-ai/phoenix/issues/322"
+        },
+        {
+          "note": "crew.kickoff() success auto-ends session; developer can't opt out",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/198"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "session lifecycle handling gaps",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "AgentOps-AI/agentops": 1
       },
       "examples": [
         {
           "note": "empty iframe shown with no warning after session closes",
           "url": "https://github.com/Arize-ai/phoenix/issues/471"
+        },
+        {
+          "note": "init()/start_session() don't create or propagate session span correctly",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/894"
         }
       ]
     },
@@ -21234,9 +23705,11 @@
     {
       "type": "wished_existed",
       "category": "example code snippets in docs",
-      "count": 2,
+      "count": 9,
       "sources": {
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "AgentOps-AI/agentops": 3,
+        "comet-ml/opik": 4
       },
       "examples": [
         {
@@ -21246,6 +23719,22 @@
         {
           "note": "wants Ollama tutorial; hit rate limits/connection errors trying it",
           "url": "https://github.com/Arize-ai/phoenix/issues/5685"
+        },
+        {
+          "note": "wants a folder of runnable example code to augment docs",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/57"
+        },
+        {
+          "note": "wants sample AutoGen notebooks added to docs/examples",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/297"
+        },
+        {
+          "note": "wants MultiOn example notebooks added to docs",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/317"
+        },
+        {
+          "note": "no cookbook notebook for Google ADK integration",
+          "url": "https://github.com/comet-ml/opik/issues/2297"
         }
       ]
     },
@@ -21266,9 +23755,12 @@
     {
       "type": "wished_existed",
       "category": "confusing product documentation",
-      "count": 3,
+      "count": 7,
       "sources": {
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "AgentOps-AI/agentops": 1,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -21282,6 +23774,18 @@
         {
           "note": "wants RAG failure-mode taxonomy/checklist doc for debugging",
           "url": "https://github.com/Arize-ai/phoenix/issues/11472"
+        },
+        {
+          "note": "no docs for session creation and decorator usage",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/839"
+        },
+        {
+          "note": "wants REST API documented for non-Python SDK users",
+          "url": "https://github.com/comet-ml/opik/issues/319"
+        },
+        {
+          "note": "requests video tutorial, written eval docs hard to follow",
+          "url": "https://github.com/comet-ml/opik/issues/2456"
         }
       ]
     },
@@ -21348,14 +23852,23 @@
     {
       "type": "wished_existed",
       "category": "in-product onboarding tutorial",
-      "count": 1,
+      "count": 3,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 2
       },
       "examples": [
         {
           "note": "wants in-product tutorial aimed at first-time users",
           "url": "https://github.com/Arize-ai/phoenix/issues/568"
+        },
+        {
+          "note": "wants built-in toy/sample datasets to get started",
+          "url": "https://github.com/comet-ml/opik/issues/702"
+        },
+        {
+          "note": "demo chatbot project has no example Threads data",
+          "url": "https://github.com/comet-ml/opik/issues/3868"
         }
       ]
     },
@@ -21396,9 +23909,10 @@
     {
       "type": "wished_existed",
       "category": "broader dataframe type support",
-      "count": 6,
+      "count": 7,
       "sources": {
-        "Arize-ai/phoenix": 6
+        "Arize-ai/phoenix": 6,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
@@ -21430,9 +23944,13 @@
     {
       "type": "pain_point",
       "category": "broken tutorial code & links",
-      "count": 20,
+      "count": 40,
       "sources": {
-        "Arize-ai/phoenix": 20
+        "Arize-ai/phoenix": 20,
+        "AgentOps-AI/agentops": 5,
+        "Helicone/helicone": 4,
+        "comet-ml/opik": 5,
+        "langchain-ai/langsmith-sdk": 6
       },
       "examples": [
         {
@@ -21498,9 +24016,10 @@
     {
       "type": "wished_existed",
       "category": "runtime environment compatibility gaps",
-      "count": 3,
+      "count": 4,
       "sources": {
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -21514,6 +24033,10 @@
         {
           "note": "arize-phoenix fails to install on Python 3.14",
           "url": "https://github.com/Arize-ai/phoenix/issues/10001"
+        },
+        {
+          "note": "wants opt-out for multipart uploads in environments lacking chunked Transfer-Encoding",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/2886"
         }
       ]
     },
@@ -21606,9 +24129,11 @@
     {
       "type": "wished_existed",
       "category": "media rendering support gaps",
-      "count": 2,
+      "count": 7,
       "sources": {
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "comet-ml/opik": 4,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -21618,6 +24143,22 @@
         {
           "note": "image/generations endpoint output shown as base64 string, not rendered",
           "url": "https://github.com/Arize-ai/phoenix/issues/11994"
+        },
+        {
+          "note": "wants dataset image URLs rendered as images",
+          "url": "https://github.com/comet-ml/opik/issues/496"
+        },
+        {
+          "note": "wants multi-image support per trace, not just one",
+          "url": "https://github.com/comet-ml/opik/issues/538"
+        },
+        {
+          "note": "wants audio/PDF/video display, not just images",
+          "url": "https://github.com/comet-ml/opik/issues/567"
+        },
+        {
+          "note": "attachment preview doesn't support CSV files unlike other formats",
+          "url": "https://github.com/comet-ml/opik/issues/3447"
         }
       ]
     },
@@ -21666,9 +24207,10 @@
     {
       "type": "wished_existed",
       "category": "verbose debug logging option",
-      "count": 3,
+      "count": 4,
       "sources": {
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "AgentOps-AI/agentops": 1
       },
       "examples": [
         {
@@ -21682,29 +24224,39 @@
         {
           "note": "no verbose logging of the applied eval prompt template",
           "url": "https://github.com/Arize-ai/phoenix/issues/1480"
+        },
+        {
+          "note": "wants a -q/verbosity flag to control console log output",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/200"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "direct instrumentation without framework",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
           "note": "want direct OpenAI call tracing without adopting langchain/llama_index",
           "url": "https://github.com/Arize-ai/phoenix/issues/1524"
+        },
+        {
+          "note": "no clear way to trace a custom REST-based LLM wrapper",
+          "url": "https://github.com/comet-ml/opik/issues/1449"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "stale cache breaks UI",
-      "count": 3,
+      "count": 4,
       "sources": {
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "AgentOps-AI/agentops": 1
       },
       "examples": [
         {
@@ -21718,15 +24270,21 @@
         {
           "note": "playground output cells show stale data after switching dataset splits",
           "url": "https://github.com/Arize-ai/phoenix/issues/10870"
+        },
+        {
+          "note": "drill down page keeps showing previous session after refresh, not latest",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/167"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "spans logged to wrong project",
-      "count": 2,
+      "count": 5,
       "sources": {
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "comet-ml/opik": 2,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -21736,6 +24294,18 @@
         {
           "note": "evaluator traces don't land in their own project (TS)",
           "url": "https://github.com/Arize-ai/phoenix/issues/9549"
+        },
+        {
+          "note": "project_name in @track ignored during evaluate(), logs to Default",
+          "url": "https://github.com/comet-ml/opik/issues/420"
+        },
+        {
+          "note": "evaluate() ignores OPIK_PROJECT_NAME env var, logs to Default",
+          "url": "https://github.com/comet-ml/opik/issues/524"
+        },
+        {
+          "note": "project_name config merge bug resolves to undefined",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1773"
         }
       ]
     },
@@ -21802,9 +24372,11 @@
     {
       "type": "pain_point",
       "category": "trace search functionality gaps",
-      "count": 3,
+      "count": 5,
       "sources": {
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "comet-ml/opik": 1,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -21818,20 +24390,37 @@
         {
           "note": "Filtering traces by numeric metadata fails under Postgres backend",
           "url": "https://github.com/Arize-ai/phoenix/issues/6638"
+        },
+        {
+          "note": "cmd+f find doesn't work in large trace input/output views (~3000 lines)",
+          "url": "https://github.com/comet-ml/opik/issues/1688"
+        },
+        {
+          "note": "trace search fails \u2014 malformed SQL missing space between '1=1' and 'AND'",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/19"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "broken trace URL generation",
-      "count": 1,
+      "count": 3,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 2
       },
       "examples": [
         {
           "note": "wants API to construct a URL for a span/trace",
           "url": "https://github.com/Arize-ai/phoenix/issues/4291"
+        },
+        {
+          "note": "get_or_create_dataset logs indirect URL instead of direct project-scoped one",
+          "url": "https://github.com/comet-ml/opik/issues/7393"
+        },
+        {
+          "note": "evaluate() logs indirect experiment URL instead of direct workspace-scoped one",
+          "url": "https://github.com/comet-ml/opik/issues/7462"
         }
       ]
     },
@@ -21856,14 +24445,19 @@
     {
       "type": "pain_point",
       "category": "live trace streaming without restart",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
           "note": "eval results don't appear live, need manual refresh/click",
           "url": "https://github.com/Arize-ai/phoenix/issues/4389"
+        },
+        {
+          "note": "can't inspect LLM call data until trace fully completes",
+          "url": "https://github.com/comet-ml/opik/issues/1431"
         }
       ]
     },
@@ -21884,9 +24478,11 @@
     {
       "type": "wished_existed",
       "category": "raw span message format display",
-      "count": 4,
+      "count": 6,
       "sources": {
-        "Arize-ai/phoenix": 4
+        "Arize-ai/phoenix": 4,
+        "langchain-ai/langsmith-sdk": 1,
+        "lmnr-ai/lmnr": 1
       },
       "examples": [
         {
@@ -21904,6 +24500,14 @@
         {
           "note": "wants format/unescape button for stringified JSON in trace attributes",
           "url": "https://github.com/Arize-ai/phoenix/issues/10917"
+        },
+        {
+          "note": "wants to disable automatic Human/AI role message mapping",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1988"
+        },
+        {
+          "note": "Wants JSON as default input/output format instead of text",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/609"
         }
       ]
     },
@@ -21938,14 +24542,37 @@
     {
       "type": "wished_existed",
       "category": "python dependency version conflicts",
-      "count": 1,
+      "count": 6,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "AgentOps-AI/agentops": 3,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
           "note": "pyproject.toml doesn't yet support Python 3.13",
           "url": "https://github.com/Arize-ai/phoenix/issues/4621"
+        },
+        {
+          "note": "requests pinned to exactly 2.31.0 conflicts with deps needing 2.32+",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/432"
+        },
+        {
+          "note": "asks to relax strict pinned deps (psutil) blocking uv sync",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/481"
+        },
+        {
+          "note": "packaging==23.2 pin too strict, wants version range",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/555"
+        },
+        {
+          "note": "wants httpx pin relaxed above 0.27",
+          "url": "https://github.com/comet-ml/opik/issues/1155"
+        },
+        {
+          "note": "wants pydantic v2 upgrade for modern codebase compatibility",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/2029"
         }
       ]
     },
@@ -22002,14 +24629,19 @@
     {
       "type": "wished_existed",
       "category": "LLM-as-judge UI support",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
           "note": "Wants LLM-as-a-judge evaluation supported directly in the UI",
           "url": "https://github.com/Arize-ai/phoenix/issues/5330"
+        },
+        {
+          "note": "wants to view traces/LLM calls from LLM-as-judge evals",
+          "url": "https://github.com/comet-ml/opik/issues/632"
         }
       ]
     },
@@ -22044,9 +24676,11 @@
     {
       "type": "wished_existed",
       "category": "flexible time range selection",
-      "count": 5,
+      "count": 9,
       "sources": {
-        "Arize-ai/phoenix": 5
+        "Arize-ai/phoenix": 5,
+        "Helicone/helicone": 3,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
@@ -22068,6 +24702,10 @@
         {
           "note": "wants user-defined custom time range presets",
           "url": "https://github.com/Arize-ai/phoenix/issues/13192"
+        },
+        {
+          "note": "Only fixed presets (1hr/24hr/7d/1mo/3mo); wants dynamic custom ranges",
+          "url": "https://github.com/Helicone/helicone/issues/33"
         }
       ]
     },
@@ -22088,9 +24726,12 @@
     {
       "type": "wished_existed",
       "category": "third-party platform integrations",
-      "count": 2,
+      "count": 6,
       "sources": {
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "Helicone/helicone": 1,
+        "comet-ml/opik": 1,
+        "lmnr-ai/lmnr": 2
       },
       "examples": [
         {
@@ -22100,6 +24741,22 @@
         {
           "note": "Proposes integrating UQLM uncertainty/confidence scoring library for hallucination risk",
           "url": "https://github.com/Arize-ai/phoenix/issues/9067"
+        },
+        {
+          "note": "wants KaibanJS multi-agent workflow visualization integration",
+          "url": "https://github.com/Helicone/helicone/issues/3128"
+        },
+        {
+          "note": "requests native n8n workflow integration",
+          "url": "https://github.com/comet-ml/opik/issues/1587"
+        },
+        {
+          "note": "wants to sync self-hosted OTel data to Datadog for hybrid tracing",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/16"
+        },
+        {
+          "note": "wants to connect self-hosted Signoz to ingest Laminar traces/logs",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/28"
         }
       ]
     },
@@ -22194,9 +24851,12 @@
     {
       "type": "wished_existed",
       "category": "playground functionality gaps",
-      "count": 6,
+      "count": 16,
       "sources": {
-        "Arize-ai/phoenix": 6
+        "Arize-ai/phoenix": 6,
+        "Helicone/helicone": 1,
+        "comet-ml/opik": 4,
+        "langchain-ai/langsmith-sdk": 5
       },
       "examples": [
         {
@@ -22228,14 +24888,23 @@
     {
       "type": "wished_existed",
       "category": "data export functionality broken",
-      "count": 1,
+      "count": 3,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 2
       },
       "examples": [
         {
           "note": "Wants to export trace data and datasets from the UI",
           "url": "https://github.com/Arize-ai/phoenix/issues/6332"
+        },
+        {
+          "note": "wants CSV export for traces and LLM call records",
+          "url": "https://github.com/comet-ml/opik/issues/458"
+        },
+        {
+          "note": "wants JSON export option, CSV mishandles nested data",
+          "url": "https://github.com/comet-ml/opik/issues/756"
         }
       ]
     },
@@ -22256,9 +24925,10 @@
     {
       "type": "pain_point",
       "category": "false positive error alerts",
-      "count": 3,
+      "count": 4,
       "sources": {
-        "Arize-ai/phoenix": 3
+        "Arize-ai/phoenix": 3,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -22272,6 +24942,10 @@
         {
           "note": "creating a prompt tag succeeds but UI shows a BadRequest error",
           "url": "https://github.com/Arize-ai/phoenix/issues/6795"
+        },
+        {
+          "note": "create_react_agent trace always shows error despite success",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/522"
         }
       ]
     },
@@ -22348,28 +25022,42 @@
     {
       "type": "wished_existed",
       "category": "custom dashboard builder",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
           "note": "wants configurable custom dashboards for traces, cost, latency, evals",
           "url": "https://github.com/Arize-ai/phoenix/issues/7686"
+        },
+        {
+          "note": "Wants custom visualizations via matplotlib/plotly on metrics",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/300"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "custom provider model name tracking",
-      "count": 1,
+      "count": 3,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 2
       },
       "examples": [
         {
           "note": "Custom provider traces still labeled 'openai'; wants real model name",
           "url": "https://github.com/Arize-ai/phoenix/issues/7939"
+        },
+        {
+          "note": "DSPy+OpenRouter preset stores alias like '@preset/qwen' as model name",
+          "url": "https://github.com/comet-ml/opik/issues/4504"
+        },
+        {
+          "note": "ChatOpenAI via OpenRouter preset hides the real upstream provider",
+          "url": "https://github.com/comet-ml/opik/issues/4506"
         }
       ]
     },
@@ -22390,9 +25078,11 @@
     {
       "type": "wished_existed",
       "category": "playground configuration options",
-      "count": 2,
+      "count": 4,
       "sources": {
-        "Arize-ai/phoenix": 2
+        "Arize-ai/phoenix": 2,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
@@ -22402,6 +25092,14 @@
         {
           "note": "wants env var to set default playground model/provider",
           "url": "https://github.com/Arize-ai/phoenix/issues/13125"
+        },
+        {
+          "note": "wants higher max completion tokens limit in OpenAI provider config",
+          "url": "https://github.com/comet-ml/opik/issues/3051"
+        },
+        {
+          "note": "wants Gemini/VertexAI safety settings configurable in playground",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1484"
         }
       ]
     },
@@ -22464,14 +25162,19 @@
     {
       "type": "wished_existed",
       "category": "session attribute filtering gaps",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "Helicone/helicone": 1
       },
       "examples": [
         {
           "note": "can't filter sessions by metadata attribute via GraphQL API",
           "url": "https://github.com/Arize-ai/phoenix/issues/8627"
+        },
+        {
+          "note": "wants custom property filters on the dashboard",
+          "url": "https://github.com/Helicone/helicone/issues/951"
         }
       ]
     },
@@ -22510,14 +25213,23 @@
     {
       "type": "wished_existed",
       "category": "disabling tracing doesn't work",
-      "count": 1,
+      "count": 3,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 2
       },
       "examples": [
         {
           "note": "wants to disable tracing for specific calls e.g. embeddings",
           "url": "https://github.com/Arize-ai/phoenix/issues/8907"
+        },
+        {
+          "note": "wants SDK flag to disable logging without removing decorators",
+          "url": "https://github.com/comet-ml/opik/issues/963"
+        },
+        {
+          "note": "TypeScript SDK lacks an OPIK_TRACK_DISABLE equivalent to disable tracking",
+          "url": "https://github.com/comet-ml/opik/issues/7000"
         }
       ]
     },
@@ -22556,56 +25268,98 @@
     {
       "type": "pain_point",
       "category": "dataset upload/import bugs",
-      "count": 1,
+      "count": 3,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
           "note": "Uploading dataset with a List field now throws Internal Server Error",
           "url": "https://github.com/Arize-ai/phoenix/issues/9121"
+        },
+        {
+          "note": "dataset.insert() errors on null input, following docs exactly",
+          "url": "https://github.com/comet-ml/opik/issues/478"
+        },
+        {
+          "note": "CSV dataset upload fails with network/SSL error",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/529"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "silent failure without validation",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
           "note": "Failed span ingestion gives no user notification; must check server log",
           "url": "https://github.com/Arize-ai/phoenix/issues/9138"
+        },
+        {
+          "note": "want error raised for nonexistent split name, not silently ignored",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/855"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "experiment results export",
-      "count": 1,
+      "count": 7,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 4,
+        "langchain-ai/langsmith-sdk": 2
       },
       "examples": [
         {
           "note": "wants bulk export of experiment results for external dashboards",
           "url": "https://github.com/Arize-ai/phoenix/issues/9294"
+        },
+        {
+          "note": "wants client.get_experiment to retrieve outputs programmatically",
+          "url": "https://github.com/comet-ml/opik/issues/851"
+        },
+        {
+          "note": "wants CSV/JSON export for specific experiments",
+          "url": "https://github.com/comet-ml/opik/issues/1205"
+        },
+        {
+          "note": "wants to export experiment items including the reasons field",
+          "url": "https://github.com/comet-ml/opik/issues/1326"
+        },
+        {
+          "note": "wants CSV export from the Compare Experiments table view",
+          "url": "https://github.com/comet-ml/opik/issues/1511"
+        },
+        {
+          "note": "Wants test/experiment results exportable to CSV",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/537"
         }
       ]
     },
     {
       "type": "pain_point",
       "category": "documentation site inaccessible",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "AgentOps-AI/agentops": 1
       },
       "examples": [
         {
           "note": "Cannot access any documentation page, error in every browser",
           "url": "https://github.com/Arize-ai/phoenix/issues/9653"
+        },
+        {
+          "note": "docs site search bar missing on Mintlify",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/698"
         }
       ]
     },
@@ -22654,42 +25408,62 @@
     {
       "type": "wished_existed",
       "category": "structured output display in traces",
-      "count": 1,
+      "count": 3,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "Helicone/helicone": 1,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
           "note": "Wants dedicated display for structured outputs, not just text/md",
           "url": "https://github.com/Arize-ai/phoenix/issues/10260"
+        },
+        {
+          "note": "Function-call data doesn't show in the logged response view",
+          "url": "https://github.com/Helicone/helicone/issues/505"
+        },
+        {
+          "note": "Pretty format not auto-detected when response nested under other keys",
+          "url": "https://github.com/comet-ml/opik/issues/1577"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "custom visual artifact logging",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "AgentOps-AI/agentops": 1
       },
       "examples": [
         {
           "note": "Wants to attach custom plots/charts to experiment runs",
           "url": "https://github.com/Arize-ai/phoenix/issues/10349"
+        },
+        {
+          "note": "want to attach screenshots/video recordings to browser-agent sessions",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/51"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "evaluator input mapping UX",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
           "note": "Wants autocomplete for evaluator input mapping keys based on typed args",
           "url": "https://github.com/Arize-ai/phoenix/issues/10378"
+        },
+        {
+          "note": "custom eval metric can't read full trace input/output",
+          "url": "https://github.com/comet-ml/opik/issues/2763"
         }
       ]
     },
@@ -22710,28 +25484,53 @@
     {
       "type": "wished_existed",
       "category": "multi-tenant data isolation",
-      "count": 1,
+      "count": 2,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "comet-ml/opik": 1
       },
       "examples": [
         {
           "note": "Wants group-based tenant data isolation so teams can't see each other's traces",
           "url": "https://github.com/Arize-ai/phoenix/issues/10504"
+        },
+        {
+          "note": "wants per-team/per-user private workspaces and access control on self-hosted instance",
+          "url": "https://github.com/comet-ml/opik/issues/3327"
         }
       ]
     },
     {
       "type": "wished_existed",
       "category": "alerting on trace conditions",
-      "count": 1,
+      "count": 5,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "AgentOps-AI/agentops": 1,
+        "Helicone/helicone": 1,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
           "note": "Wants Slack/email alerts triggered by time-windowed conditions on traces",
           "url": "https://github.com/Arize-ai/phoenix/issues/10747"
+        },
+        {
+          "note": "wants email/SMS notifications for session events and cost-threshold breaches",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/253"
+        },
+        {
+          "note": "Wants email notification when app errors or OpenAI is down",
+          "url": "https://github.com/Helicone/helicone/issues/218"
+        },
+        {
+          "note": "wants threshold-based alerts when traces get low evaluation scores",
+          "url": "https://github.com/comet-ml/opik/issues/4015"
+        },
+        {
+          "note": "wants per-instance error alerts, not just duration thresholds",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/2226"
         }
       ]
     },
@@ -22788,14 +25587,29 @@
     {
       "type": "pain_point",
       "category": "SDK import side effects",
-      "count": 1,
+      "count": 4,
       "sources": {
-        "Arize-ai/phoenix": 1
+        "Arize-ai/phoenix": 1,
+        "AgentOps-AI/agentops": 1,
+        "comet-ml/opik": 1,
+        "langchain-ai/langsmith-sdk": 1
       },
       "examples": [
         {
           "note": "importing phoenix silently sets sys.setrecursionlimit from 1000 to 3000",
           "url": "https://github.com/Arize-ai/phoenix/issues/11281"
+        },
+        {
+          "note": "agentops writes an unrequested agentops.log file to disk",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/350"
+        },
+        {
+          "note": "importing opik interferes with uvloop, causing DNS resolution errors",
+          "url": "https://github.com/comet-ml/opik/issues/4285"
+        },
+        {
+          "note": "RunTree ReferenceError from ESM import in JS SDK",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1719"
         }
       ]
     },
@@ -22824,6 +25638,777 @@
         {
           "note": "wants human-readable session URLs instead of opaque node IDs",
           "url": "https://github.com/Arize-ai/phoenix/issues/12607"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "SDK hangs on exit",
+      "count": 3,
+      "sources": {
+        "AgentOps-AI/agentops": 3
+      },
+      "examples": [
+        {
+          "note": "script exiting prematurely leaves process hanging, events never sent",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/15"
+        },
+        {
+          "note": "atexit handling broken, simple decorated script hangs instead of exiting",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/18"
+        },
+        {
+          "note": "program hangs unless Client.end_session is explicitly called",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/37"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "traces don't explain failures",
+      "count": 2,
+      "sources": {
+        "AgentOps-AI/agentops": 2
+      },
+      "examples": [
+        {
+          "note": "failed events show red/orange status only, no traceback of cause",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/26"
+        },
+        {
+          "note": "no session-level field records why a session failed, needs drill-down",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/67"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "agent discovery protocol support",
+      "count": 1,
+      "sources": {
+        "AgentOps-AI/agentops": 1
+      },
+      "examples": [
+        {
+          "note": "Wants support for .well-known agent-discovery.json standard",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/1334"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "observability overhead at scale",
+      "count": 1,
+      "sources": {
+        "AgentOps-AI/agentops": 1
+      },
+      "examples": [
+        {
+          "note": "Wants token-efficient serialization to cut observability overhead and cost",
+          "url": "https://github.com/AgentOps-AI/agentops/issues/1338"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "automated response anomaly detection",
+      "count": 1,
+      "sources": {
+        "Helicone/helicone": 1
+      },
+      "examples": [
+        {
+          "note": "Wants automatic flagging of empty, repetitive, or offensive LLM output",
+          "url": "https://github.com/Helicone/helicone/issues/219"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "browser CORS support",
+      "count": 1,
+      "sources": {
+        "Helicone/helicone": 1
+      },
+      "examples": [
+        {
+          "note": "Wants CORS enabled so Helicone can be called from a browser",
+          "url": "https://github.com/Helicone/helicone/issues/274"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "prompt injection detection",
+      "count": 1,
+      "sources": {
+        "Helicone/helicone": 1
+      },
+      "examples": [
+        {
+          "note": "Wants similarity-score based prompt-injection detection and alerting",
+          "url": "https://github.com/Helicone/helicone/issues/288"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "cache behavior & control gaps",
+      "count": 4,
+      "sources": {
+        "Helicone/helicone": 3,
+        "langchain-ai/langsmith-sdk": 1
+      },
+      "examples": [
+        {
+          "note": "Cache unexpectedly invalidated by dynamic user-property headers",
+          "url": "https://github.com/Helicone/helicone/issues/311"
+        },
+        {
+          "note": "Wants caching support extended to streamed requests",
+          "url": "https://github.com/Helicone/helicone/issues/808"
+        },
+        {
+          "note": "Wants a manual cache-purge control in the dashboard",
+          "url": "https://github.com/Helicone/helicone/issues/859"
+        },
+        {
+          "note": "wants PostgreSQL as a supported cache backend",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1600"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "loss of trace visibility",
+      "count": 1,
+      "sources": {
+        "Helicone/helicone": 1
+      },
+      "examples": [
+        {
+          "note": "Wants failed requests shown in UI with full request/response detail",
+          "url": "https://github.com/Helicone/helicone/issues/463"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "hosted proxy reliability issues",
+      "count": 2,
+      "sources": {
+        "Helicone/helicone": 2
+      },
+      "examples": [
+        {
+          "note": "Hosted proxy returns Cloudflare 523 unreachable-origin error out of the box",
+          "url": "https://github.com/Helicone/helicone/issues/510"
+        },
+        {
+          "note": "Hosted proxy times out (522) when api_base set two conflicting ways",
+          "url": "https://github.com/Helicone/helicone/issues/798"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "retry & backoff handling",
+      "count": 2,
+      "sources": {
+        "Helicone/helicone": 1,
+        "langchain-ai/langsmith-sdk": 1
+      },
+      "examples": [
+        {
+          "note": "Wants smarter backoff honoring rate-limit-reset header, not naive retry",
+          "url": "https://github.com/Helicone/helicone/issues/570"
+        },
+        {
+          "note": "wants Retry-After header published on rate limit responses",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/2032"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "streamed response chunk corruption",
+      "count": 2,
+      "sources": {
+        "Helicone/helicone": 2
+      },
+      "examples": [
+        {
+          "note": "Streamed OpenAI chunks frequently arrive truncated, cut in half",
+          "url": "https://github.com/Helicone/helicone/issues/678"
+        },
+        {
+          "note": "Stream chunk merge algorithm for split chunks is unreliable, cause unknown",
+          "url": "https://github.com/Helicone/helicone/issues/731"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "automatic model routing",
+      "count": 1,
+      "sources": {
+        "Helicone/helicone": 1
+      },
+      "examples": [
+        {
+          "note": "Wants automatic model selection based on request context size",
+          "url": "https://github.com/Helicone/helicone/issues/719"
+        }
+      ]
+    },
+    {
+      "type": "use_case",
+      "category": "usage-based billing implementation",
+      "count": 1,
+      "sources": {
+        "Helicone/helicone": 1
+      },
+      "examples": [
+        {
+          "note": "Building usage-based billing to their own end-users atop Helicone tracking",
+          "url": "https://github.com/Helicone/helicone/issues/844"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "cache entry deletion control",
+      "count": 1,
+      "sources": {
+        "Helicone/helicone": 1
+      },
+      "examples": [
+        {
+          "note": "wants to manually delete a specific cached request",
+          "url": "https://github.com/Helicone/helicone/issues/1667"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "rate limiting doesn't work",
+      "count": 1,
+      "sources": {
+        "Helicone/helicone": 1
+      },
+      "examples": [
+        {
+          "note": "custom rate limit policy configured but not enforced",
+          "url": "https://github.com/Helicone/helicone/issues/2217"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "model metadata coverage gaps",
+      "count": 1,
+      "sources": {
+        "Helicone/helicone": 1
+      },
+      "examples": [
+        {
+          "note": "model cost repo lacks max context window size per model",
+          "url": "https://github.com/Helicone/helicone/issues/2840"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "dark theme support",
+      "count": 2,
+      "sources": {
+        "Helicone/helicone": 1,
+        "lmnr-ai/lmnr": 1
+      },
+      "examples": [
+        {
+          "note": "wants dark theme for the marketing website",
+          "url": "https://github.com/Helicone/helicone/issues/2982"
+        },
+        {
+          "note": "Wants light mode UI option (currently dark-only)",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/663"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "native MCP server feature gaps",
+      "count": 1,
+      "sources": {
+        "Helicone/helicone": 1
+      },
+      "examples": [
+        {
+          "note": "MCP server rejects complex filter/sort params sent as JSON strings",
+          "url": "https://github.com/Helicone/helicone/issues/5610"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "data deletion failures",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "wants ability to delete/clean the Default Project",
+          "url": "https://github.com/comet-ml/opik/issues/638"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "no-op mode without server",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "wants opik calls to no-op gracefully during gradual team rollout",
+          "url": "https://github.com/comet-ml/opik/issues/1169"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "source code linked to traces",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "wants source code auto-logged alongside traces",
+          "url": "https://github.com/comet-ml/opik/issues/1229"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "interactive prompt blocks automation",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "local-instance Y/n confirmation prompt breaks automated test runs",
+          "url": "https://github.com/comet-ml/opik/issues/1287"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "granular usage & cost tracking",
+      "count": 2,
+      "sources": {
+        "comet-ml/opik": 2
+      },
+      "examples": [
+        {
+          "note": "token usage not captured for LLM calls outside built-in integrations",
+          "url": "https://github.com/comet-ml/opik/issues/1636"
+        },
+        {
+          "note": "track_openai doesn't auto-capture token usage for structured outputs/responses API",
+          "url": "https://github.com/comet-ml/opik/issues/1964"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "IDE integration & extensions",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "wants a VSCode extension for local model usage",
+          "url": "https://github.com/comet-ml/opik/issues/2656"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "stale job status display",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "Optimizer runs stay shown as 'running' after being stopped, no auto-expire",
+          "url": "https://github.com/comet-ml/opik/issues/3218"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "trace pretty-mode display gaps",
+      "count": 4,
+      "sources": {
+        "comet-ml/opik": 4
+      },
+      "examples": [
+        {
+          "note": "pretty mode only shows the last OpenAI message; wants all shown",
+          "url": "https://github.com/comet-ml/opik/issues/3413"
+        },
+        {
+          "note": "pretty mode collapses multi-message traces to the last message only",
+          "url": "https://github.com/comet-ml/opik/issues/3414"
+        },
+        {
+          "note": "wants pretty mode to show all Anthropic-format messages, not just last",
+          "url": "https://github.com/comet-ml/opik/issues/3415"
+        },
+        {
+          "note": "wants pretty mode to show all AI SDK format messages too",
+          "url": "https://github.com/comet-ml/opik/issues/3416"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "wrong default model parameters",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "default temperature for GPT-5/O-series reasoning models should be 1.0, isn't",
+          "url": "https://github.com/comet-ml/opik/issues/3484"
+        }
+      ]
+    },
+    {
+      "type": "use_case",
+      "category": "multi-framework tracing composition",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "traces a LangGraph graph with DSPy modules as nodes via Opik",
+          "url": "https://github.com/comet-ml/opik/issues/3684"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "manual experiment entry support",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "wants custom model names and manual annotation without real API calls",
+          "url": "https://github.com/comet-ml/opik/issues/3732"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "optimizer result selection control",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "wants SDK control over which optimizer trial UI marks best",
+          "url": "https://github.com/comet-ml/opik/issues/3870"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "large payload UI truncation",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "online evaluator UI truncates long input/output text, breaking JSON view",
+          "url": "https://github.com/comet-ml/opik/issues/3999"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "optimizer dataset split support",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "Optimizer SDK lacks built-in train/test dataset split, risks overfitting",
+          "url": "https://github.com/comet-ml/opik/issues/4080"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "optimizer configuration bugs",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "MetaPromptOptimizer drops model config on round 2+, causing RateLimitError",
+          "url": "https://github.com/comet-ml/opik/issues/4225"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "thread grouping & attribution bugs",
+      "count": 2,
+      "sources": {
+        "comet-ml/opik": 2
+      },
+      "examples": [
+        {
+          "note": "Conversations with distinct thread_ids from LangChain metadata all merge together",
+          "url": "https://github.com/comet-ml/opik/issues/4767"
+        },
+        {
+          "note": "Traces from other threads intermittently appear inside unrelated thread view",
+          "url": "https://github.com/comet-ml/opik/issues/4794"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "dependency version conflicts",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "opik-langchain peer dependency rejects @langchain/core v1, pins to 0.3.x",
+          "url": "https://github.com/comet-ml/opik/issues/5453"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "hardcoded credentials in deployment config",
+      "count": 1,
+      "sources": {
+        "comet-ml/opik": 1
+      },
+      "examples": [
+        {
+          "note": "Helm values.yaml hardcodes a database password in plain text",
+          "url": "https://github.com/comet-ml/opik/issues/5596"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "playground multimodal support",
+      "count": 1,
+      "sources": {
+        "langchain-ai/langsmith-sdk": 1
+      },
+      "examples": [
+        {
+          "note": "Playground errors on base64 images for OpenAI and Anthropic",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/610"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "SDK performance & resource issues",
+      "count": 2,
+      "sources": {
+        "langchain-ai/langsmith-sdk": 2
+      },
+      "examples": [
+        {
+          "note": "want async atrace to avoid blocking main thread with serialization",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/882"
+        },
+        {
+          "note": "wants protobuf instead of ndjson for trace streaming",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/2294"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "deployment build staleness",
+      "count": 1,
+      "sources": {
+        "langchain-ai/langsmith-sdk": 1
+      },
+      "examples": [
+        {
+          "note": "LangGraph hosted deployment keeps running a stale build's code",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1123"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "cache behavior & control gaps",
+      "count": 1,
+      "sources": {
+        "langchain-ai/langsmith-sdk": 1
+      },
+      "examples": [
+        {
+          "note": "SDK test-cache stores AWS SSO credential calls, breaks token refresh",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1507"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "dark theme support",
+      "count": 2,
+      "sources": {
+        "langchain-ai/langsmith-sdk": 2
+      },
+      "examples": [
+        {
+          "note": "billing ledger hover text unreadable (white-on-white) in dark theme",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1517"
+        },
+        {
+          "note": "API docs 'Optional' label invisible in dark theme",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1562"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "iframe embedding support",
+      "count": 1,
+      "sources": {
+        "langchain-ai/langsmith-sdk": 1
+      },
+      "examples": [
+        {
+          "note": "wants to embed LangSmith traces via iframe; blocked by CSP",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1731"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "cloud deployment failures",
+      "count": 1,
+      "sources": {
+        "langchain-ai/langsmith-sdk": 1
+      },
+      "examples": [
+        {
+          "note": "cloud deployment revision fails with ASGI application exception",
+          "url": "https://github.com/langchain-ai/langsmith-sdk/issues/1806"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "plaintext credential storage",
+      "count": 1,
+      "sources": {
+        "lmnr-ai/lmnr": 1
+      },
+      "examples": [
+        {
+          "note": "project API keys stored unhashed in database",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/40"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "background job execution support",
+      "count": 1,
+      "sources": {
+        "lmnr-ai/lmnr": 1
+      },
+      "examples": [
+        {
+          "note": "network cuts connections after 350s, breaking long pipeline runs",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/154"
+        }
+      ]
+    },
+    {
+      "type": "wished_existed",
+      "category": "data export format options",
+      "count": 1,
+      "sources": {
+        "lmnr-ai/lmnr": 1
+      },
+      "examples": [
+        {
+          "note": "wants both CSV and JSON download options for evals and datasets",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/268"
+        }
+      ]
+    },
+    {
+      "type": "use_case",
+      "category": "direct instrumentation without framework",
+      "count": 1,
+      "sources": {
+        "lmnr-ai/lmnr": 1
+      },
+      "examples": [
+        {
+          "note": "hand-writes raw OpenTelemetry Rust code to send spans, no Rust SDK",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/425"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "browser CORS support",
+      "count": 1,
+      "sources": {
+        "lmnr-ai/lmnr": 1
+      },
+      "examples": [
+        {
+          "note": "Self-hosted: CORS blocks access from other devices on subnet",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/774"
+        }
+      ]
+    },
+    {
+      "type": "pain_point",
+      "category": "missing API authorization checks",
+      "count": 1,
+      "sources": {
+        "lmnr-ai/lmnr": 1
+      },
+      "examples": [
+        {
+          "note": "Project API routes lack auth checks; any UUID grants full access",
+          "url": "https://github.com/lmnr-ai/lmnr/issues/1264"
         }
       ]
     }
